@@ -10,11 +10,11 @@ Welcome to the SEIR125 Class Wiki. This repository is a place where all course c
 #### Repos
 | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
 |---|---|---|---|---|
-| [Mac Installfest](https://github.com/SEI-R-1-25/InstallFest_Mac)  | [Github Lesson](https://github.com/SEI-R-1-25/u1_lesson_github)  | []()  | []()  | []()  |
-| [Windows Installfest](https://github.com/SEI-R-1-25/Installfest_Windows)  | [Intro to HTML](https://github.com/SEI-R-1-25/u1_lesson_intro_HTML)  | []()  | []()  | []()  |
-| [Terminal Lesson](https://github.com/SEI-R-1-25/u1_lesson_terminal)  | [Intro to CSS](https://github.com/SEI-R-1-25/u1_lesson_intro_CSS)  | []()  | []()  | []()  |
-| [Git Lesson](https://github.com/SEI-R-1-25/u1_lesson_git)  | [Markdown Lesson](https://github.com/SEI-R-1-25/u1_lesson_markdown)  | []()  | []()  | []()  |
-| [VS Code Lesson](https://github.com/SEI-R-1-25/u1_lesson_VSCode)  | [HTML / CSS Lab](https://github.com/SEI-R-1-25/u1_lab_html_css_exercise)  | []()  | []()  | []()  |
+| [Mac Installfest](https://github.com/SEI-R-1-25/InstallFest_Mac)  | [Github Lesson](https://github.com/SEI-R-1-25/u1_lesson_github)  | [Flexbox / Grid](https://github.com/SEI-R-1-25/u1_lesson_flex_grid/blob/main/README.md)  | []()  | []()  |
+| [Windows Installfest](https://github.com/SEI-R-1-25/Installfest_Windows)  | [Intro to HTML](https://github.com/SEI-R-1-25/u1_lesson_intro_HTML)  | [JS Datatypes](https://github.com/SEI-R-1-25/u1_lesson_js_data_types)  | []()  | []()  |
+| [Terminal Lesson](https://github.com/SEI-R-1-25/u1_lesson_terminal)  | [Intro to CSS](https://github.com/SEI-R-1-25/u1_lesson_intro_CSS)  | [JS Arrays](https://github.com/SEI-R-1-25/u1_lesson_js_arrays)  | []()  | []()  |
+| [Git Lesson](https://github.com/SEI-R-1-25/u1_lesson_git)  | [Markdown Lesson](https://github.com/SEI-R-1-25/u1_lesson_markdown)  | [JS Loops & Control Flow](https://github.com/SEI-R-1-25/u1_lesson_js_control_flow)  | []()  | []()  |
+| [VS Code Lesson](https://github.com/SEI-R-1-25/u1_lesson_VSCode)  | [HTML / CSS Lab](https://github.com/SEI-R-1-25/u1_lab_html_css_exercise)  | [Control Flow Adventure](https://github.com/SEI-R-1-25/u1_hw_control_flow_adventure)  | []()  | []()  |
 | [Terminal Lab](https://github.com/SEI-R-1-25/u1_lab_git_practice)  | [Markdown Homework](https://github.com/SEI-R-1-25/u1_hw_markdown)  |   |   |   |
 | [Star Wars Homework](https://github.com/SEI-R-1-25/u1_hw_star_wars)  |   |   |   |   |
 |   |   |   |   |   |
