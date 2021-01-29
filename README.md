@@ -21,5 +21,5 @@ Welcome to the SEIR125 Class Wiki. This repository is a place where all course c
 #### Class Recordings
 | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
 |---|---|---|---|---|
-| [Link](https://generalassembly.zoom.us/rec/share/cuppGd8LGCZvNQZEUjs65PSO4P92t9Pm2br3QCg1Rw_UGPkACY8cBz6WkAfMFcby.FpgtJwRn36IK0rv4)  | [Link](https://generalassembly.zoom.us/rec/share/ZkhRcd8pU4aiAx9b0HQWxXr6XmrMlijc6QC7K2L8eZxYzt1Jkz0U2u0nQaccdG5s.xx6OyiwyvRw912eh)  | [Link](https://generalassembly.zoom.us/rec/share/-lnFJEnqXhqWzuG9SL-1VSm4pFzeo4oEDrhGWlESF6AoCqQp72am1DM8x-sxKrCJ.uI5D4lkuFdT9iWIe)  | [Link](https://generalassembly.zoom.us/rec/share/2q6_CqMjN-tYSQgRL6YUtlgrc9uCCAjUHAMksQNJlHuQ4nyo6tPTHcUqq_r1Xs1G.HMxMszVD-fEaGh43)  |   |
-| Passcode: `PF6W+7K1`  | Passcode: `TG7l0t5*`  | Passcode: `3&E3HWiv`  | Passcode: `4V^8=JKt`  |   |
+| [Recording Link](https://generalassembly.zoom.us/rec/share/cuppGd8LGCZvNQZEUjs65PSO4P92t9Pm2br3QCg1Rw_UGPkACY8cBz6WkAfMFcby.FpgtJwRn36IK0rv4)  | [Recording Link](https://generalassembly.zoom.us/rec/share/ZkhRcd8pU4aiAx9b0HQWxXr6XmrMlijc6QC7K2L8eZxYzt1Jkz0U2u0nQaccdG5s.xx6OyiwyvRw912eh)  | [Recording Link](https://generalassembly.zoom.us/rec/share/-lnFJEnqXhqWzuG9SL-1VSm4pFzeo4oEDrhGWlESF6AoCqQp72am1DM8x-sxKrCJ.uI5D4lkuFdT9iWIe)  | [Recording Link](https://generalassembly.zoom.us/rec/share/2q6_CqMjN-tYSQgRL6YUtlgrc9uCCAjUHAMksQNJlHuQ4nyo6tPTHcUqq_r1Xs1G.HMxMszVD-fEaGh43)  | [Recording Link]()  |
+| Passcode: `PF6W+7K1`  | Passcode: `TG7l0t5*`  | Passcode: `3&E3HWiv`  | Passcode: `4V^8=JKt`  | Passcode:   |
