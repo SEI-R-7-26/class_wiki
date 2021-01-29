@@ -10,12 +10,12 @@ Welcome to the SEIR125 Class Wiki. This repository is a place where all course c
 #### Repos
 | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
 |---|---|---|---|---|
-| [Mac Installfest](https://github.com/SEI-R-1-25/InstallFest_Mac)  |   |   |   |   |
-| [Windows Installfest](https://github.com/SEI-R-1-25/Installfest_Windows)  |   |   |   |   |
-| [Terminal Lesson](https://github.com/SEI-R-1-25/u1_lesson_terminal)  |   |   |   |   |
-| [Git Lesson](https://github.com/SEI-R-1-25/u1_lesson_git)  |   |   |   |   |
-| [VS Code Lesson](https://github.com/SEI-R-1-25/u1_lesson_VSCode)  |   |   |   |   |
-| [Terminal Lab](https://github.com/SEI-R-1-25/u1_lab_git_practice)  |   |   |   |   |
+| [Mac Installfest](https://github.com/SEI-R-1-25/InstallFest_Mac)  | [Github Lesson](https://github.com/SEI-R-1-25/u1_lesson_github)  | []()  | []()  | []()  |
+| [Windows Installfest](https://github.com/SEI-R-1-25/Installfest_Windows)  | [Intro to HTML](https://github.com/SEI-R-1-25/u1_lesson_intro_HTML)  | []()  | []()  | []()  |
+| [Terminal Lesson](https://github.com/SEI-R-1-25/u1_lesson_terminal)  | [Intro to CSS](https://github.com/SEI-R-1-25/u1_lesson_intro_CSS)  | []()  | []()  | []()  |
+| [Git Lesson](https://github.com/SEI-R-1-25/u1_lesson_git)  | [Markdown Lesson](https://github.com/SEI-R-1-25/u1_lesson_markdown)  | []()  | []()  | []()  |
+| [VS Code Lesson](https://github.com/SEI-R-1-25/u1_lesson_VSCode)  | [HTML / CSS Lab](https://github.com/SEI-R-1-25/u1_lab_html_css_exercise)  | []()  | []()  | []()  |
+| [Terminal Lab](https://github.com/SEI-R-1-25/u1_lab_git_practice)  | [Markdown Homework](https://github.com/SEI-R-1-25/u1_hw_markdown)  |   |   |   |
 | [Star Wars Homework](https://github.com/SEI-R-1-25/u1_hw_star_wars)  |   |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
