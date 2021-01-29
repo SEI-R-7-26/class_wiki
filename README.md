@@ -16,4 +16,4 @@ Welcome to the SEIR125 Class Wiki. This repository is a place where all course c
 - [Star Wars Homework](https://github.com/SEI-R-1-25/u1_hw_star_wars)
 #### Class Recording
 - [Link](https://generalassembly.zoom.us/rec/share/cuppGd8LGCZvNQZEUjs65PSO4P92t9Pm2br3QCg1Rw_UGPkACY8cBz6WkAfMFcby.FpgtJwRn36IK0rv4)
-- Access Passcode: PF6W+7K1
+- Passcode: `PF6W+7K1`
