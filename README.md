@@ -6,6 +6,7 @@ Welcome to the SEIR125 Class Wiki. This repository is a place where all course c
 
 # Unit 1
 ## Week 1
+In Week 1, we reviewed the fundamental concepts of `HTML`, `CSS`, and `JavaScript` along with introducing `git` workflow, `terminal` commands, and writing professional `markdown` files. 
 
 #### Repos
 | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
