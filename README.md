@@ -9,17 +9,17 @@ Daily Javascript Challenges can be found [here](https://github.com/SEI-R-1-25/da
 
 # Unit 1
 ## Week 2
-In Week 2 we practiced more `DOM Manipulation` along with `Higher Order Functions`, were introduced to [Daily JavaScript Challenges](https://github.com/SEI-R-1-25/daily_js_challenges) and basic algorithmic problem solving, and learned about `Object Oriented Programming` in JavaScript along with fetching and accessing data with `API`s. 
+In Week 2 we practiced more `DOM Manipulation` and were introduced to [Daily JavaScript Challenges](https://github.com/SEI-R-1-25/daily_js_challenges) and basic algorithmic problem solving. We and learned about `ES6` syntax along with `Higher Order Functions`, `Object Oriented Programming` in JavaScript, `npm scripts`, and fetching/accessing data with `API`s. 
 
 #### Repos
 | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
 |---|---|---|---|---|
-| []() | []() | []() | []() | []() | 
-| []() | []() | []() | []() | []() | 
-| []() | []() | []() | []() | []() | 
-| []() | []() | []() | []() | []() | 
-| []() | []() | []() | []() | []() | 
-| []() | []() | []() | []() | []() | 
+| [Daily JS](https://github.com/SEI-R-1-25/daily_js_challenges) | [Intro to OOP](https://github.com/SEI-R-1-25/u1_lesson_js_oop) | [Box Model Practice](https://github.com/SEI-R-1-25/u1_lab_box_model) | [Intro to APIs](https://github.com/SEI-R-1-25/u1_lesson_intro_to_apis) | [Unit 1 Assessment](https://github.com/SEI-R-1-25/u1_assessment) | 
+| [ES6 Syntax](https://github.com/SEI-R-1-25/u1_lesson_js_es6) | [OOP Lab](https://github.com/SEI-R-1-25/u1_lab_OOP) | [Intro to NPM & Building Scripts](https://github.com/SEI-R-1-25/u1_lesson_nodejs_scripting) | [API Dogs Lab](https://github.com/SEI-R-1-25/u1_lab_api_dogs) | [Project 1 Prompt](https://github.com/SEI-R-1-25/u1_project_prompt) | 
+| [ES6 Lab](https://github.com/SEI-R-1-25/u1_lab_es6_practice) | [OOP With DOM Elements](https://github.com/SEI-R-1-25/u1_lesson_OOP_HTML) | [JS Fast & Furious](https://github.com/SEI-R-1-25/u1_hw_fast_and_furious) | [OMDB API Lab](https://github.com/SEI-R-1-25/u1_lab_omdb_api) | []() | 
+| [JS HOF Lesson](https://github.com/SEI-R-1-25/u1_lesson_HOF) | []() | []() | []() | []() | 
+| [JS HOF Practice](https://github.com/SEI-R-1-25/u1_lab_HOF) | []() | []() | []() | []() | 
+| [JS HOF Homework](https://github.com/SEI-R-1-25/u1_hw_HOF) | []() | []() | []() | []() | 
 | []() | []() | []() | []() | []() | 
 
 ## Week 1
