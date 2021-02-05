@@ -4,7 +4,24 @@
 
 Welcome to the SEIR125 Class Wiki. This repository is a place where all course content covered can be found readily. Content will be organized by Unit, Week, and Day, with the lessons covered and class recording for each day.
 
+Daily Javascript Challenges can be found [here](https://github.com/SEI-R-1-25/daily_js_challenges).
+
+
 # Unit 1
+## Week 2
+In Week 2 we practiced more `DOM Manipulation` along with `Higher Order Functions`, were introduced to [Daily JavaScript Challenges](https://github.com/SEI-R-1-25/daily_js_challenges) and basic algorithmic problem solving, and learned about `Object Oriented Programming` in JavaScript along with fetching and accessing data with `API`s. 
+
+#### Repos
+| Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
+|---|---|---|---|---|
+| []() | []() | []() | []() | []() | 
+| []() | []() | []() | []() | []() | 
+| []() | []() | []() | []() | []() | 
+| []() | []() | []() | []() | []() | 
+| []() | []() | []() | []() | []() | 
+| []() | []() | []() | []() | []() | 
+| []() | []() | []() | []() | []() | 
+
 ## Week 1
 In Week 1 we reviewed the fundamental concepts of `HTML`, `CSS`, and `JavaScript` along with introducing `git` workflow, `terminal` commands, and writing professional `markdown` files. 
 
