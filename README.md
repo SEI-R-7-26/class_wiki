@@ -20,7 +20,7 @@ Here is a list of additional resources, hand picked by your instructors. If you 
   | --- | --- | --- | --- |
   | [Codeacademy](https://www.codecademy.com/catalog) | [Eloquent JavaScript](https://eloquentjavascript.net/) | [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) | [JavaScript Cheatsheet](https://websitesetup.org/javascript-cheat-sheet/) |
   | [Codewars](https://www.codewars.com) | [CSS Tricks](https://css-tricks.com/) | [W3Schools CSS Docs](https://www.w3schools.com/cssref/default.asp) | [ES6 Cheatsheet]() |
-  | [CSS Battle](https://cssbattle.dev/) | [Rubber Duck Debugging](https://rubberduckdebugging.com/) | []() | []() |
+  | [CSS Battle](https://cssbattle.dev/) | [Rubber Duck Debugging](https://rubberduckdebugging.com/) | []() | [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) |
   
   
 
