@@ -6,7 +6,23 @@ Welcome to the SEIR125 Class Wiki. This repository is a place where all course c
 
 Daily Javascript Challenges can be found [here](https://github.com/SEI-R-1-25/daily_js_challenges).
 
-Looking for more practice? Hit some of these links:
+Looking for more practice? Short on reading material? We have just section for you!
+<details><summary>Addition Resources</summary><p>
+Here is a list of additional resources, hand picked by your instructors. If you find that you don't have the time during cohort, these resources will stil help to solidify your understanding of key concepts well past graduation. This list is split into 4 sections and will grow over time as more concepts have been covered:
+  - Practice - places to apply your skills and grow in your problem solving abilities.
+  - Reading - places to deepen your understanding of concepts or quick reads that are worth taking the time to skim through.
+  - Documentation - gotta have the docs. Always read the docs.
+  - Cheatsheets - quick references for you to use when you're in the weeds.
+  
+  | Practice | Reading | Documentation | Cheatsheets |
+  | --- | --- | --- | --- |
+  | []() | []() | []() | []() |
+  
+  
+
+</p>
+</details>
+  
 - [Codewars](https://www.codewars.com/)
 - [Codeacademy](https://www.codecademy.com/learn)
 - [CSS Battle](https://cssbattle.dev/)
