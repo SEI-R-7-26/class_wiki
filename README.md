@@ -6,6 +6,10 @@ Welcome to the SEIR125 Class Wiki. This repository is a place where all course c
 
 Daily Javascript Challenges can be found [here](https://github.com/SEI-R-1-25/daily_js_challenges).
 
+Looking for more practice? Hit some of these links:
+- [Codewars](https://www.codewars.com/)
+- [Codeacademy](https://www.codecademy.com/learn)
+- [CSS Battle](https://cssbattle.dev/)
 
 # Unit 1
 ## Week 2
