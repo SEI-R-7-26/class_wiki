@@ -7,25 +7,43 @@ Welcome to the SEIR125 Class Wiki. This repository is a place where all course c
 Daily Javascript Challenges can be found [here](https://github.com/SEI-R-1-25/daily_js_challenges).
 
 Looking for more practice? Short on reading material? We have just the section for you!
-<details><summary>Additional Resources (click me!)</summary><p>
+<details><summary><strong>Additional Resources</strong> (click me!)</summary><p>
   
 Here is a list of additional resources, hand picked by your instructors. If you find that you don't have the time during cohort, these resources will stil help to solidify your understanding of key concepts well past graduation. This list is split into 4 sections and will grow over time as more concepts have been covered:
+  
+  <ul>
+  
+  <li><details><summary><strong>Practice </strong>- places to apply your skills and grow in your problem solving abilities.</summary><p>
+  
+  - [Codeacademy](https://www.codecademy.com/catalog)
+  - [Codewars](https://www.codewars.com)
+  - [CSS Battle](https://cssbattle.dev/)
+  </p></details></li>
+  
+  <li><details><summary><strong>Reading </strong>-places to deepen your understanding of concepts or quick reads that are worth taking the time to skim through.</summary><p>
+  
+  - [Eloquent JavaScript](https://eloquentjavascript.net/)
+  - [CSS Tricks](https://css-tricks.com/)
+  - [Rubber Duck Debugging](https://rubberduckdebugging.com/)
+  </p></details></li>
+  
+  <li><details><summary><strong>Documentation </strong>- gotta have the docs! Always read the docs.</summary><p>
+  
+  - [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+  - [W3Schools CSS Docs](https://www.w3schools.com/cssref/default.asp)
 
-  - **Practice** - places to apply your skills and grow in your problem solving abilities.
-  - **Reading** - places to deepen your understanding of concepts or quick reads that are worth taking the time to skim through.
-  - **Documentation** - gotta have the docs. Always read the docs.
-  - **Cheatsheets** - quick references for you to use when you're in the weeds.
+  </p></details></li>
   
-  | Practice | Reading | Documentation | Cheatsheets |
-  | --- | --- | --- | --- |
-  | [Codeacademy](https://www.codecademy.com/catalog) | [Eloquent JavaScript](https://eloquentjavascript.net/) | [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) | [JavaScript Cheatsheet](https://websitesetup.org/javascript-cheat-sheet/) |
-  | [Codewars](https://www.codewars.com) | [CSS Tricks](https://css-tricks.com/) | [W3Schools CSS Docs](https://www.w3schools.com/cssref/default.asp) | [ES6 Cheatsheet]() |
-  | [CSS Battle](https://cssbattle.dev/) | [Rubber Duck Debugging](https://rubberduckdebugging.com/) | []() | [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) |
+  <li><details><summary><strong>Cheatsheets </strong>- quick references for you to use when you're in the weeds.</summary><p>
   
+  - [JavaScript Cheatsheet](https://websitesetup.org/javascript-cheat-sheet/)
+  - [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+  - [ES6 Cheatsheet](https://devhints.io/es6)
+  </p></details></li>
   
-
-</p>
-</details>
+  </ul>
+ 
+</p></details>
 
 ___
 <details><summary><strong>Unit 1 - HTML / CSS / JavaScript</strong></summary><p>
