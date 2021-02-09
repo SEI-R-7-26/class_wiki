@@ -3,7 +3,7 @@
 ![Wiki](https://media.wired.com/photos/5955ac6b5992c54331ac161b/191:100/pass/2000px-Wikipedia-logo-v2-en-F.jpg)
 
 ___
-Welcome to the SEIR125 Class Wiki. This repository is a place where all course content covered can be found readily. Content will be organized by Unit, Week, and Day, with the lessons covered and class recording for each day.
+Welcome to the SEIR125 Class Wiki. <br/> This repository is a place where all course content covered can be found readily. Content will be organized by Unit, Week, and Day, with the lessons covered and class recording for each day.
 
 Daily Javascript Challenges can be found [here](https://github.com/SEI-R-1-25/daily_js_challenges).
 
