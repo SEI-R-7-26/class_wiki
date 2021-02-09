@@ -28,7 +28,7 @@ Here is a list of additional resources, hand picked by your instructors. If you 
 </details>
 
 ___
-<details><summary><strong>Unit 1</strong></summary><p>
+<details><summary><strong>Unit 1 - HTML / CSS / JavaScript</strong></summary><p>
 
 <ul>
 
@@ -109,7 +109,7 @@ ___
 </p></details>
 
 ___
-<details><summary><strong>Unit 2</strong></summary><p>
+<details><summary><strong>Unit 2 - React / MongoDB / Express / Node</strong></summary><p>
 
 <ul>
 
@@ -190,7 +190,7 @@ ___
 </p></details>
 
 ___
-<details><summary><strong>Unit 3</strong></summary><p>
+<details><summary><strong>Unit 3 - React Hooks / Postgres / Sequelize</strong></summary><p>
 
 <ul>
 
@@ -271,7 +271,7 @@ ___
 </p></details>
 
 ___
-<details><summary><strong>Unit 4</strong></summary><p>
+<details><summary><strong>Unit 4 - React Redux / Python3 </strong></summary><p>
 
 <ul>
 
