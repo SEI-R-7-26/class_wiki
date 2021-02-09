@@ -340,7 +340,7 @@ ___
 ___
 <details><summary><strong>Additional Resources</strong></summary><p>
 
-Here is a list of additional resources, hand-picked by your instructors. If you find that you don't have the time during cohort, these resources will still help to solidify your understanding of key concepts well past graduation. This list is split into 4 sections and will grow over time as more concepts have been covered:
+Here is a list of additional resources that were hand-picked by your instructors. If you find that you don't have the time during cohort, these resources will still help to solidify your understanding of key concepts well past graduation. This list is split into 4 sections and will grow over time as more concepts have been covered:
 
 ___
   <ul>
@@ -350,9 +350,11 @@ ___
   - [Codeacademy](https://www.codecademy.com/catalog)
   - [Codewars](https://www.codewars.com)
   - [CSS Battle](https://cssbattle.dev/)
+  - [Flexbox Froggy](https://flexboxfroggy.com/)
+  - [Grid Garden](https://cssgridgarden.com/)
   </p></details></li>
   
-  <li><details><summary><strong>Reading </strong>-places to deepen your understanding of concepts or quick reads that are worth taking the time to skim through.</summary><p>
+  <li><details><summary><strong>Reading </strong>- places to deepen your understanding of concepts or quick reads that are worth taking the time to skim through.</summary><p>
   
   - [Eloquent JavaScript](https://eloquentjavascript.net/)
   - [CSS Tricks](https://css-tricks.com/)
