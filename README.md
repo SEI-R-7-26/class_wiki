@@ -31,49 +31,18 @@ Here is a list of additional resources, hand picked by your instructors. If you 
 ___
 <details><summary><strong>Unit 1</strong></summary><p>
 
+<ul>
 
-  <details><summary>&nbsp;&nbsp;&nbsp;&nbsp; <strong>Week 2</strong></summary><p>
+  <li><details><summary><strong>Week 1</strong></summary><p>
   
-  <details><summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overview</summary><p>
+  <ul>
   
-  In Week 2 we practiced more `DOM Manipulation` and were introduced to [Daily JavaScript Challenges](https://github.com/SEI-R-1-25/daily_js_challenges) and basic algorithmic problem solving. We and learned about `ES6` syntax along with `Higher Order Functions`, `Object Oriented Programming` in JavaScript, `npm scripts`, and fetching/accessing data with `API`s. 
-  </p></details>
-
-  <details><summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Repos</summary><p>
-  
-  | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
-  |---|---|---|---|---|
-  | [Daily JS](https://github.com/SEI-R-1-25/daily_js_challenges) | [Intro to OOP](https://github.com/SEI-R-1-25/u1_lesson_js_oop) | [Box Model Practice](https://github.com/SEI-R-1-25/u1_lab_box_model) | [Intro to APIs](https://github.com/SEI-R-1-25/u1_lesson_intro_to_apis) | [Unit 1 Assessment](https://github.com/SEI-R-1-25/u1_assessment) | 
-  | [ES6 Syntax](https://github.com/SEI-R-1-25/u1_lesson_js_es6) | [OOP Lab](https://github.com/SEI-R-1-25/u1_lab_OOP) | [Intro to NPM & Building Scripts](https://github.com/SEI-R-1-25/u1_lesson_nodejs_scripting) | [API Dogs Lab](https://github.com/SEI-R-1-25/u1_lab_api_dogs) | [Project 1 Prompt](https://github.com/SEI-R-1-25/u1_project_prompt) | 
-  | [ES6 Lab](https://github.com/SEI-R-1-25/u1_lab_es6_practice) | [OOP With DOM Elements](https://github.com/SEI-R-1-25/u1_lesson_OOP_HTML) | [JS Fast & Furious](https://github.com/SEI-R-1-25/u1_hw_fast_and_furious) | [OMDB API Lab](https://github.com/SEI-R-1-25/u1_lab_omdb_api) | []() | 
-  | [JS HOF Lesson](https://github.com/SEI-R-1-25/u1_lesson_HOF) | []() | []() | []() | []() | 
-  | [JS HOF Practice](https://github.com/SEI-R-1-25/u1_lab_HOF) | []() | []() | []() | []() | 
-  | [JS HOF Homework](https://github.com/SEI-R-1-25/u1_hw_HOF) | []() | []() | []() | []() | 
-  
-  </p></details>
-
-
-  <details><summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Class Recordings</summary><p>
-
-  | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
-  |---|---|---|---|---|
-  | [Recording](https://generalassembly.zoom.us/rec/share/1JLLA-WdjdYnCsVoyoIHIKbwKvDITZdENINVHjkG91cPOS0ablatBgEJfB0MYDoL.u_Gizu2tGu0esO5J) | [Recording](https://generalassembly.zoom.us/rec/share/R8w6KTHjBu_OZzTD5kiuciqRPjMz-J7Pi6J7NclA7yv8vwA7KvnSK4GcHQZUFWiP.by7t0g7P1t_XTOJv) | [Recording](https://generalassembly.zoom.us/rec/share/Zshi6COg_-c-m6J7H328VqqjZAntUV19QE6UwlKwfvtnLdkb7F4mR6-Ok3sGtry9.VDAUwtLKyYEC7aAB) | [Recording](https://generalassembly.zoom.us/rec/share/wwtWaxQVxfq_Of48fVjVJzRA9Dk0hvN2i5jaz984_K7Nlm8MmHedBxExlWBOe0Ye.78z-E6EmbwXXtQvF) | No Recording |
-  | Passcode: `9VBCaLJ+` | Passcode: `Cb$78QSu` | Passcode: `j5SA!B=1` | Passcode: `L0!Hx55i` | Passcode: `n/a` |
-
-  </p></details>
-  
-  ___
-  </p></details>
-
-
-  <details><summary>&nbsp;&nbsp;&nbsp;&nbsp; <strong>Week 1</strong></summary><p>
-  
-  <details><summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overview</summary><p>
+  <li><details><summary>Overview</summary><p>
   
   In Week 1 we reviewed the fundamental concepts of `HTML`, `CSS`, and `JavaScript` along with introducing `git` workflow, `terminal` commands, and writing professional `markdown` files. 
-  </p></details>
+  </p></details></li>
 
-  <details><summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Repos</summary><p>
+  <li><details><summary>Repos</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
@@ -85,20 +54,59 @@ ___
   | [Terminal Lab](https://github.com/SEI-R-1-25/u1_lab_git_practice)  | [Markdown Homework](https://github.com/SEI-R-1-25/u1_hw_markdown)  |   | [Objects & Functions Lab](https://github.com/SEI-R-1-25/u1_lab_objects_functions)  | [JS Dots Game Lab](https://github.com/SEI-R-1-25/u1_lab_dots)  |
   | [Star Wars Homework](https://github.com/SEI-R-1-25/u1_hw_star_wars)  |   |   | [Codewars Homework](https://github.com/SEI-R-1-25/u1_hw_codewars_challenges)  | [Tic Tac Toe Homework](https://github.com/SEI-R-1-25/u1_hw_tic_tac_toe)  |
 
-  </p></details>
+  </p></details></li>
 
 
-  <details><summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Class Recordings</summary><p>
+  <li><details><summary>Class Recordings</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
   | [Recording Link](https://generalassembly.zoom.us/rec/share/cuppGd8LGCZvNQZEUjs65PSO4P92t9Pm2br3QCg1Rw_UGPkACY8cBz6WkAfMFcby.FpgtJwRn36IK0rv4)  | [Recording Link](https://generalassembly.zoom.us/rec/share/ZkhRcd8pU4aiAx9b0HQWxXr6XmrMlijc6QC7K2L8eZxYzt1Jkz0U2u0nQaccdG5s.xx6OyiwyvRw912eh)  | [Recording Link](https://generalassembly.zoom.us/rec/share/-lnFJEnqXhqWzuG9SL-1VSm4pFzeo4oEDrhGWlESF6AoCqQp72am1DM8x-sxKrCJ.uI5D4lkuFdT9iWIe)  | [Recording Link](https://generalassembly.zoom.us/rec/share/2q6_CqMjN-tYSQgRL6YUtlgrc9uCCAjUHAMksQNJlHuQ4nyo6tPTHcUqq_r1Xs1G.HMxMszVD-fEaGh43)  | [Recording Link](https://generalassembly.zoom.us/rec/share/K-InNJSJN-YJac-vKRt03G_DjRiwrXkNY_wjRPuTVxL1y5ZviH5zirSzVjlIJx61.ZLynBQ4WoYnuabLu )  |
   | Passcode: `PF6W+7K1`  | Passcode: `TG7l0t5*`  | Passcode: `3&E3HWiv`  | Passcode: `4V^8=JKt`  | Passcode: `2HM%Lu^M`  |
 
-  </p></details>
+  </p></details></li>
   
+  </ul>
   
-  </p></details>
+  ___
+  </p></details></li>
+  
+  <li><details><summary><strong>Week 2</strong></summary><p>
+  
+  <ul>
+  
+  <li><details><summary>Overview</summary><p>
+  
+  In Week 2 we practiced more `DOM Manipulation` and were introduced to [Daily JavaScript Challenges](https://github.com/SEI-R-1-25/daily_js_challenges) and basic algorithmic problem solving. We and learned about `ES6` syntax along with `Higher Order Functions`, `Object Oriented Programming` in JavaScript, `npm scripts`, and fetching/accessing data with `API`s. 
+  </p></details></li>
+
+  <li><details><summary>Repos</summary><p>
+  
+  | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
+  |---|---|---|---|---|
+  | [Daily JS](https://github.com/SEI-R-1-25/daily_js_challenges) | [Intro to OOP](https://github.com/SEI-R-1-25/u1_lesson_js_oop) | [Box Model Practice](https://github.com/SEI-R-1-25/u1_lab_box_model) | [Intro to APIs](https://github.com/SEI-R-1-25/u1_lesson_intro_to_apis) | [Unit 1 Assessment](https://github.com/SEI-R-1-25/u1_assessment) | 
+  | [ES6 Syntax](https://github.com/SEI-R-1-25/u1_lesson_js_es6) | [OOP Lab](https://github.com/SEI-R-1-25/u1_lab_OOP) | [Intro to NPM & Building Scripts](https://github.com/SEI-R-1-25/u1_lesson_nodejs_scripting) | [API Dogs Lab](https://github.com/SEI-R-1-25/u1_lab_api_dogs) | [Project 1 Prompt](https://github.com/SEI-R-1-25/u1_project_prompt) | 
+  | [ES6 Lab](https://github.com/SEI-R-1-25/u1_lab_es6_practice) | [OOP With DOM Elements](https://github.com/SEI-R-1-25/u1_lesson_OOP_HTML) | [JS Fast & Furious](https://github.com/SEI-R-1-25/u1_hw_fast_and_furious) | [OMDB API Lab](https://github.com/SEI-R-1-25/u1_lab_omdb_api) | []() | 
+  | [JS HOF Lesson](https://github.com/SEI-R-1-25/u1_lesson_HOF) | []() | []() | []() | []() | 
+  | [JS HOF Practice](https://github.com/SEI-R-1-25/u1_lab_HOF) | []() | []() | []() | []() | 
+  | [JS HOF Homework](https://github.com/SEI-R-1-25/u1_hw_HOF) | []() | []() | []() | []() | 
+  
+  </p></details></li>
+
+
+  <li><details><summary>Class Recordings</summary><p>
+
+  | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
+  |---|---|---|---|---|
+  | [Recording](https://generalassembly.zoom.us/rec/share/1JLLA-WdjdYnCsVoyoIHIKbwKvDITZdENINVHjkG91cPOS0ablatBgEJfB0MYDoL.u_Gizu2tGu0esO5J) | [Recording](https://generalassembly.zoom.us/rec/share/R8w6KTHjBu_OZzTD5kiuciqRPjMz-J7Pi6J7NclA7yv8vwA7KvnSK4GcHQZUFWiP.by7t0g7P1t_XTOJv) | [Recording](https://generalassembly.zoom.us/rec/share/Zshi6COg_-c-m6J7H328VqqjZAntUV19QE6UwlKwfvtnLdkb7F4mR6-Ok3sGtry9.VDAUwtLKyYEC7aAB) | [Recording](https://generalassembly.zoom.us/rec/share/wwtWaxQVxfq_Of48fVjVJzRA9Dk0hvN2i5jaz984_K7Nlm8MmHedBxExlWBOe0Ye.78z-E6EmbwXXtQvF) | No Recording |
+  | Passcode: `9VBCaLJ+` | Passcode: `Cb$78QSu` | Passcode: `j5SA!B=1` | Passcode: `L0!Hx55i` | Passcode: `n/a` |
+
+  </p></details></li>
+  
+  </ul>
+  
+  </p></details></li>
+
 
 ___
 </p></details>
