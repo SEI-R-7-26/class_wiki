@@ -9,12 +9,13 @@ Daily Javascript Challenges can be found [here](https://github.com/SEI-R-1-25/da
 
 Looking for more practice? Short on reading material? We have just the section for you! Check out the Additional Resources section at the bottom of this wiki.
 
+<style type="text/css">ul { list-style-type: none; }</style>
 
 ___
 <details><summary><strong>Unit 1</strong> - HTML / CSS / JavaScript</summary><p>
 
 <ul>
-
+  
   <li><details><summary><strong>Week 1</strong></summary><p>
   
   <ul>
