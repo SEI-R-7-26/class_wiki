@@ -58,9 +58,11 @@ In Week 2 we practiced more `DOM Manipulation` and were introduced to [Daily Jav
   | Passcode: `9VBCaLJ+` | Passcode: `Cb$78QSu` | Passcode: `j5SA!B=1` | Passcode: `L0!Hx55i` | Passcode: `n/a` |
 
   </p></details>
+  
+  ___
   </p></details>
 
-___
+
   <details><summary>&nbsp;&nbsp;&nbsp;&nbsp; <strong>Week 1</strong></summary><p>
 
 In Week 1 we reviewed the fundamental concepts of `HTML`, `CSS`, and `JavaScript` along with introducing `git` workflow, `terminal` commands, and writing professional `markdown` files. 
@@ -90,10 +92,10 @@ In Week 1 we reviewed the fundamental concepts of `HTML`, `CSS`, and `JavaScript
 
   </p></details>
   
-
+  
   </p></details>
 
-
+___
 </p></details>
 
-___
+
