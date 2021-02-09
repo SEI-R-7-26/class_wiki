@@ -12,11 +12,11 @@ Looking for more practice? Short on reading material? We have just the section f
 ___
 <details><summary><strong>Unit 1</strong> - HTML / CSS / JavaScript</summary><p>
 
-<ul>
+<ul type="none">
   
   <li><details><summary><strong>Week 1</strong></summary><p>
   
-  <ul>
+  <ul type="none">
   
   <li><details><summary>Overview</summary><p>
   
@@ -54,7 +54,7 @@ ___
   
   <li><details><summary><strong>Week 2</strong></summary><p>
   
-  <ul>
+  <ul type="none">
   
   <li><details><summary>Overview</summary><p>
   
@@ -93,11 +93,11 @@ ___
 ___
 <details><summary><strong>Unit 2</strong> - React / MongoDB / Express / Node</summary><p>
 
-<ul>
+<ul type="none">
 
   <li><details><summary><strong>Week 1</strong></summary><p>
   
-  <ul>
+  <ul type="none">
   
   <li><details><summary>Overview</summary><p>
   
@@ -135,7 +135,7 @@ ___
   
   <li><details><summary><strong>Week 2</strong></summary><p>
   
-  <ul>
+  <ul type="none">
   
   <li><details><summary>Overview</summary><p>
   
@@ -175,11 +175,11 @@ ___
 ___
 <details><summary><strong>Unit 3</strong> - React Hooks / Postgres / Sequelize</summary><p>
 
-<ul>
+<ul type="none">
 
   <li><details><summary><strong>Week 1</strong></summary><p>
   
-  <ul>
+  <ul type="none">
   
   <li><details><summary>Overview</summary><p>
   
@@ -217,7 +217,7 @@ ___
   
   <li><details><summary><strong>Week 2</strong></summary><p>
   
-  <ul>
+  <ul type="none">
   
   <li><details><summary>Overview</summary><p>
   
@@ -257,11 +257,11 @@ ___
 ___
 <details><summary><strong>Unit 4</strong> - React Redux / Python3 </summary><p>
 
-<ul>
+<ul type="none">
 
   <li><details><summary><strong>Week 1</strong></summary><p>
   
-  <ul>
+  <ul type="none">
   
   <li><details><summary>Overview</summary><p>
   
@@ -299,7 +299,7 @@ ___
   
   <li><details><summary><strong>Week 2</strong></summary><p>
   
-  <ul>
+  <ul type="none">
   
   <li><details><summary>Overview</summary><p>
   
@@ -342,7 +342,7 @@ ___
 Here is a list of additional resources that were hand-picked by your instructors. If you find that you don't have the time during cohort, these resources will still help to solidify your understanding of key concepts well past graduation. This list is split into 4 sections and will grow over time as more concepts have been covered:
 
 ___
-  <ul>
+  <ul type="none">
   
   <li><details><summary><strong>Practice </strong>- places to apply your skills and grow in your problem solving abilities.</summary><p>
   
