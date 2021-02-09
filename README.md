@@ -11,7 +11,7 @@ Looking for more practice? Short on reading material? We have just the section f
 
 
 ___
-<details><summary><strong>Unit 1 - HTML / CSS / JavaScript</strong></summary><p>
+<details><summary><strong>Unit 1</strong> - HTML / CSS / JavaScript</summary><p>
 
 <ul>
 
@@ -92,7 +92,7 @@ ___
 </p></details>
 
 ___
-<details><summary><strong>Unit 2 - React / MongoDB / Express / Node</strong></summary><p>
+<details><summary><strong>Unit 2</strong> - React / MongoDB / Express / Node</summary><p>
 
 <ul>
 
@@ -174,7 +174,7 @@ ___
 </p></details>
 
 ___
-<details><summary><strong>Unit 3 - React Hooks / Postgres / Sequelize</strong></summary><p>
+<details><summary><strong>Unit 3</strong> - React Hooks / Postgres / Sequelize</summary><p>
 
 <ul>
 
@@ -256,7 +256,7 @@ ___
 </p></details>
 
 ___
-<details><summary><strong>Unit 4 - React Redux / Python3 </strong></summary><p>
+<details><summary><strong>Unit 4</strong> - React Redux / Python3 </summary><p>
 
 <ul>
 
