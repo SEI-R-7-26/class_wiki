@@ -7,7 +7,7 @@ Welcome to the SEIR125 Class Wiki. This repository is a place where all course c
 
 Daily Javascript Challenges can be found [here](https://github.com/SEI-R-1-25/daily_js_challenges).
 
-Looking for more practice? Short on reading material? We have just the section for you! Check out the Additional Resources section below.
+Looking for more practice? Short on reading material? We have just the section for you! Check out the Additional Resources section at the bottom of this wiki.
 
 
 ___
