@@ -29,15 +29,14 @@ Here is a list of additional resources, hand picked by your instructors. If you 
  
 
 ___
-<details><summary>Unit 1</summary><p>
+<details><summary><strong>Unit 1</strong></summary><p>
 
 ___
-  <details><summary>&nbsp;&nbsp; Week 2</summary><p>
+  <details><summary>&nbsp;&nbsp;&nbsp;&nbsp; <strong>Week 2</strong></summary><p>
   
 In Week 2 we practiced more `DOM Manipulation` and were introduced to [Daily JavaScript Challenges](https://github.com/SEI-R-1-25/daily_js_challenges) and basic algorithmic problem solving. We and learned about `ES6` syntax along with `Higher Order Functions`, `Object Oriented Programming` in JavaScript, `npm scripts`, and fetching/accessing data with `API`s. 
-___
 
-  <details><summary>&nbsp;&nbsp;&nbsp;&nbsp; Repos</summary><p>
+  <details><summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Repos</summary><p>
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
@@ -50,8 +49,8 @@ ___
   
   </p></details>
 
-___
-  <details><summary>&nbsp;&nbsp;&nbsp;&nbsp; Class Recordings</summary><p>
+
+  <details><summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Class Recordings</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
@@ -62,12 +61,12 @@ ___
   </p></details>
 
 ___
-  <details><summary>&nbsp;&nbsp; Week 1</summary><p>
+  <details><summary>&nbsp;&nbsp;&nbsp;&nbsp; <strong>Week 1</strong></summary><p>
 
 In Week 1 we reviewed the fundamental concepts of `HTML`, `CSS`, and `JavaScript` along with introducing `git` workflow, `terminal` commands, and writing professional `markdown` files. 
 
-___
-  <details><summary>&nbsp;&nbsp;&nbsp;&nbsp; Repos</summary><p>
+
+  <details><summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Repos</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
@@ -81,8 +80,8 @@ ___
 
   </p></details>
 
-___
-  <details><summary>&nbsp;&nbsp;&nbsp;&nbsp; Class Recordings</summary><p>
+
+  <details><summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Class Recordings</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
