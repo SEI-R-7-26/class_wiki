@@ -29,6 +29,9 @@ Here is a list of additional resources, hand picked by your instructors. If you 
  
 
 # Unit 1
+<details><summary></summary><p>
+
+
 ## Week 2
 <details><summary></summary><p>
   
@@ -87,4 +90,5 @@ In Week 1 we reviewed the fundamental concepts of `HTML`, `CSS`, and `JavaScript
   | Passcode: `PF6W+7K1`  | Passcode: `TG7l0t5*`  | Passcode: `3&E3HWiv`  | Passcode: `4V^8=JKt`  | Passcode: `2HM%Lu^M`  |
 
   </p></details>
+</p></details>
 </p></details>
