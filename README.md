@@ -34,8 +34,7 @@ Here is a list of additional resources, hand picked by your instructors. If you 
   
 In Week 2 we practiced more `DOM Manipulation` and were introduced to [Daily JavaScript Challenges](https://github.com/SEI-R-1-25/daily_js_challenges) and basic algorithmic problem solving. We and learned about `ES6` syntax along with `Higher Order Functions`, `Object Oriented Programming` in JavaScript, `npm scripts`, and fetching/accessing data with `API`s. 
 
-#### Repos
-  <details><summary></summary><p>
+  <details><summary>Repos</summary><p>
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
@@ -49,8 +48,7 @@ In Week 2 we practiced more `DOM Manipulation` and were introduced to [Daily Jav
   </p></details>
 
 
-#### Class Recordings
-  <details><summary></summary><p>
+  <details><summary>Class Recordings</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
@@ -65,8 +63,8 @@ In Week 2 we practiced more `DOM Manipulation` and were introduced to [Daily Jav
 
 In Week 1 we reviewed the fundamental concepts of `HTML`, `CSS`, and `JavaScript` along with introducing `git` workflow, `terminal` commands, and writing professional `markdown` files. 
 
-#### Repos
-  <details><summary></summary><p>
+
+  <details><summary>Repos</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
@@ -80,8 +78,8 @@ In Week 1 we reviewed the fundamental concepts of `HTML`, `CSS`, and `JavaScript
 
   </p></details>
 
-#### Class Recordings
-  <details><summary></summary><p>
+
+  <details><summary>Class Recordings</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
