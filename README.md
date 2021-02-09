@@ -28,16 +28,16 @@ Here is a list of additional resources, hand picked by your instructors. If you 
 </details>
  
 
-# Unit 1
-<details><summary></summary><p>
+___
+<details><summary>Unit 1</summary><p>
 
-
-## Week 2
-<details><summary></summary><p>
+___
+  <details><summary>&nbsp;&nbsp; Week 2</summary><p>
   
 In Week 2 we practiced more `DOM Manipulation` and were introduced to [Daily JavaScript Challenges](https://github.com/SEI-R-1-25/daily_js_challenges) and basic algorithmic problem solving. We and learned about `ES6` syntax along with `Higher Order Functions`, `Object Oriented Programming` in JavaScript, `npm scripts`, and fetching/accessing data with `API`s. 
+___
 
-  <details><summary>Repos</summary><p>
+  <details><summary>&nbsp;&nbsp;&nbsp;&nbsp; Repos</summary><p>
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
@@ -50,8 +50,8 @@ In Week 2 we practiced more `DOM Manipulation` and were introduced to [Daily Jav
   
   </p></details>
 
-
-  <details><summary>Class Recordings</summary><p>
+___
+  <details><summary>&nbsp;&nbsp;&nbsp;&nbsp; Class Recordings</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
@@ -59,15 +59,15 @@ In Week 2 we practiced more `DOM Manipulation` and were introduced to [Daily Jav
   | Passcode: `9VBCaLJ+` | Passcode: `Cb$78QSu` | Passcode: `j5SA!B=1` | Passcode: `L0!Hx55i` | Passcode: `n/a` |
 
   </p></details>
-</p></details>
+  </p></details>
 
-## Week 1
-<details><summary></summary><p>
+___
+  <details><summary>&nbsp;&nbsp; Week 1</summary><p>
 
 In Week 1 we reviewed the fundamental concepts of `HTML`, `CSS`, and `JavaScript` along with introducing `git` workflow, `terminal` commands, and writing professional `markdown` files. 
 
-
-  <details><summary>Repos</summary><p>
+___
+  <details><summary>&nbsp;&nbsp;&nbsp;&nbsp; Repos</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
@@ -81,8 +81,8 @@ In Week 1 we reviewed the fundamental concepts of `HTML`, `CSS`, and `JavaScript
 
   </p></details>
 
-
-  <details><summary>Class Recordings</summary><p>
+___
+  <details><summary>&nbsp;&nbsp;&nbsp;&nbsp; Class Recordings</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
@@ -90,5 +90,11 @@ In Week 1 we reviewed the fundamental concepts of `HTML`, `CSS`, and `JavaScript
   | Passcode: `PF6W+7K1`  | Passcode: `TG7l0t5*`  | Passcode: `3&E3HWiv`  | Passcode: `4V^8=JKt`  | Passcode: `2HM%Lu^M`  |
 
   </p></details>
+  
+
+  </p></details>
+
+
 </p></details>
-</p></details>
+
+___
