@@ -340,7 +340,7 @@ ___
 ___
 <details><summary><strong>Additional Resources</strong></summary><p>
 
-Here is a list of additional resources, hand-picked by your instructors. If you find that you don't have the time during cohort, these resources will stil help to solidify your understanding of key concepts well past graduation. This list is split into 4 sections and will grow over time as more concepts have been covered:
+Here is a list of additional resources, hand-picked by your instructors. If you find that you don't have the time during cohort, these resources will still help to solidify your understanding of key concepts well past graduation. This list is split into 4 sections and will grow over time as more concepts have been covered:
 
 ___
   <ul>
