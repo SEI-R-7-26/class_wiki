@@ -358,6 +358,10 @@ ___
   - [Eloquent JavaScript](https://eloquentjavascript.net/)
   - [CSS Tricks](https://css-tricks.com/)
   - [Rubber Duck Debugging](https://rubberduckdebugging.com/)
+  - [What Is An Api?](https://medium.com/free-code-camp/what-is-an-api-in-english-please-b880a3214a82)
+  - [Higher Order Functions](https://medium.com/javascript-in-plain-english/4-must-know-higher-order-functions-in-javascript-411f85545881)
+  - [Local Git Repos vs Remote Repos](https://medium.com/swlh/git-local-repo-and-github-remote-repo-eae1c948fbf5)
+  - [Explaining Api's](https://medium.com/javascript-in-plain-english/many-developers-struggle-with-explaining-apis-20a071d74596)
   </p></details></li>
   
   <li><details><summary><strong>Documentation </strong>- gotta have the docs! Always read the docs.</summary><p>
