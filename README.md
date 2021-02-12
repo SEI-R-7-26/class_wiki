@@ -364,6 +364,7 @@ ___
   
   - [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   - [W3Schools CSS Docs](https://www.w3schools.com/cssref/default.asp)
+  - [React Docs](https://reactjs.org/docs/getting-started.html)
 
   </p></details></li>
   
