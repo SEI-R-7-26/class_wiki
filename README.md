@@ -3,11 +3,11 @@
 ![Wiki](https://media.wired.com/photos/5955ac6b5992c54331ac161b/191:100/pass/2000px-Wikipedia-logo-v2-en-F.jpg)
 
 ___
-Welcome to the SEIR125 Class Wiki. <br/> This repository is a place where all course content covered can be found readily. Content will be organized by Unit, Week, and Day, with the lessons covered and class recording for each day.
+Welcome to the SEI-R-1-25 Class Wiki. <br/><br/> This repository is a place where all of the course content we've covered can be found. Content will be organized by Unit, Week, and Day, with the lessons repos and class recording links for each day.
 
 Daily Javascript Challenges can be found [here](https://github.com/SEI-R-1-25/daily_js_challenges).
 
-Looking for more practice? Short on reading material? We have just the section for you! Check out the Additional Resources section at the bottom of this wiki.
+Looking for more practice? Short on reading material? Check out the Additional Resources section at the bottom of this wiki.
 
 ___
 <details><summary><strong>Unit 1</strong> - HTML / CSS / JavaScript</summary><p>
