@@ -3,7 +3,7 @@
 ![Wiki](https://media.wired.com/photos/5955ac6b5992c54331ac161b/191:100/pass/2000px-Wikipedia-logo-v2-en-F.jpg)
 
 ___
-Welcome to the SEI-R-1-25 Class Wiki. <br/><br/> This repository is a place where all of the course content we've covered can be found. Content will be organized by Unit, Week, and Day, with the lessons repos and class recording links for each day.
+Welcome to the SEI-R-1-25 Class Wiki. <br/><br/> This repository is a place where all of the course content we've covered can be found. Content will be organized by Unit, Week, and Day, with the lesson repos and class recording links for each day.
 
 Daily Javascript Challenges can be found [here](https://github.com/SEI-R-1-25/daily_js_challenges).
 
