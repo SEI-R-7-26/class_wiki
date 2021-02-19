@@ -109,12 +109,10 @@ ___
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
   | HOLIDAY  | [Intro to React](https://github.com/SEI-R-1-25/u2_lesson_react_intro)  | [Mapping Components](https://github.com/SEI-R-1-25/u2_lesson_react_mapping_components)  | [Intro to State](https://github.com/SEI-R-1-25/u2_lesson_react_state_intro)  | [Conditional Rendering](https://github.com/SEI-R-1-25/u2_lesson_react_conditional_rendering)  |
-  |   | [React Components Lab](https://github.com/SEI-R-1-25/u2_lesson_react_components)  | [Mapping Components Lab](https://github.com/SEI-R-1-25/u2_lab_mapping_components)  | [React Todos Lab](https://github.com/SEI-R-1-25/u2_lab_react_todos)  | [Conditional Rendering Lab](https://github.com/SEI-R-1-25/u2_lab_conditional_rendering)  |
-  |   | [React Props](https://github.com/SEI-R-1-25/u2_lesson_react_props)  | [Movie Mapping Homework](https://github.com/SEI-R-1-25/u2_hw_mapping_components)  | [Lifecycle Methods](https://github.com/SEI-R-1-25/u2_lesson_react_lifecycle)  | [React Router](https://github.com/SEI-R-1-25/u2_lesson_react_router)  |
-  |   | [React LOTR](https://github.com/SEI-R-1-25/u2_lab_react_lotr)  |   | [Lifecycle Lab](https://github.com/SEI-R-1-25/u2_lab_react_component_lifecycle)  | [RAWG Router Lab](https://github.com/SEI-R-1-25/u2_lab_react_router)  |
-  |   | [React Quiz Homework](https://github.com/SEI-R-1-25/u2_quiz_react)  |   | [React Calculator Homework](https://github.com/SEI-R-1-25/u2_hw_react_calculator)  | [Burger Stacker Homework](https://github.com/SEI-R-1-25/u2_hw_react_burger_stacker)  |
-  |   |   |   |   |   |
-  |   |   |   |   |   |
+  | HOLIDAY  | [React Components Lab](https://github.com/SEI-R-1-25/u2_lesson_react_components)  | [Mapping Components Lab](https://github.com/SEI-R-1-25/u2_lab_mapping_components)  | [React Todos Lab](https://github.com/SEI-R-1-25/u2_lab_react_todos)  | [Conditional Rendering Lab](https://github.com/SEI-R-1-25/u2_lab_conditional_rendering)  |
+  | HOLIDAY  | [React Props](https://github.com/SEI-R-1-25/u2_lesson_react_props)  | [Movie Mapping Homework](https://github.com/SEI-R-1-25/u2_hw_mapping_components)  | [Lifecycle Methods](https://github.com/SEI-R-1-25/u2_lesson_react_lifecycle)  | [React Router](https://github.com/SEI-R-1-25/u2_lesson_react_router)  |
+  | HOLIDAY  | [React LOTR](https://github.com/SEI-R-1-25/u2_lab_react_lotr)  |   | [Lifecycle Lab](https://github.com/SEI-R-1-25/u2_lab_react_component_lifecycle)  | [RAWG Router Lab](https://github.com/SEI-R-1-25/u2_lab_react_router)  |
+  | HOLIDAY  | [React Quiz Homework](https://github.com/SEI-R-1-25/u2_quiz_react)  |   | [React Calculator Homework](https://github.com/SEI-R-1-25/u2_hw_react_calculator)  | [Burger Stacker Homework](https://github.com/SEI-R-1-25/u2_hw_react_burger_stacker)  |
 
   </p></details></li>
 
@@ -123,8 +121,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | [Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/txovc8q-jspCAHVVH1RXeaFR0sa0PmH9oT_ko9Y7enXRXooZUVNwLUAPE4aSkCq8.kYQ-WyZdanPtN25T) | [Recording](https://generalassembly.zoom.us/rec/share/pMprJiqPeS5_t6SmFuanokU3d1kn3_1K2Zz3mojOYj2uHKQY2KA1xR3Wx1HIFn0.OYZZjs8QvRFVS1Dd) | [Recording](https://generalassembly.zoom.us/rec/share/VWs3HBpsIZIS2C4JmBCOrwjUC0tyqfWc9GYUHrI5enolGPQJNGhX-0W0TRApMTXn.FuxZg2uEBTfR-x7O ) | [Recording]() |
+  | Passcode: ` ` | Passcode: `^#0$7^a*` | Passcode: `?LUf?r8=` | Passcode: `zcyu?tO6` | Passcode: ` ` |
 
   </p></details></li>
   
