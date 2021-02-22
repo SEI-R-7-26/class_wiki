@@ -121,8 +121,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
-  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/txovc8q-jspCAHVVH1RXeaFR0sa0PmH9oT_ko9Y7enXRXooZUVNwLUAPE4aSkCq8.kYQ-WyZdanPtN25T) | [Recording](https://generalassembly.zoom.us/rec/share/pMprJiqPeS5_t6SmFuanokU3d1kn3_1K2Zz3mojOYj2uHKQY2KA1xR3Wx1HIFn0.OYZZjs8QvRFVS1Dd) | [Recording](https://generalassembly.zoom.us/rec/share/VWs3HBpsIZIS2C4JmBCOrwjUC0tyqfWc9GYUHrI5enolGPQJNGhX-0W0TRApMTXn.FuxZg2uEBTfR-x7O ) | [Recording]() |
-  | Passcode: `n/a` | Passcode: `^#0$7^a*` | Passcode: `?LUf?r8=` | Passcode: `zcyu?tO6` | Passcode: ` ` |
+  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/txovc8q-jspCAHVVH1RXeaFR0sa0PmH9oT_ko9Y7enXRXooZUVNwLUAPE4aSkCq8.kYQ-WyZdanPtN25T) | [Recording](https://generalassembly.zoom.us/rec/share/pMprJiqPeS5_t6SmFuanokU3d1kn3_1K2Zz3mojOYj2uHKQY2KA1xR3Wx1HIFn0.OYZZjs8QvRFVS1Dd) | [Recording](https://generalassembly.zoom.us/rec/share/VWs3HBpsIZIS2C4JmBCOrwjUC0tyqfWc9GYUHrI5enolGPQJNGhX-0W0TRApMTXn.FuxZg2uEBTfR-x7O) | [Recording](https://generalassembly.zoom.us/rec/share/I6M6rFQqLZpiueR5zmZJWbh56O42A_kmgcp1yNqhodGseAfr_d278qxbhsj9SM4W.NClCA0KVRFVHxU5r) |
+  | Passcode: `n/a` | Passcode: `^#0$7^a*` | Passcode: `?LUf?r8=` | Passcode: `zcyu?tO6` | Passcode: `&!64MJ!2` |
 
   </p></details></li>
   
