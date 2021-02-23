@@ -137,17 +137,17 @@ ___
   
   <li><details><summary>Overview</summary><p>
   
-  Week 2 overview. 
+  In Week 5, we introduced back-end and got to practice using `Express` and `Express Middleware`.  We also learned how to implement `controllers`.  We then introduced `MongoDB` and `mongoose` as a way to store our app's data.  At the end of the week, we learned some group `git` best-practices and got to build our first full stack app together in groups!
   </p></details></li>
 
   <li><details><summary>Repos</summary><p>
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
+  | [React APIs](https://github.com/SEI-R-1-25/u2_lesson_react_APIs)  | []()  | []()  | []()  | []()  |
+  | [Intro to Express](https://github.com/SEI-R-1-25/u2_lesson_express_intro)  | []()  | []()  | []()  | []()  |
+  | [Express Routes](https://github.com/SEI-R-1-25/u2_lesson_express_routing)  | []()  | []()  | []()  | []()  |
+  | [RAWG Router Homework](https://github.com/SEI-R-1-25/u2_lab_rawg_router)  | []()  | []()  | []()  | []()  |
   | []()  | []()  | []()  | []()  | []()  |
   | []()  | []()  | []()  | []()  | []()  |
   | []()  | []()  | []()  | []()  | []()  |
@@ -159,8 +159,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/kgUIEeqI9UZTG7wXJfji84o3q3tFWoBJbefw_NbT5YaRnPLJ3CFgm4ppYgDIB2_z.FcYkhJVqjg5j_MHO) | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: `hoj7TG*c` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
   
