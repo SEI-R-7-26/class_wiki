@@ -144,13 +144,12 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
-  | [React APIs](https://github.com/SEI-R-1-25/u2_lesson_react_APIs)  | []()  | []()  | []()  | []()  |
-  | [Intro to Express](https://github.com/SEI-R-1-25/u2_lesson_express_intro)  | []()  | []()  | []()  | []()  |
-  | [Express Routes](https://github.com/SEI-R-1-25/u2_lesson_express_routing)  | []()  | []()  | []()  | []()  |
-  | [RAWG Router Homework](https://github.com/SEI-R-1-25/u2_lab_rawg_router)  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
+  | [React APIs](https://github.com/SEI-R-1-25/u2_lesson_react_APIs)  | [Express Middleware](https://github.com/SEI-R-1-25/u2_lesson_express_middleware)  | [MongoDB Sneakers Lab](https://github.com/SEI-R-1-25/u2_lab_mongodb_exercise)  | [Group Git](https://github.com/SEI-R-1-25/u2_lesson_group_git)  | [MERN Deployment](https://github.com/SEI-R-1-25/u2_lesson_MERN_heroku_deployment)  |
+  | [Intro to Express](https://github.com/SEI-R-1-25/u2_lesson_express_intro)  | [Express Controllers](https://github.com/SEI-R-1-25/u2_lesson_express_controllers)  | [Mongoose Express Lab](https://github.com/SEI-R-1-25/u2_lab_mongoose_express)  | [Mongoose Associations](https://github.com/SEI-R-1-25/u2_lesson_mongoose_associations)  | []()  |
+  | [Express Routes](https://github.com/SEI-R-1-25/u2_lesson_express_routing)  | [MongoDB](https://github.com/SEI-R-1-25/u2_lesson_mongodb)  | [Mongoose Plants API Homework](https://github.com/SEI-R-1-25/u2_hw_mongoose_plants)  | [Full Stackathon](https://github.com/SEI-R-1-25/u2_hackathon)  | []()  |
+  | [RAWG Router Homework](https://github.com/SEI-R-1-25/u2_lab_rawg_router)  | [Mongoose Schemas and Models](https://github.com/SEI-R-1-25/u2_lesson_mongoose_data_model)  | []()  | []()  | []()  |
+  | []()  | [Express Fruits Homework](https://github.com/SEI-R-1-25/u2_hw_express_fruits)  | []()  | []()  | []()  |
+  
   
   </p></details></li>
 
@@ -159,8 +158,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
-  | [Recording](https://generalassembly.zoom.us/rec/share/kgUIEeqI9UZTG7wXJfji84o3q3tFWoBJbefw_NbT5YaRnPLJ3CFgm4ppYgDIB2_z.FcYkhJVqjg5j_MHO) | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `hoj7TG*c` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/kgUIEeqI9UZTG7wXJfji84o3q3tFWoBJbefw_NbT5YaRnPLJ3CFgm4ppYgDIB2_z.FcYkhJVqjg5j_MHO) | [Recording](https://generalassembly.zoom.us/rec/share/7a1Efpo8W62LVGw0rMK3P_CeB-DzxTvy1q-kKo3JSkl-tpo_FLlF7wpebgKUf_Jb.OPzRCQOG4fu5qvos) | [No Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/iuLOimFccWFSMUi5x1evKrUPmRlDyxDTjMJ8ErqhO75AjFlKXomCB4QWb6v_Fu8d.ZRBIDvJ4a--qw3dx) | [Recording](https://generalassembly.zoom.us/rec/share/0CXDt7TmjBc045b4aytdexxHuyOBe9L0PAkIT82aZg_Os8TxTWGsbDtMLfxsKnuY.L-yrRWDAn8qttWqr) |
+  | Passcode: `hoj7TG*c` | Passcode: `1*dN%&8K` | Passcode: `n/a ` | Passcode: `E$35U6G!` | Passcode: `!FPy3vtK` |
 
   </p></details></li>
   
