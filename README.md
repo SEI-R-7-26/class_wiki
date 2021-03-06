@@ -42,7 +42,7 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
-  | [Recording Link](https://generalassembly.zoom.us/rec/share/cuppGd8LGCZvNQZEUjs65PSO4P92t9Pm2br3QCg1Rw_UGPkACY8cBz6WkAfMFcby.FpgtJwRn36IK0rv4)  | [Recording Link](https://generalassembly.zoom.us/rec/share/ZkhRcd8pU4aiAx9b0HQWxXr6XmrMlijc6QC7K2L8eZxYzt1Jkz0U2u0nQaccdG5s.xx6OyiwyvRw912eh)  | [Recording Link](https://generalassembly.zoom.us/rec/share/-lnFJEnqXhqWzuG9SL-1VSm4pFzeo4oEDrhGWlESF6AoCqQp72am1DM8x-sxKrCJ.uI5D4lkuFdT9iWIe)  | [Recording Link](https://generalassembly.zoom.us/rec/share/2q6_CqMjN-tYSQgRL6YUtlgrc9uCCAjUHAMksQNJlHuQ4nyo6tPTHcUqq_r1Xs1G.HMxMszVD-fEaGh43)  | [Recording Link](https://generalassembly.zoom.us/rec/share/K-InNJSJN-YJac-vKRt03G_DjRiwrXkNY_wjRPuTVxL1y5ZviH5zirSzVjlIJx61.ZLynBQ4WoYnuabLu )  |
+  | [Recording](https://generalassembly.zoom.us/rec/share/cuppGd8LGCZvNQZEUjs65PSO4P92t9Pm2br3QCg1Rw_UGPkACY8cBz6WkAfMFcby.FpgtJwRn36IK0rv4)  | [Recording](https://generalassembly.zoom.us/rec/share/ZkhRcd8pU4aiAx9b0HQWxXr6XmrMlijc6QC7K2L8eZxYzt1Jkz0U2u0nQaccdG5s.xx6OyiwyvRw912eh)  | [Recording](https://generalassembly.zoom.us/rec/share/-lnFJEnqXhqWzuG9SL-1VSm4pFzeo4oEDrhGWlESF6AoCqQp72am1DM8x-sxKrCJ.uI5D4lkuFdT9iWIe)  | [Recording](https://generalassembly.zoom.us/rec/share/2q6_CqMjN-tYSQgRL6YUtlgrc9uCCAjUHAMksQNJlHuQ4nyo6tPTHcUqq_r1Xs1G.HMxMszVD-fEaGh43)  | [Recording](https://generalassembly.zoom.us/rec/share/K-InNJSJN-YJac-vKRt03G_DjRiwrXkNY_wjRPuTVxL1y5ZviH5zirSzVjlIJx61.ZLynBQ4WoYnuabLu )  |
   | Passcode: `PF6W+7K1`  | Passcode: `TG7l0t5*`  | Passcode: `3&E3HWiv`  | Passcode: `4V^8=JKt`  | Passcode: `2HM%Lu^M`  |
 
   </p></details></li>
@@ -80,7 +80,7 @@ ___
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
   | [Recording](https://generalassembly.zoom.us/rec/share/1JLLA-WdjdYnCsVoyoIHIKbwKvDITZdENINVHjkG91cPOS0ablatBgEJfB0MYDoL.u_Gizu2tGu0esO5J) | [Recording](https://generalassembly.zoom.us/rec/share/R8w6KTHjBu_OZzTD5kiuciqRPjMz-J7Pi6J7NclA7yv8vwA7KvnSK4GcHQZUFWiP.by7t0g7P1t_XTOJv) | [Recording](https://generalassembly.zoom.us/rec/share/Zshi6COg_-c-m6J7H328VqqjZAntUV19QE6UwlKwfvtnLdkb7F4mR6-Ok3sGtry9.VDAUwtLKyYEC7aAB) | [Recording](https://generalassembly.zoom.us/rec/share/wwtWaxQVxfq_Of48fVjVJzRA9Dk0hvN2i5jaz984_K7Nlm8MmHedBxExlWBOe0Ye.78z-E6EmbwXXtQvF) | No Recording |
-  | Passcode: `9VBCaLJ+` | Passcode: `Cb$78QSu` | Passcode: `j5SA!B=1` | Passcode: `L0!Hx55i` | Passcode: `n/a` |
+  | Passcode: `9VBCaLJ+` | Passcode: `Cb$78QSu` | Passcode: `j5SA!B=1` | Passcode: `L0!Hx55i` |  |
 
   </p></details></li>
   
@@ -122,7 +122,7 @@ ___
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
   | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/txovc8q-jspCAHVVH1RXeaFR0sa0PmH9oT_ko9Y7enXRXooZUVNwLUAPE4aSkCq8.kYQ-WyZdanPtN25T) | [Recording](https://generalassembly.zoom.us/rec/share/pMprJiqPeS5_t6SmFuanokU3d1kn3_1K2Zz3mojOYj2uHKQY2KA1xR3Wx1HIFn0.OYZZjs8QvRFVS1Dd) | [Recording](https://generalassembly.zoom.us/rec/share/VWs3HBpsIZIS2C4JmBCOrwjUC0tyqfWc9GYUHrI5enolGPQJNGhX-0W0TRApMTXn.FuxZg2uEBTfR-x7O) | [Recording](https://generalassembly.zoom.us/rec/share/I6M6rFQqLZpiueR5zmZJWbh56O42A_kmgcp1yNqhodGseAfr_d278qxbhsj9SM4W.NClCA0KVRFVHxU5r) |
-  | Passcode: `n/a` | Passcode: `^#0$7^a*` | Passcode: `?LUf?r8=` | Passcode: `zcyu?tO6` | Passcode: `&!64MJ!2` |
+  |  | Passcode: `^#0$7^a*` | Passcode: `?LUf?r8=` | Passcode: `zcyu?tO6` | Passcode: `&!64MJ!2` |
 
   </p></details></li>
   
@@ -159,7 +159,7 @@ ___
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |---|---|---|---|---|
   | [Recording](https://generalassembly.zoom.us/rec/share/kgUIEeqI9UZTG7wXJfji84o3q3tFWoBJbefw_NbT5YaRnPLJ3CFgm4ppYgDIB2_z.FcYkhJVqjg5j_MHO) | [Recording](https://generalassembly.zoom.us/rec/share/7a1Efpo8W62LVGw0rMK3P_CeB-DzxTvy1q-kKo3JSkl-tpo_FLlF7wpebgKUf_Jb.OPzRCQOG4fu5qvos) | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/iuLOimFccWFSMUi5x1evKrUPmRlDyxDTjMJ8ErqhO75AjFlKXomCB4QWb6v_Fu8d.ZRBIDvJ4a--qw3dx) | [Recording](https://generalassembly.zoom.us/rec/share/0CXDt7TmjBc045b4aytdexxHuyOBe9L0PAkIT82aZg_Os8TxTWGsbDtMLfxsKnuY.L-yrRWDAn8qttWqr) |
-  | Passcode: `hoj7TG*c` | Passcode: `1*dN%&8K` | Passcode: `n/a ` | Passcode: `E$35U6G!` | Passcode: `!FPy3vtK` |
+  | Passcode: `hoj7TG*c` | Passcode: `1*dN%&8K` |  | Passcode: `E$35U6G!` | Passcode: `!FPy3vtK` |
 
   - [MERN Deployment and P2s Recording](https://generalassembly.zoom.us/rec/share/s74IYaUx4psQBg9TCkcBGMqWGQqkuDmGOsO0LkpFGmoKofjuo4R3d32qhlFomH6Y.KmtRpGY96lRP782I)  Passcode: `t68+4BUm`
 
