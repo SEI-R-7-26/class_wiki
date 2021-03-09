@@ -22,14 +22,14 @@ ___
   
 <ul>
   <li>Meet Project Requirements
-    <ul><li>Satifactorily complete and present a project for each of the 4 units.</li></ul>
+    <ul><li>Satisfactorily complete and present a project for <i>each</i> of the <b>4</b> units.</li></ul>
   </li>
-  <li>Submit and complete a minimum of 80% of deliverables (labs, homework, etc.)</li>
+  <li>Submit and complete a <i>minimum</i> of <b>80%</b> of deliverables (labs, homework, etc.)</li>
   <li>Adhere to attendance policy</li>
   <ul>
-  <li>Students are allowed 3 absences over the entire course</li>
-  <li>3 tardies or early departures equals 1 absence</li>
-  <li>Tardy policy includes Outcomes participation</li>
+    <li>Students are allowed <b>3</b> absences over the <i>entire</i> course</li>
+    <li><b>3</b> tardies or early departures equals <b>1</b> absence</li>
+    <li>Tardy policy <i>includes</i> Outcomes participation</li>
   </ul>
 </ul>
   
@@ -41,9 +41,9 @@ ___
   <li>Foster a productive classroom environment.</li>
   <li>Treat others with respect and dignity.</li>
   <li>Remember that everyone is coming at this with a different background.</li>
-  <li>Professionalism in all methods of communication, both in-person and online.</li>
+  <li>Professionalism in all methods of communication, both in-person <i>and</i> online.</li>
   <li>Slack is an extension of our on-campus community. We ask that you remain courteous, respectful, and professional while engaging on Slack.</li>
-  <li>Zero tolerance for plagiarism and cheating.</li>
+  <li><b>Zero tolerance for plagiarism and cheating.</b></li>
 </ul>
   
   </p></details></li>
@@ -51,12 +51,12 @@ ___
   <li><details><summary>Deliverable Submission Requirements</summary><p>
   
 <ul>
-  <li>Deliverables are always due the following class day at the beginning of class, unless otherwise stated.</li>
-  <li>There is a grace period for re-submission or late submission.  All re-submits/late submits are due the Monday following the week of assignment.</li>
-  <li>Deliverables assigned on Fridays do not have a re-submit or late submit grace period.</li>
-  <li>Students must meet deliverable requirements for the submission to be marked as "Complete".</li>
-  <li>Deliverables submitted after the grace period will not be graded or accepted and will be marked as "Incomplete".</li>
   <li>Deliverables must be submitted following the <a href="https://github.com/SEI-R-1-25/template_pull_request">PR Guidelines</a>.</li>
+  <li>Students must meet deliverable requirements for the submission to be marked as "Complete".</li>
+  <li>Deliverables are <i>always</i> due the following class day at the beginning of class, unless otherwise stated.</li>
+  <li>There is a grace period for re-submission or late submission.  All re-submits/late submits are due the <b>Monday following the week of assignment</b>.</li>
+  <li>Deliverables assigned on Fridays <b>do not</b> have a re-submit <i>or</i> late submit grace period.</li>
+  <li>Deliverables submitted <i>after</i> the grace period <b>will not</b> be graded or accepted and will be marked as "Incomplete".</li>
 </ul>
   
   </p></details></li>
