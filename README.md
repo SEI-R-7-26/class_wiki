@@ -10,6 +10,60 @@ Daily Javascript Challenges can be found [here](https://github.com/SEI-R-1-25/da
 Looking for more practice? Short on reading material? Check out the Additional Resources section at the bottom of this wiki.
 
 ___
+<details><summary><strong>Class Policies</strong></summary><p>
+  
+  Below, you will find class policies and requirements as laid out in Orientation on the first day of class and as conveyed by the Instructional Team.  We compile them here for your reference and review.
+  
+</p>
+
+<ul type="none">
+  
+  <li><details><summary>Graduation Requirements</summary><p>
+  
+<ul>
+  <li>Meet Project Requirements
+    <ul><li>Satifactorily complete and present a project for each of the 4 units.</li></ul>
+  </li>
+  <li>Submit and complete a minimum of 80% of deliverables (labs, homework, etc.)</li>
+  <li>Adhere to attendance policy</li>
+  <ul>
+  <li>Students are allowed 3 absences over the entire course</li>
+  <li>3 tardies or early departures equals 1 absence</li>
+  <li>Tardy policy includes Outcomes participation</li>
+  </ul>
+</ul>
+  
+  </p></details></li>
+  
+  <li><details><summary>Code of Conduct</summary><p>
+  
+<ul>
+  <li>Foster a productive classroom environment.</li>
+  <li>Treat others with respect and dignity.</li>
+  <li>Remember that everyone is coming at this with a different background.</li>
+  <li>Professionalism in all methods of communication, both in-person and online.</li>
+  <li>Slack is an extension of our on-campus community. We ask that you remain courteous, respectful, and professional while engaging on Slack.</li>
+  <li>Zero tolerance for plagiarism and cheating.</li>
+</ul>
+  
+  </p></details></li>
+ 
+  <li><details><summary>Deliverable Submission Requirements</summary><p>
+  
+<ul>
+  <li>Deliverables are always due the following class day at the beginning of class, unless otherwise stated.</li>
+  <li>There is a grace period for re-submission or late submission.  All re-submits/late submits are due the Monday following the week of assignment.</li>
+  <li>Deliverables assigned on Fridays do not have a re-submit or late submit grace period.</li>
+  <li>Students must meet deliverable requirements for the submission to be marked as "Complete".</li>
+  <li>Deliverables submitted after the grace period will not be graded or accepted and will be marked as "Incomplete".</li>
+  <li>Deliverables must be submitted following the <a href="https://github.com/SEI-R-1-25/template_pull_request">PR Guidelines</a>.</li>
+</ul>
+  
+  </p></details></li>
+  
+</ul></details>
+
+____
 <details><summary><strong>Unit 1</strong> - HTML / CSS / JavaScript</summary><p>
 
 <ul type="none">
@@ -340,7 +394,6 @@ ___
 
 Here is a list of additional resources that were hand-picked by your instructors. If you find that you don't have the time during cohort, these resources will still help to solidify your understanding of key concepts well past graduation. This list is split into 4 sections and will grow over time as more concepts have been covered:
 
-___
   <ul type="none">
   
   <li><details><summary><strong>Practice </strong>- places to apply your skills and grow in your problem solving abilities.</summary><p>
