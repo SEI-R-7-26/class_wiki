@@ -3,22 +3,20 @@
 ![Wiki](https://media.wired.com/photos/5955ac6b5992c54331ac161b/191:100/pass/2000px-Wikipedia-logo-v2-en-F.jpg)
 
 ___
-Welcome to the SEI-R-1-25 Class Wiki. <br/><br/> This repository is a place where all of the course content we've covered can be found. Content will be organized by Unit, Week, and Day, with the lesson repos and class recording links for each day.
+Welcome to the SEI-R-1-25 Class Wiki. <br/><br/> This repository is a place where all of the course content we've covered can be found. Content will be organized by Unit, Week, and Day, with the lesson repos and class recordings for each day.
 
 Daily Javascript Challenges can be found [here](https://github.com/SEI-R-1-25/daily_js_challenges).
-
-Looking for more practice? Short on reading material? Check out the Additional Resources section at the bottom of this wiki.
 
 ___
 <details><summary><strong>Class Policies</strong></summary><p>
   
-  Below, you will find class policies and requirements as laid out in Orientation on the first day of class and as conveyed by the Instructional Team.  We compile them here for your reference and review.
+Below, you will find class policies and requirements as laid out in Orientation on the first day of class and as conveyed by the Instructional Team.  We compile them here for your reference and review.
   
 </p>
 
 <ul type="none">
   
-  <li><details><summary><strong>Graduation Requirements</strong></summary><p>
+<li><details><summary><strong>Graduation Requirements</strong></summary><p>
   
 <ul>
   <li>Meet Project Requirements.
@@ -34,9 +32,9 @@ ___
   </li>
 </ul>
   
-  </p></details></li>
-  
-  <li><details><summary><strong>Code of Conduct</strong></summary><p>
+</p></details></li>
+
+<li><details><summary><strong>Code of Conduct</strong></summary><p>
   
 <ul>
   <li>Foster a productive classroom environment.</li>
@@ -50,9 +48,9 @@ ___
   <li><b>Zero tolerance for plagiarism and cheating.</b></li>
 </ul>
   
-  </p></details></li>
- 
-  <li><details><summary><strong>Deliverable Submission Requirements</strong></summary><p>
+</p></details></li>
+
+<li><details><summary><strong>Deliverable Submission Requirements</strong></summary><p>
   
 <ul>
   <li>Deliverables must be submitted following the <a href="https://github.com/SEI-R-1-25/template_pull_request">PR Guidelines</a>.</li>
@@ -66,7 +64,7 @@ ___
   </li>
 </ul>
   
-  </p></details></li>
+</p></details></li>
   
 </ul></details>
 
