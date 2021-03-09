@@ -75,12 +75,11 @@ ____
   
   <li><details><summary><strong>Week 1</strong></summary><p>
   
+  <p>
+  In Week 1, we reviewed the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> along with introducing <b>git</b> workflow, <b>terminal</b> commands, and writing professional <b>markdown</b> files. 
+  </p>
+  
   <ul type="none">
-  
-  <li><details><summary>Overview</summary><p>
-  
-  In Week 1, we reviewed the fundamental concepts of `HTML`, `CSS`, and `JavaScript` along with introducing `git` workflow, `terminal` commands, and writing professional `markdown` files. 
-  </p></details></li>
 
   <li><details><summary>Repos</summary><p>
 
@@ -113,12 +112,11 @@ ____
   
   <li><details><summary><strong>Week 2</strong></summary><p>
   
+  <p>
+  In Week 2, we practiced more <b>DOM Manipulation</b> and were introduced to <a href="https://github.com/SEI-R-1-25/daily_js_challenges">Daily JavaScript Challenges</a> and basic algorithmic problem solving. We and learned about <b>ES6</b> syntax along with <b>Higher Order Functions</b>, <b>Object Oriented Programming</b> in JavaScript, <b>npm scripts</b>, and fetching/accessing data with <b>APIs</b>. 
+  </p>
+  
   <ul type="none">
-  
-  <li><details><summary>Overview</summary><p>
-  
-  In Week 2, we practiced more `DOM Manipulation` and were introduced to [Daily JavaScript Challenges](https://github.com/SEI-R-1-25/daily_js_challenges) and basic algorithmic problem solving. We and learned about `ES6` syntax along with `Higher Order Functions`, `Object Oriented Programming` in JavaScript, `npm scripts`, and fetching/accessing data with `API`s. 
-  </p></details></li>
 
   <li><details><summary>Repos</summary><p>
   
@@ -156,12 +154,11 @@ ___
 
   <li><details><summary><strong>Week 4</strong></summary><p>
   
+  <p>
+  In Week 4, we learned all about <b>React</b> and what an amazing language it can be for developers.  We learned the concepts of <b>components</b>, <b>props</b>, and <b>state</b>.  We learned about the idea of <b>conditional rendering</b> and how we can use our user's input to influence our output.  We were also introduced to <b>React Router</b> and got to see how it gives us powerful new tools to build our React Apps.
+  </p>
+  
   <ul type="none">
-  
-  <li><details><summary>Overview</summary><p>
-  
-  In Week 4, we learned all about `React` and what an amazing language it can be for developers.  We learned the concepts of `components`, `props`, and `state`.  We learned about the idea of `conditional rendering` and how we can use our user's input to influence our output.  We were also introduced to `React Router` and got to see how it gives us powerful new tools to build our React Apps.
-  </p></details></li>
 
   <li><details><summary>Repos</summary><p>
 
@@ -192,12 +189,11 @@ ___
   
   <li><details><summary><strong>Week 5</strong></summary><p>
   
+  <p>
+  In Week 5, we introduced back-end and got to practice using <b>Express</b> and <b>Express Middleware</b>.  We also learned how to implement <b>controllers</b>.  We then introduced <b>MongoDB</b> and <b>mongoose</b> as a way to store our app's data.  At the end of the week, we learned some group <b>git</b> best-practices and got to build our first full stack app together in groups!
+  </p>
+  
   <ul type="none">
-  
-  <li><details><summary>Overview</summary><p>
-  
-  In Week 5, we introduced back-end and got to practice using `Express` and `Express Middleware`.  We also learned how to implement `controllers`.  We then introduced `MongoDB` and `mongoose` as a way to store our app's data.  At the end of the week, we learned some group `git` best-practices and got to build our first full stack app together in groups!
-  </p></details></li>
 
   <li><details><summary>Repos</summary><p>
   
@@ -237,12 +233,11 @@ ___
 
   <li><details><summary><strong>Week 7</strong></summary><p>
   
+  <p>
+  Week 7 overview. 
+  </p>
+  
   <ul type="none">
-  
-  <li><details><summary>Overview</summary><p>
-  
-  Week 1 overview. 
-  </p></details></li>
 
   <li><details><summary>Repos</summary><p>
 
@@ -275,12 +270,11 @@ ___
   
   <li><details><summary><strong>Week 8</strong></summary><p>
   
+  <p>
+  Week 8 overview. 
+  </p>
+  
   <ul type="none">
-  
-  <li><details><summary>Overview</summary><p>
-  
-  Week 2 overview. 
-  </p></details></li>
 
   <li><details><summary>Repos</summary><p>
   
@@ -319,12 +313,11 @@ ___
 
   <li><details><summary><strong>Week 10</strong></summary><p>
   
+  <p>
+  Week 10 overview. 
+  </p>
+  
   <ul type="none">
-  
-  <li><details><summary>Overview</summary><p>
-  
-  Week 1 overview. 
-  </p></details></li>
 
   <li><details><summary>Repos</summary><p>
 
@@ -357,12 +350,11 @@ ___
   
   <li><details><summary><strong>Week 11</strong></summary><p>
   
+  <p>
+  Week 11 overview. 
+  </p>
+  
   <ul type="none">
-  
-  <li><details><summary>Overview</summary><p>
-  
-  Week 2 overview. 
-  </p></details></li>
 
   <li><details><summary>Repos</summary><p>
   
