@@ -84,14 +84,14 @@ ____
   <li><details><summary>Repos</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
-  |---|---|---|---|---|
-  | [Mac Installfest](https://github.com/SEI-R-1-25/InstallFest_Mac)  | [Github Lesson](https://github.com/SEI-R-1-25/u1_lesson_github)  | [Flexbox / Grid](https://github.com/SEI-R-1-25/u1_lesson_flex_grid/blob/main/README.md)  | [Flexbox Froggy](https://flexboxfroggy.com/)  | [Grid Garden](https://cssgridgarden.com/)  |
-  | [Windows Installfest](https://github.com/SEI-R-1-25/Installfest_Windows)  | [Intro to HTML](https://github.com/SEI-R-1-25/u1_lesson_intro_HTML)  | [JS Datatypes](https://github.com/SEI-R-1-25/u1_lesson_js_data_types)  | [JS Functions](https://github.com/SEI-R-1-25/u1_lesson_js_functions)  | [Intro to JS DOM](https://github.com/SEI-R-1-25/u1_lesson_js_dom)  |
-  | [Terminal Lesson](https://github.com/SEI-R-1-25/u1_lesson_terminal)  | [Intro to CSS](https://github.com/SEI-R-1-25/u1_lesson_intro_CSS)  | [JS Arrays](https://github.com/SEI-R-1-25/u1_lesson_js_arrays)  | [JS Scope](https://github.com/SEI-R-1-25/u1_lesson_js_scope)  | [JS DOM Quotes Lab](https://github.com/SEI-R-1-25/u1_lab_DOM)  |
-  | [Git Lesson](https://github.com/SEI-R-1-25/u1_lesson_git)  | [Markdown Lesson](https://github.com/SEI-R-1-25/u1_lesson_markdown)  | [JS Loops & Control Flow](https://github.com/SEI-R-1-25/u1_lesson_js_control_flow)  | [JS Objects](https://github.com/SEI-R-1-25/u1_lesson_js_objects)  | [JS Events & Callbacks](https://github.com/SEI-R-1-25/u1_lesson_js_events_callbacks)  |
-  | [VS Code Lesson](https://github.com/SEI-R-1-25/u1_lesson_VSCode)  | [HTML / CSS Lab](https://github.com/SEI-R-1-25/u1_lab_html_css_exercise)  | [Control Flow Adventure](https://github.com/SEI-R-1-25/u1_hw_control_flow_adventure)  | [Jurassic Objects Lab](https://github.com/SEI-R-1-25/u1_lab_jurassic_objects)  | [JS Event Bubbling](https://github.com/SEI-R-1-25/u1_lesson_js_event_bubbling)  |
-  | [Terminal Lab](https://github.com/SEI-R-1-25/u1_lab_git_practice)  | [Markdown Homework](https://github.com/SEI-R-1-25/u1_hw_markdown)  |   | [Objects & Functions Lab](https://github.com/SEI-R-1-25/u1_lab_objects_functions)  | [JS Dots Game Lab](https://github.com/SEI-R-1-25/u1_lab_dots)  |
-  | [Star Wars Homework](https://github.com/SEI-R-1-25/u1_hw_star_wars)  |   |   | [Codewars Homework](https://github.com/SEI-R-1-25/u1_hw_codewars_challenges)  | [Tic Tac Toe Homework](https://github.com/SEI-R-1-25/u1_hw_tic_tac_toe)  |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Mac Installfest](https://github.com/SEI-R-1-25/InstallFest_Mac) | [Github Lesson](https://github.com/SEI-R-1-25/u1_lesson_github) | [Flexbox / Grid](https://github.com/SEI-R-1-25/u1_lesson_flex_grid/blob/main/README.md) | [Flexbox Froggy](https://flexboxfroggy.com/) | [Grid Garden](https://cssgridgarden.com/) |
+  | [Windows Installfest](https://github.com/SEI-R-1-25/Installfest_Windows) | [Intro to HTML](https://github.com/SEI-R-1-25/u1_lesson_intro_HTML) | [JS Datatypes](https://github.com/SEI-R-1-25/u1_lesson_js_data_types) | [JS Functions](https://github.com/SEI-R-1-25/u1_lesson_js_functions) | [Intro to JS DOM](https://github.com/SEI-R-1-25/u1_lesson_js_dom) |
+  | [Terminal Lesson](https://github.com/SEI-R-1-25/u1_lesson_terminal) | [Intro to CSS](https://github.com/SEI-R-1-25/u1_lesson_intro_CSS) | [JS Arrays](https://github.com/SEI-R-1-25/u1_lesson_js_arrays) | [JS Scope](https://github.com/SEI-R-1-25/u1_lesson_js_scope) | [JS DOM Quotes Lab](https://github.com/SEI-R-1-25/u1_lab_DOM) |
+  | [Git Lesson](https://github.com/SEI-R-1-25/u1_lesson_git) | [Markdown Lesson](https://github.com/SEI-R-1-25/u1_lesson_markdown) | [JS Loops & Control Flow](https://github.com/SEI-R-1-25/u1_lesson_js_control_flow) | [JS Objects](https://github.com/SEI-R-1-25/u1_lesson_js_objects) | [JS Events & Callbacks](https://github.com/SEI-R-1-25/u1_lesson_js_events_callbacks) |
+  | [VS Code Lesson](https://github.com/SEI-R-1-25/u1_lesson_VSCode) | [HTML / CSS Lab](https://github.com/SEI-R-1-25/u1_lab_html_css_exercise) | [Control Flow Adventure](https://github.com/SEI-R-1-25/u1_hw_control_flow_adventure) | [Jurassic Objects Lab](https://github.com/SEI-R-1-25/u1_lab_jurassic_objects) | [JS Event Bubbling](https://github.com/SEI-R-1-25/u1_lesson_js_event_bubbling) |
+  | [Terminal Lab](https://github.com/SEI-R-1-25/u1_lab_git_practice) | [Markdown Homework](https://github.com/SEI-R-1-25/u1_hw_markdown) |   | [Objects & Functions Lab](https://github.com/SEI-R-1-25/u1_lab_objects_functions) | [JS Dots Game Lab](https://github.com/SEI-R-1-25/u1_lab_dots) |
+  | [Star Wars Homework](https://github.com/SEI-R-1-25/u1_hw_star_wars) |   |   | [Codewars Homework](https://github.com/SEI-R-1-25/u1_hw_codewars_challenges) | [Tic Tac Toe Homework](https://github.com/SEI-R-1-25/u1_hw_tic_tac_toe) |
 
   </p></details></li>
 
@@ -99,9 +99,9 @@ ____
   <li><details><summary>Class Recordings</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
-  |---|---|---|---|---|
-  | [Recording](https://generalassembly.zoom.us/rec/share/cuppGd8LGCZvNQZEUjs65PSO4P92t9Pm2br3QCg1Rw_UGPkACY8cBz6WkAfMFcby.FpgtJwRn36IK0rv4)  | [Recording](https://generalassembly.zoom.us/rec/share/ZkhRcd8pU4aiAx9b0HQWxXr6XmrMlijc6QC7K2L8eZxYzt1Jkz0U2u0nQaccdG5s.xx6OyiwyvRw912eh)  | [Recording](https://generalassembly.zoom.us/rec/share/-lnFJEnqXhqWzuG9SL-1VSm4pFzeo4oEDrhGWlESF6AoCqQp72am1DM8x-sxKrCJ.uI5D4lkuFdT9iWIe)  | [Recording](https://generalassembly.zoom.us/rec/share/2q6_CqMjN-tYSQgRL6YUtlgrc9uCCAjUHAMksQNJlHuQ4nyo6tPTHcUqq_r1Xs1G.HMxMszVD-fEaGh43)  | [Recording](https://generalassembly.zoom.us/rec/share/K-InNJSJN-YJac-vKRt03G_DjRiwrXkNY_wjRPuTVxL1y5ZviH5zirSzVjlIJx61.ZLynBQ4WoYnuabLu )  |
-  | Passcode: `PF6W+7K1`  | Passcode: `TG7l0t5*`  | Passcode: `3&E3HWiv`  | Passcode: `4V^8=JKt`  | Passcode: `2HM%Lu^M`  |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording](https://generalassembly.zoom.us/rec/share/cuppGd8LGCZvNQZEUjs65PSO4P92t9Pm2br3QCg1Rw_UGPkACY8cBz6WkAfMFcby.FpgtJwRn36IK0rv4) | [Recording](https://generalassembly.zoom.us/rec/share/ZkhRcd8pU4aiAx9b0HQWxXr6XmrMlijc6QC7K2L8eZxYzt1Jkz0U2u0nQaccdG5s.xx6OyiwyvRw912eh) | [Recording](https://generalassembly.zoom.us/rec/share/-lnFJEnqXhqWzuG9SL-1VSm4pFzeo4oEDrhGWlESF6AoCqQp72am1DM8x-sxKrCJ.uI5D4lkuFdT9iWIe) | [Recording](https://generalassembly.zoom.us/rec/share/2q6_CqMjN-tYSQgRL6YUtlgrc9uCCAjUHAMksQNJlHuQ4nyo6tPTHcUqq_r1Xs1G.HMxMszVD-fEaGh43) | [Recording](https://generalassembly.zoom.us/rec/share/K-InNJSJN-YJac-vKRt03G_DjRiwrXkNY_wjRPuTVxL1y5ZviH5zirSzVjlIJx61.ZLynBQ4WoYnuabLu ) |
+  | Passcode: `PF6W+7K1` | Passcode: `TG7l0t5*` | Passcode: `3&E3HWiv` | Passcode: `4V^8=JKt` | Passcode: `2HM%Lu^M` |
 
   </p></details></li>
   
@@ -121,7 +121,7 @@ ____
   <li><details><summary>Repos</summary><p>
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
-  |---|---|---|---|---|
+  |:---:|:---:|:---:|:---:|:---:|
   | [Daily JS](https://github.com/SEI-R-1-25/daily_js_challenges) | [Intro to OOP](https://github.com/SEI-R-1-25/u1_lesson_js_oop) | [Box Model Practice](https://github.com/SEI-R-1-25/u1_lab_box_model) | [Intro to APIs](https://github.com/SEI-R-1-25/u1_lesson_intro_to_apis) | [Unit 1 Assessment](https://github.com/SEI-R-1-25/u1_assessment) | 
   | [ES6 Syntax](https://github.com/SEI-R-1-25/u1_lesson_js_es6) | [OOP Lab](https://github.com/SEI-R-1-25/u1_lab_OOP) | [Intro to NPM & Building Scripts](https://github.com/SEI-R-1-25/u1_lesson_nodejs_scripting) | [API Dogs Lab](https://github.com/SEI-R-1-25/u1_lab_api_dogs) | [Project 1 Prompt](https://github.com/SEI-R-1-25/u1_project_prompt) | 
   | [ES6 Lab](https://github.com/SEI-R-1-25/u1_lab_es6_practice) | [OOP With DOM Elements](https://github.com/SEI-R-1-25/u1_lesson_OOP_HTML) | [JS Fast & Furious](https://github.com/SEI-R-1-25/u1_hw_fast_and_furious) | [OMDB API Lab](https://github.com/SEI-R-1-25/u1_lab_omdb_api) | []() | 
@@ -135,7 +135,7 @@ ____
   <li><details><summary>Class Recordings</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
-  |---|---|---|---|---|
+  |:---:|:---:|:---:|:---:|:---:|
   | [Recording](https://generalassembly.zoom.us/rec/share/1JLLA-WdjdYnCsVoyoIHIKbwKvDITZdENINVHjkG91cPOS0ablatBgEJfB0MYDoL.u_Gizu2tGu0esO5J) | [Recording](https://generalassembly.zoom.us/rec/share/R8w6KTHjBu_OZzTD5kiuciqRPjMz-J7Pi6J7NclA7yv8vwA7KvnSK4GcHQZUFWiP.by7t0g7P1t_XTOJv) | [Recording](https://generalassembly.zoom.us/rec/share/Zshi6COg_-c-m6J7H328VqqjZAntUV19QE6UwlKwfvtnLdkb7F4mR6-Ok3sGtry9.VDAUwtLKyYEC7aAB) | [Recording](https://generalassembly.zoom.us/rec/share/wwtWaxQVxfq_Of48fVjVJzRA9Dk0hvN2i5jaz984_K7Nlm8MmHedBxExlWBOe0Ye.78z-E6EmbwXXtQvF) | No Recording |
   | Passcode: `9VBCaLJ+` | Passcode: `Cb$78QSu` | Passcode: `j5SA!B=1` | Passcode: `L0!Hx55i` |  |
 
@@ -163,12 +163,12 @@ ___
   <li><details><summary>Repos</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
-  |---|---|---|---|---|
-  | HOLIDAY | [Intro to React](https://github.com/SEI-R-1-25/u2_lesson_react_intro)  | [Mapping Components](https://github.com/SEI-R-1-25/u2_lesson_react_mapping_components)  | [Intro to State](https://github.com/SEI-R-1-25/u2_lesson_react_state_intro)  | [Conditional Rendering](https://github.com/SEI-R-1-25/u2_lesson_react_conditional_rendering)  |
-  | HOLIDAY | [React Components Lab](https://github.com/SEI-R-1-25/u2_lesson_react_components)  | [Mapping Components Lab](https://github.com/SEI-R-1-25/u2_lab_mapping_components)  | [React Todos Lab](https://github.com/SEI-R-1-25/u2_lab_react_todos)  | [Conditional Rendering Lab](https://github.com/SEI-R-1-25/u2_lab_conditional_rendering)  |
-  | HOLIDAY | [React Props](https://github.com/SEI-R-1-25/u2_lesson_react_props)  | [Movie Mapping Homework](https://github.com/SEI-R-1-25/u2_hw_mapping_components)  | [Lifecycle Methods](https://github.com/SEI-R-1-25/u2_lesson_react_lifecycle)  | [React Router](https://github.com/SEI-R-1-25/u2_lesson_react_router)  |
-  | HOLIDAY | [React LOTR](https://github.com/SEI-R-1-25/u2_lab_react_lotr)  |   | [Lifecycle Lab](https://github.com/SEI-R-1-25/u2_lab_react_component_lifecycle)  | [RAWG Router Lab](https://github.com/SEI-R-1-25/u2_lab_react_router)  |
-  | HOLIDAY | [React Quiz Homework](https://github.com/SEI-R-1-25/u2_quiz_react)  |   | [React Calculator Homework](https://github.com/SEI-R-1-25/u2_hw_react_calculator)  | [Burger Stacker Homework](https://github.com/SEI-R-1-25/u2_hw_react_burger_stacker)  |
+  |:---:|:---:|:---:|:---:|:---:|
+  | HOLIDAY | [Intro to React](https://github.com/SEI-R-1-25/u2_lesson_react_intro) | [Mapping Components](https://github.com/SEI-R-1-25/u2_lesson_react_mapping_components) | [Intro to State](https://github.com/SEI-R-1-25/u2_lesson_react_state_intro) | [Conditional Rendering](https://github.com/SEI-R-1-25/u2_lesson_react_conditional_rendering) |
+  | HOLIDAY | [React Components Lab](https://github.com/SEI-R-1-25/u2_lesson_react_components) | [Mapping Components Lab](https://github.com/SEI-R-1-25/u2_lab_mapping_components) | [React Todos Lab](https://github.com/SEI-R-1-25/u2_lab_react_todos) | [Conditional Rendering Lab](https://github.com/SEI-R-1-25/u2_lab_conditional_rendering) |
+  | HOLIDAY | [React Props](https://github.com/SEI-R-1-25/u2_lesson_react_props) | [Movie Mapping Homework](https://github.com/SEI-R-1-25/u2_hw_mapping_components) | [Lifecycle Methods](https://github.com/SEI-R-1-25/u2_lesson_react_lifecycle) | [React Router](https://github.com/SEI-R-1-25/u2_lesson_react_router) |
+  | HOLIDAY | [React LOTR](https://github.com/SEI-R-1-25/u2_lab_react_lotr) |   | [Lifecycle Lab](https://github.com/SEI-R-1-25/u2_lab_react_component_lifecycle) | [RAWG Router Lab](https://github.com/SEI-R-1-25/u2_lab_react_router) |
+  | HOLIDAY | [React Quiz Homework](https://github.com/SEI-R-1-25/u2_quiz_react) |   | [React Calculator Homework](https://github.com/SEI-R-1-25/u2_hw_react_calculator) | [Burger Stacker Homework](https://github.com/SEI-R-1-25/u2_hw_react_burger_stacker) |
 
   </p></details></li>
 
@@ -176,7 +176,7 @@ ___
   <li><details><summary>Class Recordings</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
-  |---|---|---|---|---|
+  |:---:|:---:|:---:|:---:|:---:|
   | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/txovc8q-jspCAHVVH1RXeaFR0sa0PmH9oT_ko9Y7enXRXooZUVNwLUAPE4aSkCq8.kYQ-WyZdanPtN25T) | [Recording](https://generalassembly.zoom.us/rec/share/pMprJiqPeS5_t6SmFuanokU3d1kn3_1K2Zz3mojOYj2uHKQY2KA1xR3Wx1HIFn0.OYZZjs8QvRFVS1Dd) | [Recording](https://generalassembly.zoom.us/rec/share/VWs3HBpsIZIS2C4JmBCOrwjUC0tyqfWc9GYUHrI5enolGPQJNGhX-0W0TRApMTXn.FuxZg2uEBTfR-x7O) | [Recording](https://generalassembly.zoom.us/rec/share/I6M6rFQqLZpiueR5zmZJWbh56O42A_kmgcp1yNqhodGseAfr_d278qxbhsj9SM4W.NClCA0KVRFVHxU5r) |
   |  | Passcode: `^#0$7^a*` | Passcode: `?LUf?r8=` | Passcode: `zcyu?tO6` | Passcode: `&!64MJ!2` |
 
@@ -198,12 +198,12 @@ ___
   <li><details><summary>Repos</summary><p>
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
-  |---|---|---|---|---|
-  | [React APIs](https://github.com/SEI-R-1-25/u2_lesson_react_APIs)  | [Express Middleware](https://github.com/SEI-R-1-25/u2_lesson_express_middleware)  | [MongoDB Sneakers Lab](https://github.com/SEI-R-1-25/u2_lab_mongodb_exercise)  | [Group Git](https://github.com/SEI-R-1-25/u2_lesson_group_git)  | [MERN Deployment](https://github.com/SEI-R-1-25/u2_lesson_MERN_heroku_deployment)  |
-  | [Intro to Express](https://github.com/SEI-R-1-25/u2_lesson_express_intro)  | [Express Controllers](https://github.com/SEI-R-1-25/u2_lesson_express_controllers)  | [Mongoose Express Lab](https://github.com/SEI-R-1-25/u2_lab_mongoose_express)  | [Mongoose Associations](https://github.com/SEI-R-1-25/u2_lesson_mongoose_associations)  | []()  |
-  | [Express Routes](https://github.com/SEI-R-1-25/u2_lesson_express_routing)  | [MongoDB](https://github.com/SEI-R-1-25/u2_lesson_mongodb)  | [Mongoose Plants API Homework](https://github.com/SEI-R-1-25/u2_hw_mongoose_plants)  | [Full Stackathon](https://github.com/SEI-R-1-25/u2_hackathon)  | []()  |
-  | [RAWG Router Homework](https://github.com/SEI-R-1-25/u2_lab_rawg_router)  | [Mongoose Schemas and Models](https://github.com/SEI-R-1-25/u2_lesson_mongoose_data_model)  | []()  | []()  | []()  |
-  | []()  | [Express Fruits Homework](https://github.com/SEI-R-1-25/u2_hw_express_fruits)  | []()  | []()  | []()  |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [React APIs](https://github.com/SEI-R-1-25/u2_lesson_react_APIs) | [Express Middleware](https://github.com/SEI-R-1-25/u2_lesson_express_middleware) | [MongoDB Sneakers Lab](https://github.com/SEI-R-1-25/u2_lab_mongodb_exercise) | [Group Git](https://github.com/SEI-R-1-25/u2_lesson_group_git) | [MERN Deployment](https://github.com/SEI-R-1-25/u2_lesson_MERN_heroku_deployment) |
+  | [Intro to Express](https://github.com/SEI-R-1-25/u2_lesson_express_intro) | [Express Controllers](https://github.com/SEI-R-1-25/u2_lesson_express_controllers) | [Mongoose Express Lab](https://github.com/SEI-R-1-25/u2_lab_mongoose_express) | [Mongoose Associations](https://github.com/SEI-R-1-25/u2_lesson_mongoose_associations) | []() |
+  | [Express Routes](https://github.com/SEI-R-1-25/u2_lesson_express_routing) | [MongoDB](https://github.com/SEI-R-1-25/u2_lesson_mongodb) | [Mongoose Plants API Homework](https://github.com/SEI-R-1-25/u2_hw_mongoose_plants) | [Full Stackathon](https://github.com/SEI-R-1-25/u2_hackathon) | []() |
+  | [RAWG Router Homework](https://github.com/SEI-R-1-25/u2_lab_rawg_router) | [Mongoose Schemas and Models](https://github.com/SEI-R-1-25/u2_lesson_mongoose_data_model) | []() | []() | []() |
+  | []() | [Express Fruits Homework](https://github.com/SEI-R-1-25/u2_hw_express_fruits) | []() | []() | []() |
   
   
   </p></details></li>
@@ -212,11 +212,11 @@ ___
   <li><details><summary>Class Recordings</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
-  |---|---|---|---|---|
+  |:---:|:---:|:---:|:---:|:---:|
   | [Recording](https://generalassembly.zoom.us/rec/share/kgUIEeqI9UZTG7wXJfji84o3q3tFWoBJbefw_NbT5YaRnPLJ3CFgm4ppYgDIB2_z.FcYkhJVqjg5j_MHO) | [Recording](https://generalassembly.zoom.us/rec/share/7a1Efpo8W62LVGw0rMK3P_CeB-DzxTvy1q-kKo3JSkl-tpo_FLlF7wpebgKUf_Jb.OPzRCQOG4fu5qvos) | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/iuLOimFccWFSMUi5x1evKrUPmRlDyxDTjMJ8ErqhO75AjFlKXomCB4QWb6v_Fu8d.ZRBIDvJ4a--qw3dx) | [Recording](https://generalassembly.zoom.us/rec/share/0CXDt7TmjBc045b4aytdexxHuyOBe9L0PAkIT82aZg_Os8TxTWGsbDtMLfxsKnuY.L-yrRWDAn8qttWqr) |
   | Passcode: `hoj7TG*c` | Passcode: `1*dN%&8K` |  | Passcode: `E$35U6G!` | Passcode: `!FPy3vtK` |
 
-  - [MERN Deployment and P2s Recording](https://generalassembly.zoom.us/rec/share/s74IYaUx4psQBg9TCkcBGMqWGQqkuDmGOsO0LkpFGmoKofjuo4R3d32qhlFomH6Y.KmtRpGY96lRP782I)  Passcode: `t68+4BUm`
+  - [MERN Deployment and P2s Recording](https://generalassembly.zoom.us/rec/share/s74IYaUx4psQBg9TCkcBGMqWGQqkuDmGOsO0LkpFGmoKofjuo4R3d32qhlFomH6Y.KmtRpGY96lRP782I) - Passcode: `t68+4BUm`
 
   </p></details></li>
   
@@ -234,7 +234,7 @@ ___
   <li><details><summary><strong>Week 7</strong></summary><p>
   
   <p>
-  Week 7 overview. 
+  In Week 7, we learned all about <b>React Hooks</b> and <b>functional components</b>. We learned hooks like <b>useState</b>, <b>useEffect</b>, and <b>useReducer</b> and where to best put them to use in our apps. We were introduced to <b>SQL databases</b> and started to learn SQL commands to interact with our database.  We also learned about the concept of <b>SQL Joins</b>.
   </p>
   
   <ul type="none">
@@ -242,14 +242,13 @@ ___
   <li><details><summary>Repos</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
-  |---|---|---|---|---|
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Hooks Docs](https://reactjs.org/docs/hooks-reference.html) | [Intro to useEffect](https://github.com/SEI-R-1-25/u3_lesson_useEffect) | [React Recipes Lab](https://github.com/SEI-R-1-25/u3_lab_react_recipes) | [Intro to SQL](https://github.com/SEI-R-1-25/u3_lesson_SQL_Intro) | [SQL Zoo Lab](https://sqlzoo.net/) |
+  | [Classes to Hooks](https://github.com/SEI-R-1-25/u3_lesson_classes_hooks) | [useEffect Stoplight Lab](https://github.com/SEI-R-1-25/u3_lab_useEffect_stoplight) |   | [SQL Practice Lab](https://github.com/SEI-R-1-25/u3_lab_SQL_Practice) | [SQL Code Wars Homework](https://github.com/SEI-R-1-25/u3_hw_sql_codewars) |
+  | [Intro to useState](https://github.com/SEI-R-1-25/u3_lesson_useState) | [Kanye Quotes Lab](https://github.com/SEI-R-1-25/u3_lab_kanye_useEffect) |   | [SQL Joins](https://github.com/SEI-R-1-25/u3_lesson_SQL_Joins) |   |
+  | [Hooks ATM Lab](https://github.com/SEI-R-1-25/u3_lab_hooks_atm) | [Intro to useReducer](https://github.com/SEI-R-1-25/u3_lesson_useReducer) |   | [SQL Joins Lab](https://github.com/SEI-R-1-25/u3_lab_SQL_Joins_Practice) |   |
+  | [React Portfolio Lab](https://github.com/SEI-R-1-25/u3_lab_react_portfolio) | [CSS Manipulator Lab](https://github.com/SEI-R-1-25/u3_lab_CSS_manipulator) |   | [Carmen Sandiego Homework](https://github.com/SEI-R-1-25/u3_hw_carmen_sandiego) |   |
+  | [React Adv. Calculator Homework](https://github.com/SEI-R-1-25/u3_hw_react_hooks_calculator) |   |   |   |   |
 
   </p></details></li>
 
@@ -257,9 +256,9 @@ ___
   <li><details><summary>Class Recordings</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
-  |---|---|---|---|---|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording](https://generalassembly.zoom.us/rec/share/NZUsMFWpV3UFs0bE07HnBHO1AFyhs0fTTDfjorICX4n_gSn8dEQMfq66l37lct4Z.UHpYS2UFBFF51FAQ) | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: `@ya&5d!G` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
   
@@ -279,14 +278,14 @@ ___
   <li><details><summary>Repos</summary><p>
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
-  |---|---|---|---|---|
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  | 
+  |:---:|:---:|:---:|:---:|:---:|
+  | []() | []() | []() | []() | []() |
+  | []() | []() | []() | []() | []() |
+  | []() | []() | []() | []() | []() |
+  | []() | []() | []() | []() | []() |
+  | []() | []() | []() | []() | []() |
+  | []() | []() | []() | []() | []() |
+  | []() | []() | []() | []() | []() | 
   
   </p></details></li>
 
@@ -294,7 +293,7 @@ ___
   <li><details><summary>Class Recordings</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
-  |---|---|---|---|---|
+  |:---:|:---:|:---:|:---:|:---:|
   | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
   | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
@@ -322,14 +321,14 @@ ___
   <li><details><summary>Repos</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
-  |---|---|---|---|---|
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
+  |:---:|:---:|:---:|:---:|:---:|
+  | []() | []() | []() | []() | []() |
+  | []() | []() | []() | []() | []() |
+  | []() | []() | []() | []() | []() |
+  | []() | []() | []() | []() | []() |
+  | []() | []() | []() | []() | []() |
+  | []() | []() | []() | []() | []() |
+  | []() | []() | []() | []() | []() | 
   
   </p></details></li>
 
@@ -337,7 +336,7 @@ ___
   <li><details><summary>Class Recordings</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
-  |---|---|---|---|---|
+  |:---:|:---:|:---:|:---:|:---:|
   | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
   | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
@@ -359,14 +358,14 @@ ___
   <li><details><summary>Repos</summary><p>
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
-  |---|---|---|---|---|
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  |
-  | []()  | []()  | []()  | []()  | []()  | 
+  |:---:|:---:|:---:|:---:|:---:|
+  | []() | []() | []() | []() | []() |
+  | []() | []() | []() | []() | []() |
+  | []() | []() | []() | []() | []() |
+  | []() | []() | []() | []() | []() |
+  | []() | []() | []() | []() | []() |
+  | []() | []() | []() | []() | []() |
+  | []() | []() | []() | []() | []() | 
   
   </p></details></li>
 
@@ -374,7 +373,7 @@ ___
   <li><details><summary>Class Recordings</summary><p>
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
-  |---|---|---|---|---|
+  |:---:|:---:|:---:|:---:|:---:|
   | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
   | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
