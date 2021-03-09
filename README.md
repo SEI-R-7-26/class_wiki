@@ -18,24 +18,24 @@ ___
 
 <ul type="none">
   
-  <li><details><summary>Graduation Requirements</summary><p>
+  <li><details><summary><strong>Graduation Requirements</strong></summary><p>
   
 <ul>
-  <li>Meet Project Requirements
+  <li>Meet Project Requirements.
     <ul><li>Satisfactorily complete and present a project for <i>each</i> of the <b>4</b> units.</li></ul>
   </li>
-  <li>Submit and complete a <i>minimum</i> of <b>80%</b> of deliverables (labs, homework, etc.)</li>
-  <li>Adhere to attendance policy</li>
+  <li>Submit and complete a <i>minimum</i> of <b>80%</b> of deliverables (labs, homework, etc.).</li>
+  <li>Adhere to attendance policy.</li>
   <ul>
-    <li>Students are allowed <b>3</b> absences over the <i>entire</i> course</li>
-    <li><b>3</b> tardies or early departures equals <b>1</b> absence</li>
-    <li>Tardy policy <i>includes</i> Outcomes participation</li>
+    <li>Students are allowed <b>3</b> absences over the <i>entire</i> course.</li>
+    <li><b>3</b> tardies or early departures equals <b>1</b> absence.</li>
+    <li>Tardy policy <i>includes</i> Outcomes participation.</li>
   </ul>
 </ul>
   
   </p></details></li>
   
-  <li><details><summary>Code of Conduct</summary><p>
+  <li><details><summary><strong>Code of Conduct</strong></summary><p>
   
 <ul>
   <li>Foster a productive classroom environment.</li>
@@ -48,7 +48,7 @@ ___
   
   </p></details></li>
  
-  <li><details><summary>Deliverable Submission Requirements</summary><p>
+  <li><details><summary><strong>Deliverable Submission Requirements</strong></summary><p>
   
 <ul>
   <li>Deliverables must be submitted following the <a href="https://github.com/SEI-R-1-25/template_pull_request">PR Guidelines</a>.</li>
