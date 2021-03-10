@@ -257,8 +257,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/NZUsMFWpV3UFs0bE07HnBHO1AFyhs0fTTDfjorICX4n_gSn8dEQMfq66l37lct4Z.UHpYS2UFBFF51FAQ) | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `@ya&5d!G` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/NZUsMFWpV3UFs0bE07HnBHO1AFyhs0fTTDfjorICX4n_gSn8dEQMfq66l37lct4Z.UHpYS2UFBFF51FAQ) | [Recording](https://generalassembly.zoom.us/rec/share/O7VEKbn-sSOR8LZk5uL3h_blnH1ePDrk7bxjg6pm6mISOeBGlfZnivLIqzQVoS5S.phAC0KNyqQ4mXrnA) | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: `@ya&5d!G` | Passcode: `k^kAbv1I` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
   
