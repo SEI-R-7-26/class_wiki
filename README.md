@@ -279,11 +279,11 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
+  | [Database Design](https://github.com/SEI-R-1-25/u3_lesson_database_design) | [Sequelize Migrations](https://github.com/SEI-R-1-25/u3_lesson_sequelize_migrations) | []() | []() | []() |
+  | [Intro to Sequelize](https://github.com/SEI-R-1-25/u3_lesson_sequelize_intro) | [Migrations Exercise Lab](https://github.com/SEI-R-1-25/u3_lab_sequelize_migrations_exercise) | []() | []() | []() |
+  | [Sequelize Queries](https://github.com/SEI-R-1-25/u3_lesson_sequelize_queries) | [Sequelize Associations](https://github.com/SEI-R-1-25/u3_lesson_sequelize_associations) | []() | []() | []() |
+  | [Sequelize Querying Lab](https://github.com/SEI-R-1-25/u3_lab_sequelize_querying) | [Associations Exercise Lab](https://github.com/SEI-R-1-25/u3_lab_sequelize_associations_exercise) | []() | []() | []() |
+  | [Sequelize Practice Homework](https://github.com/SEI-R-1-25/u3_hw_sequelize_practice) | [Associations & Migrations Homework](https://github.com/SEI-R-1-25/u3_hw_sequelize_associations_and_migrations) | []() | []() | []() |
   | []() | []() | []() | []() | []() |
   | []() | []() | []() | []() | []() | 
   
