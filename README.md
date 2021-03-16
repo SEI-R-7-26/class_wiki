@@ -284,8 +284,6 @@ ___
   | [Sequelize Queries](https://github.com/SEI-R-1-25/u3_lesson_sequelize_queries) | [Sequelize Associations](https://github.com/SEI-R-1-25/u3_lesson_sequelize_associations) | [Auth Study Homework](https://github.com/SEI-R-1-25/u3_hw_jwt_auth_study) | [React Auth](https://github.com/SEI-R-1-25/u3_lab_react_auth) | [P3 Prompt](https://github.com/SEI-R-1-25/u3_project_prompt) |
   | [Sequelize Querying Lab](https://github.com/SEI-R-1-25/u3_lab_sequelize_querying) | [Associations Exercise Lab](https://github.com/SEI-R-1-25/u3_lab_sequelize_associations_exercise) | []() | [Auth Quiz Homework](https://github.com/SEI-R-1-25/u3_hw_auth_quiz) | []() |
   | [Sequelize Practice Homework](https://github.com/SEI-R-1-25/u3_hw_sequelize_practice) | [Associations & Migrations Homework](https://github.com/SEI-R-1-25/u3_hw_sequelize_associations_and_migrations) | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() | 
   
   </p></details></li>
 
