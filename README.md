@@ -292,8 +292,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/5n3d3sT51b7cznwZoz9cQ7j3bSOOyI_wJdcHWOoyrXAXb5xBp4tBvYN6Ebvd_4o.iV_JGtBnZ76X8stJ) | [Recording](https://generalassembly.zoom.us/rec/share/-A6Yj_08b4yGbmNG_6Ls5PHhgeg7fRfatg9ezbvfayu6qCXlWhCo8dnZWnEArNa-.rqsG3JIlEM2Awxh-) | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `%2TJaPy&` | Passcode: `gG.ku4=F` | No Recording | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/5n3d3sT51b7cznwZoz9cQ7j3bSOOyI_wJdcHWOoyrXAXb5xBp4tBvYN6Ebvd_4o.iV_JGtBnZ76X8stJ) | [Recording](https://generalassembly.zoom.us/rec/share/-A6Yj_08b4yGbmNG_6Ls5PHhgeg7fRfatg9ezbvfayu6qCXlWhCo8dnZWnEArNa-.rqsG3JIlEM2Awxh-) | No Recording | [Recording]() | [Recording]() |
+  | Passcode: `%2TJaPy&` | Passcode: `gG.ku4=F` |  | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
   
