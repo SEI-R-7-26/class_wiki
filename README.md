@@ -7,6 +7,8 @@ Welcome to the SEI-R-1-25 Class Wiki. <br/><br/> This repository is a place wher
 
 Daily Javascript Challenges can be found [here](https://github.com/SEI-R-1-25/daily_js_challenges).
 
+Computer Science Algorithms and Data Structures repo can be found [here](https://github.com/SEI-R-1-25/cs_data_structures).
+
 ___
 <details><summary><strong>Class Policies</strong></summary><p>
   
