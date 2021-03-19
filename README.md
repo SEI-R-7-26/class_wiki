@@ -270,7 +270,7 @@ ___
   <li><details><summary><strong>Week 8</strong></summary><p>
   
   <p>
-  Week 8 overview. 
+  In Week 8, we learned all about Sequelize and how it can interpret for our SQL database and our backend Node servers.  We learned how to make queries, migrations, and associations.  We also learned all about how to integrate user authentication in our apps.
   </p>
   
   <ul type="none">
