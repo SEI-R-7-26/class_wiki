@@ -272,7 +272,7 @@ ___
   <li><details><summary><strong>Week 8</strong></summary><p>
   
   <p>
-  In Week 8, we learned all about Sequelize and how it can interpret for our SQL database and our backend Node servers.  We learned how to make queries, migrations, and associations.  We also learned all about how to integrate user authentication in our apps.
+  In Week 8, we learned all about <b>Sequelize</b> and how it can interpret for our SQL database and our backend Node servers.  We learned how to make <b>queries</b>, <b>migrations</b>, and <b>associations</b>.  We also learned all about how to integrate <b>user authentication</b> in our apps.
   </p>
   
   <ul type="none">
@@ -313,7 +313,7 @@ ___
   <li><details><summary><strong>Week 10</strong></summary><p>
   
   <p>
-  Week 10 overview. 
+  In Week 10, we were introduced to <b>React Redux</b> as a new way to manage our state in React! We learned about <b>Reducers</b>, <b>Actions</b>, and <b>Types</b>. We also learned how to map our state and actions to props. We also learned how to use a middleware called <b>thunk</b> in conjunction with Redux. Later in the week, we were introduced to <b>Python</b> and learned about <b>functions</b>, <b>control flow</b>, <b>loops</b>, <b>dictionaries</b>, and <b>tuples</b>.
   </p>
   
   <ul type="none">
@@ -322,13 +322,11 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() | 
+  | [Intro to Redux](https://github.com/SEI-R-1-25/u4_lesson_react_redux_intro) | [Redux Middleware](https://github.com/SEI-R-1-25/u4_lesson_redux_middleware) | [Redux ToDos Lab](https://github.com/SEI-R-1-25/u4_lab_redux_todos) | [Intro to Python](https://github.com/SEI-R-1-25/u4_lesson_python_intro) | [Python Lists and Loops](https://github.com/SEI-R-1-25/u4_lesson_python_lists_loops) |
+  | [Redux Reducers](https://github.com/SEI-R-1-25/u4_lesson_redux_reducers) | [Redux Movies Lab](https://github.com/SEI-R-1-25/u4_lab_redux_movies) |  | [Python Functions](https://github.com/SEI-R-1-25/u4_lesson_python_functions) | [Python Dictionaries](https://github.com/SEI-R-1-25/u4_lesson_python_dictionaries) |
+  | [Redux Actions & Types](https://github.com/SEI-R-1-25/u4_lesson_redux_actions_types) |  |  | [Python Control Flow](https://github.com/SEI-R-1-25/u4_lesson_python_control_flow) | [Python Tuples](https://github.com/SEI-R-1-25/u4_lesson_python_tuples) |
+  | [Redux Mapping State & Actions to Props](https://github.com/SEI-R-1-25/u4_lesson_mapping_state_props) |  |  | [Python BYOA Homework](https://github.com/SEI-R-1-25/u4_hw_python_adventure) | [Python Tuple Lab](https://github.com/SEI-R-1-25/u4_lab_python_tuple_exercise) |
+  | [Redux Quiz Homework](https://github.com/SEI-R-1-25/u4_hw_redux_quiz) |  |  |  | [Python CSV Parser Homework](https://github.com/SEI-R-1-25/u4_hw_python_csv_parser) |
   
   </p></details></li>
 
