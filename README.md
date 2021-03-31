@@ -336,7 +336,7 @@ ___
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
   | [Recording](https://generalassembly.zoom.us/rec/share/QfLAQtsEegRCz3YXcvB8aylH4O3RHUzLLWowmIurO06IdxRwXdSj0NUTovHLNhIm.OFCdN-9xcHpqvSox) | [Recording](https://generalassembly.zoom.us/rec/share/0IQOyn7cbkjdj4aAHriur8nRIdYy0tlU4zhhh1RHTM9Vrc7gWN9gTdfBqOYfmQxf._c2CIDcYFVFYHK0R) | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `14D?KNUn` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | Passcode: `14D?KNUn` | Passcode: `QnIRu?k8` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
   
