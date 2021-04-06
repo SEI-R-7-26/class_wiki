@@ -348,8 +348,8 @@ ___
   <li><details><summary><strong>Week 11</strong></summary><p>
   
   <p>
-  In Week 11, we continued with Python by learning about <b>Virtual Environments</b> and <b>OOP in Python</b>.  We then started to delve into <b>Flask
-  </p>.  We learned about how to set up <b>Flask Resources</b>, how to use <b>Flask SQL Alchemy</b>, and how to set up <b>Auth in Flask</b>. At the end of the week, we got to participate in a <b>Flaskathon</b>!
+  In Week 11, we continued with Python by learning about <b>Virtual Environments</b> and <b>OOP in Python</b>.  We then started to delve into <b>Flask</b>.  We learned about how to set up <b>Flask Resources</b>, how to use <b>Flask SQL Alchemy</b>, and how to set up <b>Auth in Flask</b>. At the end of the week, we got to participate in a <b>Flaskathon</b>!
+  </p>
   
   <ul type="none">
 
