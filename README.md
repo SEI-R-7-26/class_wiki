@@ -357,13 +357,11 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() |
-  | []() | []() | []() | []() | []() | 
+  | [Virtual Environments](https://github.com/SEI-R-1-25/u4_lesson_python_virtual_environments) | [Flask Resources](https://github.com/SEI-R-1-25/u4_lesson_flask_resources) | [Flask API Lab](https://github.com/SEI-R-1-25/u4_lab_flask_api) | [Flask Auth](https://github.com/SEI-R-1-25/u4_lesson_flask_auth) | [Flask API Deployment]() |
+  | [Python OOP](https://github.com/SEI-R-1-25/u4_lesson_python_oop) | [Flask Resources Lab](https://github.com/SEI-R-1-25/u4_lab_flask_resources_lab) |  | [Flaskathon]() | [P4 Prompt]() |
+  | [Intro to Flask](https://github.com/SEI-R-1-25/u4_lesson_python_flask_intro) | [Flask SQL Alchemy](https://github.com/SEI-R-1-25/u4_lesson_flask_sqlalchemy) |  |  |  |
+  | [Simple Flask API Lab](https://github.com/SEI-R-1-25/u4_lab_simple_flask_api) | [Flask Associations Lab](https://github.com/SEI-R-1-25/u4_lab_flask_associations) |  |  |  |
+  | [Smash Bros. Homework](https://github.com/SEI-R-1-25/u4_hw_python_smash_bros) | [Flask Quiz Homework]() |  |  |  |
   
   </p></details></li>
 
