@@ -92,8 +92,8 @@ ____
   | [Terminal Lesson](https://github.com/SEI-R-1-25/u1_lesson_terminal) | [Intro to CSS](https://github.com/SEI-R-1-25/u1_lesson_intro_CSS) | [JS Arrays](https://github.com/SEI-R-1-25/u1_lesson_js_arrays) | [JS Scope](https://github.com/SEI-R-1-25/u1_lesson_js_scope) | [JS DOM Quotes Lab](https://github.com/SEI-R-1-25/u1_lab_DOM) |
   | [Git Lesson](https://github.com/SEI-R-1-25/u1_lesson_git) | [Markdown Lesson](https://github.com/SEI-R-1-25/u1_lesson_markdown) | [JS Loops & Control Flow](https://github.com/SEI-R-1-25/u1_lesson_js_control_flow) | [JS Objects](https://github.com/SEI-R-1-25/u1_lesson_js_objects) | [JS Events & Callbacks](https://github.com/SEI-R-1-25/u1_lesson_js_events_callbacks) |
   | [VS Code Lesson](https://github.com/SEI-R-1-25/u1_lesson_VSCode) | [HTML / CSS Lab](https://github.com/SEI-R-1-25/u1_lab_html_css_exercise) | [Control Flow Adventure](https://github.com/SEI-R-1-25/u1_hw_control_flow_adventure) | [Jurassic Objects Lab](https://github.com/SEI-R-1-25/u1_lab_jurassic_objects) | [JS Event Bubbling](https://github.com/SEI-R-1-25/u1_lesson_js_event_bubbling) |
-  | [Terminal Lab](https://github.com/SEI-R-1-25/u1_lab_git_practice) | [Markdown Homework](https://github.com/SEI-R-1-25/u1_hw_markdown) |   | [Objects & Functions Lab](https://github.com/SEI-R-1-25/u1_lab_objects_functions) | [JS Dots Game Lab](https://github.com/SEI-R-1-25/u1_lab_dots) |
-  | [Star Wars Homework](https://github.com/SEI-R-1-25/u1_hw_star_wars) |   |   | [Codewars Homework](https://github.com/SEI-R-1-25/u1_hw_codewars_challenges) | [Tic Tac Toe Homework](https://github.com/SEI-R-1-25/u1_hw_tic_tac_toe) |
+  | [Terminal Lab](https://github.com/SEI-R-1-25/u1_lab_git_practice) | [Markdown Homework](https://github.com/SEI-R-1-25/u1_hw_markdown) |  | [Objects & Functions Lab](https://github.com/SEI-R-1-25/u1_lab_objects_functions) | [JS Dots Game Lab](https://github.com/SEI-R-1-25/u1_lab_dots) |
+  | [Star Wars Homework](https://github.com/SEI-R-1-25/u1_hw_star_wars) |  |  | [Codewars Homework](https://github.com/SEI-R-1-25/u1_hw_codewars_challenges) | [Tic Tac Toe Homework](https://github.com/SEI-R-1-25/u1_hw_tic_tac_toe) |
 
   </p></details></li>
 
@@ -126,10 +126,10 @@ ____
   |:---:|:---:|:---:|:---:|:---:|
   | [Daily JS](https://github.com/SEI-R-1-25/daily_js_challenges) | [Intro to OOP](https://github.com/SEI-R-1-25/u1_lesson_js_oop) | [Box Model Practice](https://github.com/SEI-R-1-25/u1_lab_box_model) | [Intro to APIs](https://github.com/SEI-R-1-25/u1_lesson_intro_to_apis) | [Unit 1 Assessment](https://github.com/SEI-R-1-25/u1_assessment) | 
   | [ES6 Syntax](https://github.com/SEI-R-1-25/u1_lesson_js_es6) | [OOP Lab](https://github.com/SEI-R-1-25/u1_lab_OOP) | [Intro to NPM & Building Scripts](https://github.com/SEI-R-1-25/u1_lesson_nodejs_scripting) | [API Dogs Lab](https://github.com/SEI-R-1-25/u1_lab_api_dogs) | [Project 1 Prompt](https://github.com/SEI-R-1-25/u1_project_prompt) | 
-  | [ES6 Lab](https://github.com/SEI-R-1-25/u1_lab_es6_practice) | [OOP With DOM Elements](https://github.com/SEI-R-1-25/u1_lesson_OOP_HTML) | [JS Fast & Furious](https://github.com/SEI-R-1-25/u1_hw_fast_and_furious) | [OMDB API Lab](https://github.com/SEI-R-1-25/u1_lab_omdb_api) | []() | 
-  | [JS HOF Lesson](https://github.com/SEI-R-1-25/u1_lesson_HOF) | []() | []() | []() | []() | 
-  | [JS HOF Practice](https://github.com/SEI-R-1-25/u1_lab_HOF) | []() | []() | []() | []() | 
-  | [JS HOF Homework](https://github.com/SEI-R-1-25/u1_hw_HOF) | []() | []() | []() | []() | 
+  | [ES6 Lab](https://github.com/SEI-R-1-25/u1_lab_es6_practice) | [OOP With DOM Elements](https://github.com/SEI-R-1-25/u1_lesson_OOP_HTML) | [JS Fast & Furious](https://github.com/SEI-R-1-25/u1_hw_fast_and_furious) | [OMDB API Lab](https://github.com/SEI-R-1-25/u1_lab_omdb_api) |  | 
+  | [JS HOF Lesson](https://github.com/SEI-R-1-25/u1_lesson_HOF) |  |  |  |  | 
+  | [JS HOF Practice](https://github.com/SEI-R-1-25/u1_lab_HOF) |  |  |  |  | 
+  | [JS HOF Homework](https://github.com/SEI-R-1-25/u1_hw_HOF) |  |  |  |  | 
   
   </p></details></li>
 
@@ -169,8 +169,8 @@ ___
   | HOLIDAY | [Intro to React](https://github.com/SEI-R-1-25/u2_lesson_react_intro) | [Mapping Components](https://github.com/SEI-R-1-25/u2_lesson_react_mapping_components) | [Intro to State](https://github.com/SEI-R-1-25/u2_lesson_react_state_intro) | [Conditional Rendering](https://github.com/SEI-R-1-25/u2_lesson_react_conditional_rendering) |
   | HOLIDAY | [React Components Lab](https://github.com/SEI-R-1-25/u2_lesson_react_components) | [Mapping Components Lab](https://github.com/SEI-R-1-25/u2_lab_mapping_components) | [React Todos Lab](https://github.com/SEI-R-1-25/u2_lab_react_todos) | [Conditional Rendering Lab](https://github.com/SEI-R-1-25/u2_lab_conditional_rendering) |
   | HOLIDAY | [React Props](https://github.com/SEI-R-1-25/u2_lesson_react_props) | [Movie Mapping Homework](https://github.com/SEI-R-1-25/u2_hw_mapping_components) | [Lifecycle Methods](https://github.com/SEI-R-1-25/u2_lesson_react_lifecycle) | [React Router](https://github.com/SEI-R-1-25/u2_lesson_react_router) |
-  | HOLIDAY | [React LOTR](https://github.com/SEI-R-1-25/u2_lab_react_lotr) |   | [Lifecycle Lab](https://github.com/SEI-R-1-25/u2_lab_react_component_lifecycle) | [RAWG Router Lab](https://github.com/SEI-R-1-25/u2_lab_react_router) |
-  | HOLIDAY | [React Quiz Homework](https://github.com/SEI-R-1-25/u2_quiz_react) |   | [React Calculator Homework](https://github.com/SEI-R-1-25/u2_hw_react_calculator) | [Burger Stacker Homework](https://github.com/SEI-R-1-25/u2_hw_react_burger_stacker) |
+  | HOLIDAY | [React LOTR](https://github.com/SEI-R-1-25/u2_lab_react_lotr) |  | [Lifecycle Lab](https://github.com/SEI-R-1-25/u2_lab_react_component_lifecycle) | [RAWG Router Lab](https://github.com/SEI-R-1-25/u2_lab_react_router) |
+  | HOLIDAY | [React Quiz Homework](https://github.com/SEI-R-1-25/u2_quiz_react) |  | [React Calculator Homework](https://github.com/SEI-R-1-25/u2_hw_react_calculator) | [Burger Stacker Homework](https://github.com/SEI-R-1-25/u2_hw_react_burger_stacker) |
 
   </p></details></li>
 
@@ -202,10 +202,10 @@ ___
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
   | [React APIs](https://github.com/SEI-R-1-25/u2_lesson_react_APIs) | [Express Middleware](https://github.com/SEI-R-1-25/u2_lesson_express_middleware) | [MongoDB Sneakers Lab](https://github.com/SEI-R-1-25/u2_lab_mongodb_exercise) | [Group Git](https://github.com/SEI-R-1-25/u2_lesson_group_git) | [MERN Deployment](https://github.com/SEI-R-1-25/u2_lesson_MERN_heroku_deployment) |
-  | [Intro to Express](https://github.com/SEI-R-1-25/u2_lesson_express_intro) | [Express Controllers](https://github.com/SEI-R-1-25/u2_lesson_express_controllers) | [Mongoose Express Lab](https://github.com/SEI-R-1-25/u2_lab_mongoose_express) | [Mongoose Associations](https://github.com/SEI-R-1-25/u2_lesson_mongoose_associations) | []() |
-  | [Express Routes](https://github.com/SEI-R-1-25/u2_lesson_express_routing) | [MongoDB](https://github.com/SEI-R-1-25/u2_lesson_mongodb) | [Mongoose Plants API Homework](https://github.com/SEI-R-1-25/u2_hw_mongoose_plants) | [Full Stackathon](https://github.com/SEI-R-1-25/u2_hackathon) | []() |
-  | [RAWG Router Homework](https://github.com/SEI-R-1-25/u2_lab_rawg_router) | [Mongoose Schemas and Models](https://github.com/SEI-R-1-25/u2_lesson_mongoose_data_model) | []() | []() | []() |
-  | []() | [Express Fruits Homework](https://github.com/SEI-R-1-25/u2_hw_express_fruits) | []() | []() | []() |
+  | [Intro to Express](https://github.com/SEI-R-1-25/u2_lesson_express_intro) | [Express Controllers](https://github.com/SEI-R-1-25/u2_lesson_express_controllers) | [Mongoose Express Lab](https://github.com/SEI-R-1-25/u2_lab_mongoose_express) | [Mongoose Associations](https://github.com/SEI-R-1-25/u2_lesson_mongoose_associations) |  |
+  | [Express Routes](https://github.com/SEI-R-1-25/u2_lesson_express_routing) | [MongoDB](https://github.com/SEI-R-1-25/u2_lesson_mongodb) | [Mongoose Plants API Homework](https://github.com/SEI-R-1-25/u2_hw_mongoose_plants) | [Full Stackathon](https://github.com/SEI-R-1-25/u2_hackathon) |  |
+  | [RAWG Router Homework](https://github.com/SEI-R-1-25/u2_lab_rawg_router) | [Mongoose Schemas and Models](https://github.com/SEI-R-1-25/u2_lesson_mongoose_data_model) |  |  |  |
+  |  | [Express Fruits Homework](https://github.com/SEI-R-1-25/u2_hw_express_fruits) |  |  |  |
   
   
   </p></details></li>
@@ -284,8 +284,8 @@ ___
   | [Database Design](https://github.com/SEI-R-1-25/u3_lesson_database_design) | [Sequelize Migrations](https://github.com/SEI-R-1-25/u3_lesson_sequelize_migrations) | [Express Sequelize Lab](https://github.com/SEI-R-1-25/u3_lesson_express_sequelize) | [JWT Auth](https://github.com/SEI-R-1-25/u3_lesson_JWT_auth) | [Sequelize Complex Associations](https://github.com/SEI-R-1-25/u3_lesson_sequelize_complex_associations) |
   | [Intro to Sequelize](https://github.com/SEI-R-1-25/u3_lesson_sequelize_intro) | [Migrations Exercise Lab](https://github.com/SEI-R-1-25/u3_lab_sequelize_migrations_exercise) | [Sequelize API Lab](https://github.com/SEI-R-1-25/u3_lab_sequelize_API_from_scratch) | [Sequelize Auth](https://github.com/SEI-R-1-25/u3_lesson_sequelize_auth) | [Fakebook Lab](https://github.com/SEI-R-1-25/u3_lab_fakebook) |
   | [Sequelize Queries](https://github.com/SEI-R-1-25/u3_lesson_sequelize_queries) | [Sequelize Associations](https://github.com/SEI-R-1-25/u3_lesson_sequelize_associations) | [Auth Study Homework](https://github.com/SEI-R-1-25/u3_hw_jwt_auth_study) | [React Auth](https://github.com/SEI-R-1-25/u3_lab_react_auth) | [P3 Prompt](https://github.com/SEI-R-1-25/u3_project_prompt) |
-  | [Sequelize Querying Lab](https://github.com/SEI-R-1-25/u3_lab_sequelize_querying) | [Associations Exercise Lab](https://github.com/SEI-R-1-25/u3_lab_sequelize_associations_exercise) | []() | [Auth Quiz Homework](https://github.com/SEI-R-1-25/u3_hw_auth_quiz) | []() |
-  | [Sequelize Practice Homework](https://github.com/SEI-R-1-25/u3_hw_sequelize_practice) | [Associations & Migrations Homework](https://github.com/SEI-R-1-25/u3_hw_sequelize_associations_and_migrations) | []() | []() | []() |
+  | [Sequelize Querying Lab](https://github.com/SEI-R-1-25/u3_lab_sequelize_querying) | [Associations Exercise Lab](https://github.com/SEI-R-1-25/u3_lab_sequelize_associations_exercise) |  | [Auth Quiz Homework](https://github.com/SEI-R-1-25/u3_hw_auth_quiz) |  |
+  | [Sequelize Practice Homework](https://github.com/SEI-R-1-25/u3_hw_sequelize_practice) | [Associations & Migrations Homework](https://github.com/SEI-R-1-25/u3_hw_sequelize_associations_and_migrations) |  |  |  |
   
   </p></details></li>
 
@@ -370,8 +370,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/Lov77qErYLB0Q-Lz6FVCYw6hRnOQTFKJlunWuw5VjT3dJgU-23bSOxW0_RFYh3Yy.OjYHelJfIUn4kHND) | [Recording](https://generalassembly.zoom.us/rec/share/Qx0xwpptk-AHbUJgbZfNyOXAoc_BdQfwBp_MiKet3moq6H8hEdRtcvZRGA4P9-eF.Ct0yP5prYf6IWo5C) | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `WZqr=e35` | Passcode: `^9LpPqym` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/Lov77qErYLB0Q-Lz6FVCYw6hRnOQTFKJlunWuw5VjT3dJgU-23bSOxW0_RFYh3Yy.OjYHelJfIUn4kHND) | [Recording](https://generalassembly.zoom.us/rec/share/Qx0xwpptk-AHbUJgbZfNyOXAoc_BdQfwBp_MiKet3moq6H8hEdRtcvZRGA4P9-eF.Ct0yP5prYf6IWo5C) | No Recording | [Recording]() | [Recording]() |
+  | Passcode: `WZqr=e35` | Passcode: `^9LpPqym` |  | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
   
