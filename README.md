@@ -3,16 +3,16 @@
 ![Wiki](https://media.wired.com/photos/5955ac6b5992c54331ac161b/191:100/pass/2000px-Wikipedia-logo-v2-en-F.jpg)
 
 ___
-Welcome to the SEI-R-1-25 Class Wiki. <br/><br/> This repository is a place where all of the course content we've covered can be found. Content will be organized by Unit, Week, and Day, with the lesson repos and class recordings for each day.
+Welcome to the SEI-R-1-25 Class Wiki. <br/><br/> This repository is a place where all of the course content that we've covered can be found. Content is organized by Unit and Week with lesson repos and class recordings for each day.
 
 Daily Javascript Challenges can be found [here](https://github.com/SEI-R-1-25/daily_js_challenges).
 
-Computer Science Algorithms and Data Structures repo can be found [here](https://github.com/SEI-R-1-25/cs_data_structures).
+Computer Science Algorithms and Data Structures can be found [here](https://github.com/SEI-R-1-25/cs_data_structures).
 
 ___
 <details><summary><strong>Class Policies</strong></summary><p>
   
-Below, you will find class policies and requirements as laid out in Orientation on the first day of class and as conveyed by the Instructional Team.  We compile them here for your reference and review.
+Below, you will find Class Policies and Requirements as laid out in Orientation and conveyed by the Instructional Team.  We compile them here for your reference and review.
   
 </p>
 
@@ -384,11 +384,10 @@ ___
 ___
 <details><summary><strong>Additional Resources</strong></summary><p>
 
-Here is a list of additional resources that were hand-picked by your instructors. If you find that you don't have the time during cohort, these resources will still help to solidify your understanding of key concepts well past graduation. This list is split into 4 sections and will grow over time as more concepts have been covered:
-
+Below is a list of additional resources that were hand-picked by your instructors. If you find that you don't have the time during the immersive, these resources will still help to solidify your understanding of key concepts after graduation.
   <ul type="none">
   
-  <li><details><summary><strong>Practice </strong>- places to apply your skills and grow in your problem solving abilities.</summary><p>
+  <li><details><summary><strong>Practice</strong> - helpful sites to hone your skills</summary><p>
   
   - [Codeacademy](https://www.codecademy.com/catalog)
   - [Codewars](https://www.codewars.com)
@@ -397,7 +396,7 @@ Here is a list of additional resources that were hand-picked by your instructors
   - [Grid Garden](https://cssgridgarden.com/)
   </p></details></li>
   
-  <li><details><summary><strong>Reading </strong>- places to deepen your understanding of concepts or quick reads that are worth taking the time to skim through.</summary><p>
+  <li><details><summary><strong>Reading</strong> - helpful articles and topics</summary><p>
   
   - [Eloquent JavaScript](https://eloquentjavascript.net/)
   - [CSS Tricks](https://css-tricks.com/)
@@ -408,7 +407,7 @@ Here is a list of additional resources that were hand-picked by your instructors
   - [Medium: Explaining API's](https://medium.com/javascript-in-plain-english/many-developers-struggle-with-explaining-apis-20a071d74596)
   </p></details></li>
   
-  <li><details><summary><strong>Documentation </strong>- gotta have the docs! Always read the docs.</summary><p>
+  <li><details><summary><strong>Documentation</strong> - commonly used docs for reference</summary><p>
   
   - [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   - [W3Schools CSS Docs](https://www.w3schools.com/cssref/default.asp)
@@ -416,7 +415,7 @@ Here is a list of additional resources that were hand-picked by your instructors
 
   </p></details></li>
   
-  <li><details><summary><strong>Cheatsheets </strong>- quick references for you to use when you're in the weeds.</summary><p>
+  <li><details><summary><strong>Cheatsheets</strong> - quick references</summary><p>
   
   - [JavaScript Cheatsheet](https://websitesetup.org/javascript-cheat-sheet/)
   - [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
