@@ -387,7 +387,7 @@ ___
 Below is a list of additional resources that were hand-picked by your instructors. If you find that you don't have the time during the immersive, these resources will still help to solidify your understanding of key concepts after graduation.
   <ul type="none">
   
-  <li><details><summary><strong>Practice</strong> - helpful sites to hone your skills</summary><p>
+  <li><details><summary><strong>Practice</strong> - sites to hone your skills</summary><p>
   
   - [Codeacademy](https://www.codecademy.com/catalog)
   - [Codewars](https://www.codewars.com)
