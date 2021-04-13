@@ -306,7 +306,7 @@ ___
 </p></details>
 
 ___
-<details><summary><strong>Unit 4</strong> - React Redux / Python3 </summary><p>
+<details><summary><strong>Unit 4</strong> - React Redux / Python3 / Flask</summary><p>
 
 <ul type="none">
 
