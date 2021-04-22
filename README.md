@@ -1,6 +1,6 @@
 # Class Wiki
 
-![Wiki](https://media.wired.com/photos/5955ac6b5992c54331ac161b/191:100/pass/2000px-Wikipedia-logo-v2-en-F.jpg)
+![Wiki](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fwikipedia-logo-clipart-8.jpg&f=1&nofb=1)
 
 ___
 Welcome to the SEI-R-1-25 Class Wiki. <br/><br/> This repository is a place where all of the course content that we've covered can be found. Content is organized by Unit and Week with lesson repos and class recordings for each day.
