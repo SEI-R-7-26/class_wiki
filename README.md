@@ -1,6 +1,6 @@
 # Class Wiki
 
-![Wiki](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fwikipedia-logo-clipart-8.jpg&f=1&nofb=1)
+![Wiki](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4a%2FWikipedia_logo_v2_(black).svg%2F1122px-Wikipedia_logo_v2_(black).svg.png&f=1&nofb=1)
 
 ___
 Welcome to the SEI-R-1-25 Class Wiki. <br/><br/> This repository is a place where all of the course content that we've covered can be found. Content is organized by Unit and Week with lesson repos and class recordings for each day.
