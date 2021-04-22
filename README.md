@@ -1,6 +1,8 @@
 # Class Wiki
 
-![Wiki](https://i.imgur.com/DV6UHq6.png)
+<div align="center">
+  <img src="https://i.imgur.com/DV6UHq6.png" alt="wiki">
+</div>
 
 ___
 Welcome to the SEI-R-1-25 Class Wiki. <br/><br/> This repository is a place where all of the course content that we've covered can be found. Content is organized by Unit and Week with lesson repos and class recordings for each day.
