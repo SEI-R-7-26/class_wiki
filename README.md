@@ -1,7 +1,7 @@
 # Class Wiki
 
 <div align="center">
-  <img src="https://i.imgur.com/DV6UHq6.png" alt="wiki">
+  <img src="https://i.imgur.com/e2Ma89q.png" alt="wiki">
 </div>
 
 ___
