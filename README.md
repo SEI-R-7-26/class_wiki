@@ -403,6 +403,7 @@ Below is a list of additional resources that were hand-picked by your instructor
   
   <li><details><summary><strong>Reading</strong> - helpful articles and topics</summary><p>
   
+  - [10 Need-to-know Mac Commands](https://scotch.io/bar-talk/10-need-to-know-mac-terminal-commands)
   - [Eloquent JavaScript](https://eloquentjavascript.net/)
   - [CSS Tricks](https://css-tricks.com/)
   - [Rubber Duck Debugging](https://rubberduckdebugging.com/)
@@ -422,8 +423,8 @@ Below is a list of additional resources that were hand-picked by your instructor
   
   <li><details><summary><strong>Cheatsheets</strong> - quick references</summary><p>
   
-  - [JavaScript Cheatsheet](https://websitesetup.org/javascript-cheat-sheet/)
   - [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+  - [JavaScript Cheatsheet](https://websitesetup.org/javascript-cheat-sheet/)
   - [ES6 Cheatsheet](https://devhints.io/es6)
   </p></details></li>
   
