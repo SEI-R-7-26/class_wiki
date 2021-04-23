@@ -403,7 +403,7 @@ Below is a list of additional resources that were hand-picked by your instructor
   
   <li><details><summary><strong>Reading</strong> - helpful articles and topics</summary><p>
   
-  - [10 Need-to-know Mac Commands](https://scotch.io/bar-talk/10-need-to-know-mac-terminal-commands)
+  - [10 Need-to-know Mac Terminal Commands](https://scotch.io/bar-talk/10-need-to-know-mac-terminal-commands)
   - [Eloquent JavaScript](https://eloquentjavascript.net/)
   - [CSS Tricks](https://css-tricks.com/)
   - [Rubber Duck Debugging](https://rubberduckdebugging.com/)
