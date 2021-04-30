@@ -104,8 +104,8 @@ ____
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | No Recording | [Recording](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_NADDM9okGIUc5rfuGVbbLYaKt-5FmzYA3qU-2D8Nm9hVYcdmIf9WLxARNziMCRRIWgUG.9OnH42HP4-2Djds4yj&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=gXERv8JPHZrpHzCui1tbSfMDEKS7l-8y48WqRBScKX0&m=HndhPJ4_JSGtbokoDyHT-szWRwWctZgbslzsXvchWWg&s=sgk7gLp3bcJ2uVGVgswLnqAXDfb1ot9VnH6IIOewrIU&e=) | [Recording](https://generalassembly.zoom.us/rec/share/rfOqNPK5SfgiQSvtApShXkfXKWsxDD6hbqiH3HslxngOcsOav5MjhZOAMhHAbiEv.VoOFK3vpEM9tXYHe) | [Recording]() | [Recording]() |
-  |  | Passcode: `*2.2hz7W` | Passcode: `1#!lkD4#` | Passcode: ` ` | Passcode: ` ` |
+  | No Recording | [Recording](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_NADDM9okGIUc5rfuGVbbLYaKt-5FmzYA3qU-2D8Nm9hVYcdmIf9WLxARNziMCRRIWgUG.9OnH42HP4-2Djds4yj&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=gXERv8JPHZrpHzCui1tbSfMDEKS7l-8y48WqRBScKX0&m=HndhPJ4_JSGtbokoDyHT-szWRwWctZgbslzsXvchWWg&s=sgk7gLp3bcJ2uVGVgswLnqAXDfb1ot9VnH6IIOewrIU&e=) | [Recording](https://generalassembly.zoom.us/rec/share/rfOqNPK5SfgiQSvtApShXkfXKWsxDD6hbqiH3HslxngOcsOav5MjhZOAMhHAbiEv.VoOFK3vpEM9tXYHe) | [Recording](https://generalassembly.zoom.us/rec/share/O0rwGnWOwdtJnKtGl1JzamNhSlzaopZZ3ErEyEs0E37fSXzp3kFShqOBZlHd5rsC.2fix35AZcDuADDgu) | [Recording]() |
+  |  | Passcode: `*2.2hz7W` | Passcode: `1#!lkD4#` | Passcode: `*W6Z+r6K` | Passcode: ` ` |
 
   </p></details></li>
   
