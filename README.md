@@ -127,7 +127,7 @@ ____
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
   | [Daily JS Challenges](https://github.com/SEI-R-4-26/daily_js_challenges) | [Intro to OOP](https://github.com/SEI-R-4-26/u1_lesson_js_OOP) | [Box Model Practice](https://github.com/SEI-R-4-26/u1_lab_box_model) | [Intro to APIs](https://github.com/SEI-R-4-26/u1_lesson_intro_to_APIs) | [Unit 1 Assessment](https://github.com/SEI-R-4-26/u1_assessment) | 
-  | [ES6 Syntax](https://github.com/SEI-R-4-26/u1_lesson_js_ES6) | [OOP Lab](https://github.com/SEI-R-4-26/u1_lab_OOP) | [Intro to NPM & Building Scripts](https://github.com/SEI-R-4-26/u1_lesson_nodejs_scripting) | [API Dogs Lab](https://github.com/SEI-R-4-26/u1_lab_api_dogs) | [Project 1 Prompt](https://github.com/SEI-R-4-26/u1_project_prompt) | 
+  | [ES6 Syntax](https://github.com/SEI-R-4-26/u1_lesson_js_ES6) | [OOP Lab](https://github.com/SEI-R-4-26/u1_lab_OOP) | [Intro to NPM & Building Scripts](https://github.com/SEI-R-4-26/u1_lesson_nodejs_scripting) | [API Dogs Lab](https://github.com/SEI-R-4-26/u1_lab_dogs_API) | [Project 1 Prompt](https://github.com/SEI-R-4-26/u1_project_prompt) | 
   | [ES6 Lab](https://github.com/SEI-R-4-26/u1_lab_ES6_practice) | [OOP With DOM Elements](https://github.com/SEI-R-4-26/u1_lesson_OOP_HTML) | [JS Fast & Furious](https://github.com/SEI-R-4-26/u1_hw_fast_and_furious) | [TMDB API Lab](https://github.com/SEI-R-4-26/u1_lab_TMDB_API) |  | 
   | [JS HOF Lesson](https://github.com/SEI-R-4-26/u1_lesson_HOF) |  |  |  |  | 
   | [JS HOF Practice](https://github.com/SEI-R-4-26/u1_lab_HOF) |  |  |  |  | 
@@ -140,8 +140,8 @@ ____
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/W0VGoHiSKpceBTzmLX9FC5GOaIyV-LyOBgzlrVJlSR89qUzB_kKAxDTKFqG3EA.QmY3F7dZoBh4b1aJ) | [Recording]( https://generalassembly.zoom.us/rec/share/hGXMDwG3IQaZdlnOgTofaEURZySfVONUTH4UHpjNOfHYjjT62ZruKcewRD4FXYKm.neMai0gvVIaeyRoA) | [Recording](https://generalassembly.zoom.us/rec/share/OMEzwR6fDnnQOxZaw8E1KJvDT5dmM_-1dGGomDnqm_WbwcVYXHPdMCgUVCV_CXD2.AFstwd0wdxtYD1Wj) | [Recording]() | [Recording]() |
-  | Passcode: `R?pSv2a2` | Passcode: `+%v+8w6B` | Passcode: `YUGK?9+d` | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/W0VGoHiSKpceBTzmLX9FC5GOaIyV-LyOBgzlrVJlSR89qUzB_kKAxDTKFqG3EA.QmY3F7dZoBh4b1aJ) | [Recording]( https://generalassembly.zoom.us/rec/share/hGXMDwG3IQaZdlnOgTofaEURZySfVONUTH4UHpjNOfHYjjT62ZruKcewRD4FXYKm.neMai0gvVIaeyRoA) | [Recording](https://generalassembly.zoom.us/rec/share/OMEzwR6fDnnQOxZaw8E1KJvDT5dmM_-1dGGomDnqm_WbwcVYXHPdMCgUVCV_CXD2.AFstwd0wdxtYD1Wj) | [Recording](https://generalassembly.zoom.us/rec/share/ewWX0eBarFXVdvU9MPYuhBg9Tn3U3hm99osAaj7BVY2kF06Slo3-OTmd33lihaiR.PzHGek-hvjmlZma2) | No Recording |
+  | Passcode: `R?pSv2a2` | Passcode: `+%v+8w6B` | Passcode: `YUGK?9+d` | Passcode: `&J8&kGBn` |  |
 
   </p></details></li>
   
