@@ -158,22 +158,21 @@ ___
 
   <li><details><summary><strong>Week 4</strong></summary><p>
   
-  <p>
-  Week 4 Description
+   <p>
+  In Week 4, we learned all about <b>React</b> and what an amazing language it can be for developers.  We learned the concepts of <b>components</b>, <b>props</b>, and <b>state</b>.  We learned about the idea of <b>conditional rendering</b> and how we can use our user's input to influence our output.  We were also introduced to <b>React Router</b> and got to see how it gives us powerful new tools to build our React Apps.
   </p>
   
   <ul type="none">
 
   <li><details><summary>Repos</summary><p>
-  
+
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
+  |  | [Intro to React](https://github.com/SEI-R-4-26/u2_lesson_react_intro) | [Mapping Components](https://github.com/SEI-R-4-26/u2_lesson_react_mapping_components) | [Intro to State](https://github.com/SEI-R-4-26/u2_lesson_react_state_intro) | [Conditional Rendering](https://github.com/SEI-R-4-26/u2_lesson_react_conditional_rendering) |
+  |  | [React Components Lab](https://github.com/SEI-R-4-26/u2_lesson_react_components) | [Mapping Components Lab](https://github.com/SEI-R-4-26/u2_lab_mapping_components) | [React Todos Lab](https://github.com/SEI-R-4-26/u2_lab_react_todos) | [Conditional Rendering Lab](https://github.com/SEI-R-4-26/u2_lab_conditional_rendering) |
+  |  | [React Props](https://github.com/SEI-R-4-26/u2_lesson_react_props) | [Movie Mapping Homework](https://github.com/SEI-R-4-26/u2_hw_mapping_components) | [Lifecycle Methods](https://github.com/SEI-R-4-26/u2_lesson_react_lifecycle) | [React Router](https://github.com/SEI-R-4-26/u2_lesson_react_router) |
+  |  | [React LOTR](https://github.com/SEI-R-4-26/u2_lab_react_lotr) |  | [Lifecycle Lab](https://github.com/SEI-R-4-26/u2_lab_react_component_lifecycle) | [RAWG Router Lab](https://github.com/SEI-R-4-26/u2_lab_react_router) |
+  |  | [React Quiz Homework](https://github.com/SEI-R-4-26/u2_quiz_react) |  | [React Calculator Homework](https://github.com/SEI-R-4-26/u2_hw_react_calculator) | [Burger Stacker Homework](https://github.com/SEI-R-4-26/u2_hw_react_burger_stacker) |
   
   </p></details></li>
 
