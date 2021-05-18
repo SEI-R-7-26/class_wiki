@@ -168,7 +168,7 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  |  | [Intro to React](https://github.com/SEI-R-4-26/u2_lesson_react_intro) | [Mapping Components](https://github.com/SEI-R-4-26/u2_lesson_react_mapping_components) | [Intro to State](https://github.com/SEI-R-4-26/u2_lesson_react_state_intro) | [Conditional Rendering](https://github.com/SEI-R-4-26/u2_lesson_react_conditional_rendering) |
+  | Project Presentations | [Intro to React](https://github.com/SEI-R-4-26/u2_lesson_react_intro) | [Mapping Components](https://github.com/SEI-R-4-26/u2_lesson_react_mapping_components) | [Intro to State](https://github.com/SEI-R-4-26/u2_lesson_react_state_intro) | [Conditional Rendering](https://github.com/SEI-R-4-26/u2_lesson_react_conditional_rendering) |
   |  | [React Components Lab](https://github.com/SEI-R-4-26/u2_lesson_react_components) | [Mapping Components Lab](https://github.com/SEI-R-4-26/u2_lab_mapping_components) | [React Todos Lab](https://github.com/SEI-R-4-26/u2_lab_react_todos) | [Conditional Rendering Lab](https://github.com/SEI-R-4-26/u2_lab_conditional_rendering) |
   |  | [React Props](https://github.com/SEI-R-4-26/u2_lesson_react_props) | [Movie Mapping Homework](https://github.com/SEI-R-4-26/u2_hw_mapping_components) | [Lifecycle Methods](https://github.com/SEI-R-4-26/u2_lesson_react_lifecycle) | [React Router](https://github.com/SEI-R-4-26/u2_lesson_react_router) |
   |  | [React LOTR](https://github.com/SEI-R-4-26/u2_lab_react_lotr) |  | [Lifecycle Lab](https://github.com/SEI-R-4-26/u2_lab_react_component_lifecycle) | [RAWG Router Lab](https://github.com/SEI-R-4-26/u2_lab_react_router) |
@@ -181,8 +181,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/YcRbULatwwzZK6GALNZuRKvRnwIGHmtBW0u_NDHkbpwz836fLYARDTVmtAZ9kZlZ.83ZGOswZEhUamWYI) | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: `ReJq2?ZZ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
   
