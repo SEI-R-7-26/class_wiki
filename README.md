@@ -398,6 +398,7 @@ Below is a list of additional resources that were hand-picked by your instructor
   - [CSS Diner](https://flukeout.github.io/)
   - [Flexbox Froggy](https://flexboxfroggy.com/)
   - [Grid Garden](https://cssgridgarden.com/)
+  - [Screeps](https://screeps.com/)
   </p></details></li>
   
   <li><details><summary><strong>Reading</strong> - helpful articles and topics</summary><p>
