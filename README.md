@@ -204,7 +204,7 @@ ___
   <li><details><summary><strong>Week 5</strong></summary><p>
   
   <p>
-  Week 5 Description
+  In Week 5, we introduced back-end and got to practice using <b>Express</b> and <b>Express Middleware</b>.  We also learned how to implement <b>controllers</b>.  We then introduced <b>MongoDB</b> and <b>mongoose</b> as a way to store our app's data.  At the end of the week, we learned some group <b>git</b> best-practices and got to build our first full stack app together in groups!
   </p>
   
   <ul type="none">
@@ -213,12 +213,11 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
+  | [React APIs](https://github.com/SEI-R-4-26/u2_lesson_react_APIs) | [Express Middleware](https://github.com/SEI-R-4-26/u2_lesson_express_middleware) | [MongoDB Sneakers Lab](https://github.com/SEI-R-4-26/u2_lab_mongodb_exercise) | [Group Git](https://github.com/SEI-R-4-26/u2_lesson_group_git) | [MERN Deployment](https://github.com/SEI-R-4-26/u2_lesson_MERN_heroku_deployment) |
+  | [Intro to Express](https://github.com/SEI-R-4-26/u2_lesson_express_intro) | [Express Controllers](https://github.com/SEI-R-4-26/u2_lesson_express_controllers) | [Mongoose Express Lab](https://github.com/SEI-R-4-26/u2_lab_mongoose_express) | [Mongoose Associations](https://github.com/SEI-R-4-26/u2_lesson_mongoose_associations) |  |
+  | [Express Routes](https://github.com/SEI-R-4-26/u2_lesson_express_routing) | [MongoDB](https://github.com/SEI-R-4-26/u2_lesson_mongodb) | [Mongoose Plants API Homework](https://github.com/SEI-R-4-26/u2_hw_mongoose_plants) | [Full Stackathon](https://github.com/SEI-R-4-26/u2_hackathon) |  |
+  | [RAWG Router Homework](https://github.com/SEI-R-4-26/u2_lab_rawg_router) | [Mongoose Schemas and Models](https://github.com/SEI-R-4-26/u2_lesson_mongoose_data_model) |  |  |  |
+  |  | [Express Fruits Homework](https://github.com/SEI-R-4-26/u2_hw_express_fruits) |  |  |  |
   
   </p></details></li>
 
