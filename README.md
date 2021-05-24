@@ -74,7 +74,7 @@ Below, you will find Class Policies and Requirements as laid out in Orientation 
   
 <ul>
   <li>Plagiarism is a serious offense and grounds for immediate withdrawal.</li>
-  <li>You are encouraged to ask others, including students, instructors, and stack overflow, for help. However, it is <b><i>not acceptable to copy</i></b> another person's code and submit it as your own. More importantly, it is detrimental to your learning and growth.</li>
+  <li>You are encouraged to ask others, including students, instructors, and Stack Overflow for help. However, it is <b><i>not acceptable to copy</i></b> another persons code and submit it as your own. More importantly, it is detrimental to your learning and growth.</li>
   <li>Small snippets of code that solve small problems taken from Stack Overflow are generally an exception to this rule. If you aren't sure, it is your responsibility to <b><i>ask your instructor</i></b>. To be on the safe side, we ask that you credit the person/resource you got the code from in a comment, and let an instructor take a look at it.</li>
 </ul>
   
