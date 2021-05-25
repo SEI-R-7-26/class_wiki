@@ -226,8 +226,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/AxdumKGQf37Yyc1lBsEc-t_JiaDyyJJ37Crjc9IfV7g8PaqYpQlw5Yoska0i0jae.U0CyAKnd9GL5Y7Nh) | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: `+=2Z@XdT` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
   
