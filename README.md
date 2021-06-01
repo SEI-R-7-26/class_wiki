@@ -213,7 +213,7 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [React APIs](https://github.com/SEI-R-4-26/u2_lesson_react_APIs) | [Express Middleware](https://github.com/SEI-R-4-26/u2_lesson_express_middleware) | [MongoDB Sneakers Lab](https://github.com/SEI-R-4-26/u2_lab_mongodb_exercise) | [Group Git](https://github.com/SEI-R-4-26/u2_lesson_group_git) | [MERN Deployment](https://github.com/SEI-R-4-26/u2_lesson_MERN_heroku_deployment) |
+  | [React APIs](https://github.com/SEI-R-4-26/u2_lesson_react_APIs) | [Express Middleware](https://github.com/SEI-R-4-26/u2_lesson_express_middleware) | [MongoDB Sneakers Lab](https://github.com/SEI-R-4-26/u2_lab_mongoDB_sneakers) | [Group Git](https://github.com/SEI-R-4-26/u2_lesson_group_git) | [MERN Deployment](https://github.com/SEI-R-4-26/u2_lesson_MERN_heroku_deployment) |
   | [Intro to Express](https://github.com/SEI-R-4-26/u2_lesson_express_intro) | [Express Controllers](https://github.com/SEI-R-4-26/u2_lesson_express_controllers) | [Mongoose Express Lab](https://github.com/SEI-R-4-26/u2_lab_mongoose_express) | [Mongoose Associations](https://github.com/SEI-R-4-26/u2_lesson_mongoose_associations) |  |
   | [Express Routes](https://github.com/SEI-R-4-26/u2_lesson_express_routing) | [MongoDB](https://github.com/SEI-R-4-26/u2_lesson_mongodb) | [Mongoose Plants API Homework](https://github.com/SEI-R-4-26/u2_hw_mongoose_plants) | [Full Stackathon](https://github.com/SEI-R-4-26/u2_hackathon) |  |
   | [RAWG Router Homework](https://github.com/SEI-R-4-26/u2_lab_rawg_router) | [Mongoose Schemas and Models](https://github.com/SEI-R-4-26/u2_lesson_mongoose_data_model) |  |  |  |
@@ -226,8 +226,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/AxdumKGQf37Yyc1lBsEc-t_JiaDyyJJ37Crjc9IfV7g8PaqYpQlw5Yoska0i0jae.U0CyAKnd9GL5Y7Nh) | [Recording](https://generalassembly.zoom.us/rec/share/3M8HGz4WwH0acEm-X6pBwMH-XQ0F1D8_03O-AilSrABuCz3uruPinDA_cLn5ORe9._Bf9uhDbD41z3Sg0) | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/U5cy1LIwulBgjM2OKZnDNqjH7SQXpHyWPbLPjUDnpjel6KtKCjHZhdqnCl8t6Tou.FO1LdWvFw6cepPJl) | [Recording]() |
-  | Passcode: `+=2Z@XdT` | Passcode: `ZMpr=Y7m` |  | Passcode: `3Mz2*.mF` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/AxdumKGQf37Yyc1lBsEc-t_JiaDyyJJ37Crjc9IfV7g8PaqYpQlw5Yoska0i0jae.U0CyAKnd9GL5Y7Nh) | [Recording](https://generalassembly.zoom.us/rec/share/3M8HGz4WwH0acEm-X6pBwMH-XQ0F1D8_03O-AilSrABuCz3uruPinDA_cLn5ORe9._Bf9uhDbD41z3Sg0) | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/U5cy1LIwulBgjM2OKZnDNqjH7SQXpHyWPbLPjUDnpjel6KtKCjHZhdqnCl8t6Tou.FO1LdWvFw6cepPJl) | [Recording](https://generalassembly.zoom.us/rec/share/hn93fKKaYlvVjLSoHwyCSyO7uLFR8qxMJ458CqcQUzO9vH73guSlIgbWqqB8ec6O.V9ksFYb_AoCwlkZN) |
+  | Passcode: `+=2Z@XdT` | Passcode: `ZMpr=Y7m` |  | Passcode: `3Mz2*.mF` | Passcode: `#77wv&Q2` |
 
   </p></details></li>
   
