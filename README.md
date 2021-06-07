@@ -245,21 +245,21 @@ ___
   <li><details><summary><strong>Week 7</strong></summary><p>
   
   <p>
-  Week 7 Description
+  In Week 7, we learned all about <b>React Hooks</b> and <b>functional components</b>. We learned hooks like <b>useState</b>, <b>useEffect</b>, and <b>useReducer</b> and where to best put them to use in our apps. We were introduced to <b>SQL databases</b> and started to learn SQL commands to interact with our database.  We also learned about the concept of <b>SQL Joins</b>.
   </p>
   
   <ul type="none">
 
   <li><details><summary>Repos</summary><p>
-  
-  | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
+
+ | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
+  | [Hooks Docs](https://reactjs.org/docs/hooks-intro.html) | [Intro to useEffect](https://github.com/SEI-R-4-26/u3_lesson_useEffect) | [React Recipes Lab](https://github.com/SEI-R-4-26/u3_lab_react_recipes) | [Intro to SQL](https://github.com/SEI-R-4-26/u3_lesson_SQL_Intro) | [SQL Zoo Lab](https://sqlzoo.net/) |
+  | [Classes to Hooks](https://github.com/SEI-R-4-26/u3_lesson_classes_hooks) | [useEffect Stoplight Lab](https://github.com/SEI-R-4-26/u3_lab_useEffect_stoplight) |   | [SQL Practice Lab](https://github.com/SEI-R-4-26/u3_lab_SQL_Practice) | [SQL Code Wars Homework](https://github.com/SEI-R-4-26/u3_hw_sql_codewars) |
+  | [Intro to useState](https://github.com/SEI-R-4-26/u3_lesson_useState) | [Kanye Quotes Lab](https://github.com/SEI-R-4-26/u3_lab_kanye_useEffect) |   | [SQL Joins](https://github.com/SEI-R-4-26/u3_lesson_SQL_Joins) |   |
+  | [Hooks ATM Lab](https://github.com/SEI-R-4-26/u3_lab_hooks_atm) | [Intro to useReducer](https://github.com/SEI-R-4-26/u3_lesson_useReducer) |   | [SQL Joins Lab](https://github.com/SEI-R-4-26/u3_lab_SQL_Joins_Practice) |   |
+  | [React Portfolio Lab](https://github.com/SEI-R-4-26/u3_lab_react_portfolio) | [CSS Manipulator Lab](https://github.com/SEI-R-4-26/u3_lab_CSS_manipulator) |   | [Carmen Sandiego Homework](https://github.com/SEI-R-4-26/u3_hw_carmen_sandiego) |   |
+  | [React Adv. Calculator Homework](https://github.com/SEI-R-4-26/u3_hw_react_hooks_calculator) |   |   |   |   |
   
   </p></details></li>
 
