@@ -268,8 +268,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/wxNjJd1al2u-WZG1Mv0Or2qJ9Ul4BabTawBqDdYzbV5VhzENF2qMWNkiONlFG2Pu.u6P77rq_ZCvTYMgn) | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: `ZV?Ls%t3` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
 
   </p></details></li>
   
