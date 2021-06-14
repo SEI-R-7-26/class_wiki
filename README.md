@@ -268,8 +268,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/wxNjJd1al2u-WZG1Mv0Or2qJ9Ul4BabTawBqDdYzbV5VhzENF2qMWNkiONlFG2Pu.u6P77rq_ZCvTYMgn) | [Recording](https://generalassembly.zoom.us/rec/share/6khBo0y-x4qjVtcAfDL2V8KFnhmZ3L2T5i-kNaJkagFIVmQKuRHT_9_06wnCWuhr.u0lqDyujlCyAA7hg) | [Recording](https://generalassembly.zoom.us/rec/share/c2t33d8oBkBHTlSvQo_CL1IZkHfhP0_smc5MCBU51p08LfOuOHNMRP25B-fmfzy6.pMLacOYeQa0NuFhz) | [Recording]() | [Recording]() |
-  | Passcode: `ZV?Ls%t3` | Passcode: `Yp*5zb7?` | Passcode: `$gMHiJ42` | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/wxNjJd1al2u-WZG1Mv0Or2qJ9Ul4BabTawBqDdYzbV5VhzENF2qMWNkiONlFG2Pu.u6P77rq_ZCvTYMgn) | [Recording](https://generalassembly.zoom.us/rec/share/6khBo0y-x4qjVtcAfDL2V8KFnhmZ3L2T5i-kNaJkagFIVmQKuRHT_9_06wnCWuhr.u0lqDyujlCyAA7hg) | [Recording](https://generalassembly.zoom.us/rec/share/c2t33d8oBkBHTlSvQo_CL1IZkHfhP0_smc5MCBU51p08LfOuOHNMRP25B-fmfzy6.pMLacOYeQa0NuFhz) | [Recording](https://generalassembly.zoom.us/rec/share/RawKMA7LhbjTOYDEfB1PiErUhsMo-CdqU6MR49ovdpVv-ccNdXWsibcTjloazrf6.L8I_7rmlf4Yv5CCf) | No Recording |
+  | Passcode: `ZV?Ls%t3` | Passcode: `Yp*5zb7?` | Passcode: `$gMHiJ42` | Passcode: `7cEM@O!n` |  |
 
   </p></details></li>
   
@@ -281,7 +281,7 @@ ___
   <li><details><summary><strong>Week 8</strong></summary><p>
   
   <p>
-  Week 8 Description
+  In Week 8, we learned all about <b>Sequelize</b> and how it can interpret for our SQL database and our backend Node servers.  We learned how to make <b>queries</b>, <b>migrations</b>, and <b>associations</b>.  We also learned all about how to integrate <b>user authentication</b> in our apps.
   </p>
   
   <ul type="none">
@@ -290,12 +290,11 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
+  | [Database Design](https://github.com/SEI-R-4-26/u3_lesson_database_design) | [Sequelize Migrations](https://github.com/SEI-R-4-26/u3_lesson_sequelize_migrations) | [Express Sequelize Lab](https://github.com/SEI-R-4-26/u3_lesson_express_sequelize) | [JWT Auth](https://github.com/SEI-R-4-26/u3_lesson_JWT_auth) | [Sequelize Complex Associations](https://github.com/SEI-R-4-26/u3_lesson_sequelize_complex_associations) |
+  | [Intro to Sequelize](https://github.com/SEI-R-4-26/u3_lesson_sequelize_intro) | [Migrations Exercise Lab](https://github.com/SEI-R-4-26/u3_lab_sequelize_migrations_exercise) | [Sequelize API Lab](https://github.com/SEI-R-4-26/u3_lab_sequelize_API_from_scratch) | [Sequelize Auth](https://github.com/SEI-R-4-26/u3_lesson_sequelize_auth) | [Fakebook Lab](https://github.com/SEI-R-4-26/u3_lab_fakebook) |
+  | [Sequelize Queries](https://github.com/SEI-R-4-26/u3_lesson_sequelize_queries) | [Sequelize Associations](https://github.com/SEI-R-4-26/u3_lesson_sequelize_associations) | [Auth Study Homework](https://github.com/SEI-R-4-26/u3_hw_jwt_auth_study) | [React Auth](https://github.com/SEI-R-4-26/u3_lab_react_auth) | [P3 Prompt](https://github.com/SEI-R-4-26/u3_project_prompt) |
+  | [Sequelize Querying Lab](https://github.com/SEI-R-4-26/u3_lab_sequelize_querying) | [Associations Exercise Lab](https://github.com/SEI-R-4-26/u3_lab_sequelize_associations_exercise) |  | [Auth Quiz Homework](https://github.com/SEI-R-4-26/u3_hw_auth_quiz) |  |
+  | [Sequelize Practice Homework](https://github.com/SEI-R-4-26/u3_hw_sequelize_practice) | [Associations & Migrations Homework](https://github.com/SEI-R-4-26/u3_hw_sequelize_associations_and_migrations) |  |  |  |
   
   </p></details></li>
 
