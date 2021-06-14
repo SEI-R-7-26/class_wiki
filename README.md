@@ -290,11 +290,11 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Database Design](https://github.com/SEI-R-4-26/u3_lesson_database_design) | [Sequelize Migrations](https://github.com/SEI-R-4-26/u3_lesson_sequelize_migrations) | [Express Sequelize Lab](https://github.com/SEI-R-4-26/u3_lesson_express_sequelize) | [JWT Auth](https://github.com/SEI-R-4-26/u3_lesson_JWT_auth) | [Sequelize Complex Associations](https://github.com/SEI-R-4-26/u3_lesson_sequelize_complex_associations) |
-  | [Intro to Sequelize](https://github.com/SEI-R-4-26/u3_lesson_sequelize_intro) | [Migrations Exercise Lab](https://github.com/SEI-R-4-26/u3_lab_sequelize_migrations_exercise) | [Sequelize API Lab](https://github.com/SEI-R-4-26/u3_lab_sequelize_API_from_scratch) | [Sequelize Auth](https://github.com/SEI-R-4-26/u3_lesson_sequelize_auth) | [Fakebook Lab](https://github.com/SEI-R-4-26/u3_lab_fakebook) |
-  | [Sequelize Queries](https://github.com/SEI-R-4-26/u3_lesson_sequelize_queries) | [Sequelize Associations](https://github.com/SEI-R-4-26/u3_lesson_sequelize_associations) | [Auth Study Homework](https://github.com/SEI-R-4-26/u3_hw_jwt_auth_study) | [React Auth](https://github.com/SEI-R-4-26/u3_lab_react_auth) | [P3 Prompt](https://github.com/SEI-R-4-26/u3_project_prompt) |
-  | [Sequelize Querying Lab](https://github.com/SEI-R-4-26/u3_lab_sequelize_querying) | [Associations Exercise Lab](https://github.com/SEI-R-4-26/u3_lab_sequelize_associations_exercise) |  | [Auth Quiz Homework](https://github.com/SEI-R-4-26/u3_hw_auth_quiz) |  |
-  | [Sequelize Practice Homework](https://github.com/SEI-R-4-26/u3_hw_sequelize_practice) | [Associations & Migrations Homework](https://github.com/SEI-R-4-26/u3_hw_sequelize_associations_and_migrations) |  |  |  |
+  | [Database Design](https://github.com/SEI-R-4-26/u3_lesson_database_design) | [Sequelize Migrations](https://github.com/SEI-R-4-26/u3_lesson_sequelize_migrations) | [Express Sequelize Lab](https://github.com/SEI-R-4-26/u3_lesson_express_sequelize) | [JWT Auth](https://github.com/SEI-R-4-26/u3_lesson_JWT_auth) | Juneteenth Observed |
+  | [Intro to Sequelize](https://github.com/SEI-R-4-26/u3_lesson_sequelize_intro) | [Migrations Exercise Lab](https://github.com/SEI-R-4-26/u3_lab_sequelize_migrations_exercise) | [Sequelize API Lab](https://github.com/SEI-R-4-26/u3_lab_sequelize_API_from_scratch) | [Sequelize Auth](https://github.com/SEI-R-4-26/u3_lesson_sequelize_auth) |  |
+  | [Sequelize Queries](https://github.com/SEI-R-4-26/u3_lesson_sequelize_queries) | [Sequelize Associations](https://github.com/SEI-R-4-26/u3_lesson_sequelize_associations) | [Auth Study Homework](https://github.com/SEI-R-4-26/u3_hw_jwt_auth_study) | [React Auth](https://github.com/SEI-R-4-26/u3_lab_react_auth) |  |
+  | [Sequelize Querying Lab](https://github.com/SEI-R-4-26/u3_lab_sequelize_querying) | [Associations Exercise Lab](https://github.com/SEI-R-4-26/u3_lab_sequelize_associations_exercise) | [Sequelize Complex Associations Homework](https://github.com/SEI-R-4-26/u3_lesson_sequelize_complex_associations) |  |  |
+  | [Sequelize Practice Homework](https://github.com/SEI-R-4-26/u3_hw_sequelize_practice) | [Associations & Migrations Homework](https://github.com/SEI-R-4-26/u3_hw_sequelize_associations_and_migrations) | [P3 Prompt](https://github.com/SEI-R-4-26/u3_project_prompt) |  |  |
   
   </p></details></li>
 
@@ -303,8 +303,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | No Recording |
+  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |  |
 
   </p></details></li>
   
