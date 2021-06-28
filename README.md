@@ -322,21 +322,22 @@ ___
   <li><details><summary><strong>Week 10</strong></summary><p>
   
   <p>
-  Week 10 Description
+  In Week 10, we were introduced to <b>React Redux</b> as a new way to manage our state in React! We learned about <b>Reducers</b>, <b>Actions</b>, and <b>Types</b>. We also learned how to map our state and actions to props. We also learned how to use a middleware called <b>thunk</b> in conjunction with Redux. Later in the week, we were introduced to <b>Python</b> and learned about <b>functions</b>, <b>control flow</b>, <b>loops</b>, <b>dictionaries</b>, and <b>tuples</b>. We continued with Python by learning about <b>Virtual Environments</b> and <b>OOP in Python</b>.  We then got a quick intro to <b>Flask</b>.
   </p>
   
   <ul type="none">
 
   <li><details><summary>Repos</summary><p>
-  
+
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
+  | [Intro to Redux](https://github.com/SEI-R-4-26/u4_lesson_react_redux_intro) | [Redux Middleware](https://github.com/SEI-R-4-26/u4_lesson_redux_middleware) | [Redux ToDos Lab](https://github.com/SEI-R-4-26/u4_lab_redux_todos) | [Intro to Python](https://github.com/SEI-R-4-26/u4_lesson_python_intro) | [Python Virtual Environments](https://github.com/SEI-R-4-26/u4_lesson_python_virtual_environments) |
+  | [Redux Reducers](https://github.com/SEI-R-4-26/u4_lesson_redux_reducers) | [Redux Movies Lab](https://github.com/SEI-R-4-26/u4_lab_redux_movies) |  | [Python Functions](https://github.com/SEI-R-4-26/u4_lesson_python_functions) | [Python Tuples](https://github.com/SEI-R-4-26/u4_lesson_python_tuples) |
+  | [Redux Actions & Types](https://github.com/SEI-R-4-26/u4_lesson_redux_actions_types) |  |  | [Python Control Flow](https://github.com/SEI-R-4-26/u4_lesson_python_control_flow) | [Python Tuple Lab](https://github.com/SEI-R-4-26/u4_lab_python_tuple_exercise) |
+  | [Redux Mapping State & Actions to Props](https://github.com/SEI-R-4-26/u4_lesson_mapping_state_props) |  |  | [Python Lists and Loops](https://github.com/SEI-R-4-26/u4_lesson_python_lists_loops) | [Python OOP](https://github.com/SEI-R-4-26/u4_lesson_python_oop) |
+  | [Redux Quiz Homework](https://github.com/SEI-R-4-26/u4_hw_redux_quiz) |  |  | [Python Dictionaries](https://github.com/SEI-R-4-26/u4_lesson_python_dictionaries) | [Intro to Flask](https://github.com/SEI-R-4-26/u4_lesson_python_flask_intro) |
+  |  |  |  | [Python CYOA Homework](https://github.com/SEI-R-4-26/u4_hw_python_adventure) | [Python CSV Parser Lab](https://github.com/SEI-R-4-26/u4_hw_python_csv_parser) |
+  |  |  |  |  | [Python Smash Bros. Homework](https://github.com/SEI-R-4-26/u4_hw_python_smash_bros) |
   
   </p></details></li>
 
