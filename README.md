@@ -359,7 +359,7 @@ ___
   <li><details><summary><strong>Week 11</strong></summary><p>
   
   <p>
-  Week 11 Description
+  In Week 11, we learned about how to set up <b>Flask Resources</b>, how to use <b>Flask SQL Alchemy</b>, and how to set up <b>Auth in Flask</b>. At the end of the week, we got to participate in a <b>Flaskathon</b>!
   </p>
   
   <ul type="none">
@@ -368,12 +368,11 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
-  | []() | []() | []() | []() | []() | 
+  | July 4th Observed | [Simple Flask API Lab](https://github.com/SEI-R-4-26/u4_lab_simple_flask_api) | [Flask Quiz](https://github.com/SEI-R-4-26/u4_lab_flask_quiz) | [Flask Auth](https://github.com/SEI-R-1-25/u4_lesson_flask_auth) | [P4 Prompt](https://github.com/SEI-R-1-25/u4_project_prompt) |
+  |  | [Flask Resources](https://github.com/SEI-R-4-26/u4_lesson_flask_resources) | [Flask API Lab](https://github.com/SEI-R-1-25/u4_lab_flask_api) | [Flaskathon](https://github.com/SEI-R-1-25/u4_flaskathon) |  |
+  |  | [Flask Resources Lab](https://github.com/SEI-R-1-25/u4_lab_flask_resources_lab) |  |  |  |
+  |  | [Flask SQL Alchemy](https://github.com/SEI-R-1-25/u4_lesson_flask_sqlalchemy) |  |  |  |
+  |  | [Flask Associations Lab](https://github.com/SEI-R-1-25/u4_lab_flask_associations) |  |  |  |
   
   </p></details></li>
 
@@ -382,8 +381,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording]() | [Recording]() | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | No Recording | [Recording]() | No Recording | [Recording]() | No Recording |
+  |  | Passcode: ` ` |  | Passcode: ` ` |  |
 
   </p></details></li>
   
