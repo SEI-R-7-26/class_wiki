@@ -99,7 +99,7 @@ ____
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Mac Installfest](https://github.com/SEI-R-4-26/Installfest_Mac) | [Github Lesson](https://github.com/SEI-R-4-26/u1_lesson_github) | [Flexbox / Grid](https://github.com/SEI-R-4-26/u1_lesson_flex_grid) | [Flexbox Froggy](https://flexboxfroggy.com/) | [Grid Garden](https://cssgridgarden.com/) |
+  | [Mac Installfest](https://github.com/SEI-R-7-26/Installfest_Mac) | [Github Lesson](https://github.com/SEI-R-7-26/u1_lesson_github) | [Flexbox / Grid](https://github.com/SEI-R-7-26/u1_lesson_flex_grid) | [Flexbox Froggy](https://flexboxfroggy.com/) | [Grid Garden](https://cssgridgarden.com/) |
   | [Windows Installfest](https://github.com/SEI-R-4-26/Installfest_Windows) | [Intro to HTML](https://github.com/SEI-R-4-26/u1_lesson_intro_HTML) | [JS Datatypes](https://github.com/SEI-R-4-26/u1_lesson_js_data_types) | [JS Functions](https://github.com/SEI-R-4-26/u1_lesson_js_functions) | [Intro to JS DOM](https://github.com/SEI-R-4-26/u1_lesson_DOM) |
   | [Terminal Lesson](https://github.com/SEI-R-4-26/u1_lesson_terminal) | [Intro to CSS](https://github.com/SEI-R-4-26/u1_lesson_intro_CSS) | [JS Arrays](https://github.com/SEI-R-4-26/u1_lesson_js_arrays) | [JS Scope](https://github.com/SEI-R-4-26/u1_lesson_js_scope) | [JS DOM Quotes Lab](https://github.com/SEI-R-4-26/u1_lab_DOM_quotes) |
   | [Git Lesson](https://github.com/SEI-R-4-26/u1_lesson_git) | [Markdown Lesson](https://github.com/SEI-R-4-26/u1_lesson_markdown) | [JS Loops & Control Flow](https://github.com/SEI-R-4-26/u1_lesson_loops_and_control_flow) | [JS Objects](https://github.com/SEI-R-4-26/u1_lesson_js_objects) | [JS Events & Callbacks](https://github.com/SEI-R-4-26/u1_lesson_events_callbacks) |
