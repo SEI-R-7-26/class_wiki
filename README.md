@@ -5,11 +5,11 @@
 </div>
 
 ___
-Welcome to the SEI-R-4-26 Class Wiki. <br/><br/> This repository is a place where all of the course content that we've covered can be found. Content is organized by Unit and Week with lesson repos and class recordings for each day.
+Welcome to the SEI-R-7-26 Class Wiki. <br/><br/> This repository is a place where all of the course content that we've covered can be found. Content is organized by Unit and Week with lesson repos and class recordings for each day.
 
-Daily Javascript Challenges can be found [here](https://github.com/SEI-R-4-26/daily_js_challenges).
+Daily Javascript Challenges can be found [here](https://github.com/SEI-R-7-26/daily_js_challenges).
 
-Computer Science Algorithms and Data Structures can be found [here](https://github.com/SEI-R-4-26/cs_data_structures).
+Computer Science Algorithms and Data Structures can be found [here](https://github.com/SEI-R-7-26/cs_data_structures).
 
 ___
 <details><summary><strong>Class Policies</strong></summary><p>
