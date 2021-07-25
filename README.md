@@ -1,4 +1,4 @@
-# Class Wiki
+# Class Wiki - Raihan's edits
 
 <div align="center">
   <img src="https://i.imgur.com/e2Ma89q.png" alt="wiki">
