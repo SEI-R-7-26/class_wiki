@@ -162,7 +162,7 @@ ____
 </p></details>
 
 ___
-<details><summary><strong>Unit 2</strong> - React / MongoDB / Express / Node</summary><p>
+<details><summary><strong>Unit 2</strong> - React w/ Hooks / MongoDB / Express / Node</summary><p>
 
 <ul type="none">
 
@@ -240,7 +240,7 @@ ___
 </p></details>
 
 ___
-<details><summary><strong>Unit 3</strong> - React Hooks / Postgres / Sequelize</summary><p>
+<details><summary><strong>Unit 3</strong> - React Redux / Postgres / Sequelize</summary><p>
 
 <ul type="none">
 
@@ -318,7 +318,7 @@ ___
 </p></details>
 
 ___
-<details><summary><strong>Unit 4</strong> - React Redux / Python3 / Flask</summary><p>
+<details><summary><strong>Unit 4</strong> - Vue.js / Python3 / Flask</summary><p>
 
 <ul type="none">
 
