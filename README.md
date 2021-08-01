@@ -114,8 +114,8 @@ ____
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/7MxPSXvtfQAciJQWk2T4Fro774iNFFkaaUxOLklv12unfhQNLubnlLdFJYOM9H1A.uS1UvHgMvDsg97j5) | [Recording](https://generalassembly.zoom.us/rec/share/kJQsJa1tIdsBR2AwTxKx23_FIyfbnWJb_mf1TlXHpb9VLo30Z8kLcQPV1DZCkK1X.ybikn3ksCdRGtZM7) | [Recording](https://generalassembly.zoom.us/rec/share/MSpzpHqLzy0bpPN4X787YAhM8Il5Wta9HFGJ-c6hg_MtXn97jl0PehsHY8LLxcap.4Hp4PYPsLPns-qY1) | [Recording](https://generalassembly.zoom.us/rec/share/IDxGf-tXzlmJs0CEKfqA3uoI-vLV1oSUpSVG4izoXmGGJCy_cvDu_4rBl9akjD3Z.EYmNVALYp0YaOV44) | [Recording]() |
-  | Passcode: `7OqWj*H2` | Passcode: `I08b$@Mj` | Passcode: `Y&K2x^Zy` | Passcode: `h1gI=vv7` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/7MxPSXvtfQAciJQWk2T4Fro774iNFFkaaUxOLklv12unfhQNLubnlLdFJYOM9H1A.uS1UvHgMvDsg97j5) | [Recording](https://generalassembly.zoom.us/rec/share/kJQsJa1tIdsBR2AwTxKx23_FIyfbnWJb_mf1TlXHpb9VLo30Z8kLcQPV1DZCkK1X.ybikn3ksCdRGtZM7) | [Recording](https://generalassembly.zoom.us/rec/share/MSpzpHqLzy0bpPN4X787YAhM8Il5Wta9HFGJ-c6hg_MtXn97jl0PehsHY8LLxcap.4Hp4PYPsLPns-qY1) | [Recording](https://generalassembly.zoom.us/rec/share/IDxGf-tXzlmJs0CEKfqA3uoI-vLV1oSUpSVG4izoXmGGJCy_cvDu_4rBl9akjD3Z.EYmNVALYp0YaOV44) | [Recording](https://urldefense.com/v3/__https://generalassembly.zoom.us/rec/share/a6ADv0FhYjg81ghJZCHfLrW5EqaROz1m7BRZdEqNE8LiTRnhgVnzEUHVDAh4ujVA.xxh8yKgA0tR6WVSQ__;!!GgcXpDZ2N9l6uyZJ!yl5Plyh-4zS5xuSARmUuZqJpYk9zZqES0Bx6G2mEGsWdvk-bKNQi87nee03XKKOieeUjllFPBcw$) |
+  | Passcode: `7OqWj*H2` | Passcode: `I08b$@Mj` | Passcode: `Y&K2x^Zy` | Passcode: `h1gI=vv7` | Passcode: `2u?3kwKd` |
 
   </p></details></li>
   
