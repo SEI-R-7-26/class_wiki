@@ -127,7 +127,7 @@ ____
   <li><details><summary><strong>Week 2</strong></summary><p>
   
   <p>
-  Week 2 description...
+  In Week 2, we practiced more <b>DOM Manipulation</b> and were introduced to <a href="https://github.com/SEI-R-4-26/daily_js_challenges">Daily JavaScript Challenges</a> and basic algorithmic problem solving. We and learned about <b>ES6</b> syntax along with <b>Higher Order Functions</b>, <b>Object Oriented Programming</b> in JavaScript, <b>npm scripts</b>, and fetching/accessing data with <b>APIs</b>.
   </p>
   
   <ul type="none">
@@ -136,12 +136,12 @@ ____
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
+  | [Daily JS Challenges](https://github.com/SEI-R-7-26/daily_js_challenges) | [Intro to OOP](https://github.com/SEI-R-7-26/u1_lesson_js_OOP) | [Box Model Practice](https://github.com/SEI-R-7-26/u1_lab_box_model) | [Intro to APIs](https://github.com/SEI-R-7-26/u1_lesson_intro_to_APIs) | [Unit 1 Assessment](https://github.com/SEI-R-7-26/u1_assessment) | 
+  | [ES6 Syntax](https://github.com/SEI-R-7-26/u1_lesson_js_ES6) | [OOP Lab](https://github.com/SEI-R-7-26/u1_lab_OOP) | [Intro to NPM & Building Scripts](https://github.com/SEI-R-7-26/u1_lesson_nodejs_scripting) | [API Dogs Lab](https://github.com/SEI-R-7-26/u1_lab_dogs_API) | [Project 1 Prompt](https://github.com/SEI-R-7-26/u1_project_prompt) | 
+  | [ES6 Lab](https://github.com/SEI-R-7-26/u1_lab_ES6_practice) | [OOP Exercise](https://github.com/SEI-R-7-26/u1_lab_oop_exercise) | [JS Fast & Furious](https://github.com/SEI-R-7-26/u1_hw_fast_and_furious) | [TMDB API Lab](https://github.com/SEI-R-7-26/u1_lab_TMDB_API) |  | 
+  | [JS HOF Lesson](https://github.com/SEI-R-7-26/u1_lesson_HOF) |  |  |  |  | 
+  | [JS HOF Practice](https://github.com/SEI-R-7-26/u1_lab_HOF) |  |  |  |  | 
+  | [JS HOF Homework](https://github.com/SEI-R-7-26/u1_hw_HOF) |  |  |  |  | 
   
   </p></details></li>
 
