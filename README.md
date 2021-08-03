@@ -136,7 +136,7 @@ ____
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Daily JS Challenges](https://github.com/SEI-R-7-26/daily_js_challenges) | [Intro to OOP](https://github.com/SEI-R-7-26/u1_lesson_js_OOP) | [Box Model Practice](https://github.com/SEI-R-7-26/u1_lab_box_model) | [Intro to APIs](https://github.com/SEI-R-7-26/u1_lesson_intro_to_APIs) | [Unit 1 Assessment](https://github.com/SEI-R-7-26/u1_assessment) | 
+  | [Daily JS Challenges](https://github.com/SEI-R-7-26/daily_js_challenges) | [Intro to OOP](https://github.com/SEI-R-7-26/u1_lesson_OOP) | [Box Model Practice](https://github.com/SEI-R-7-26/u1_lab_box_model) | [Intro to APIs](https://github.com/SEI-R-7-26/u1_lesson_intro_to_APIs) | [Unit 1 Assessment](https://github.com/SEI-R-7-26/u1_assessment) | 
   | [ES6 Syntax](https://github.com/SEI-R-7-26/u1_lesson_js_ES6) | [OOP Lab](https://github.com/SEI-R-7-26/u1_lab_OOP) | [Intro to NPM & Building Scripts](https://github.com/SEI-R-7-26/u1_lesson_nodejs_scripting) | [API Dogs Lab](https://github.com/SEI-R-7-26/u1_lab_dogs_API) | [Project 1 Prompt](https://github.com/SEI-R-7-26/u1_project_prompt) | 
   | [ES6 Lab](https://github.com/SEI-R-7-26/u1_lab_ES6_practice) | [OOP Exercise](https://github.com/SEI-R-7-26/u1_lab_oop_exercise) | [JS Fast & Furious](https://github.com/SEI-R-7-26/u1_hw_fast_and_furious) | [TMDB API Lab](https://github.com/SEI-R-7-26/u1_lab_TMDB_API) |  | 
   | [JS HOF Lesson](https://github.com/SEI-R-7-26/u1_lesson_HOF) |  |  |  |  | 
