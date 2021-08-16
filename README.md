@@ -150,8 +150,8 @@ ____
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/ctMdVZQq5Nl2NGqCyg2Vv1W5QlprBsGbkh64CuVC3anY2spSo0F1wtzG369IF6Vc.HiFjDZfwhh-SSwvR) | [Recording](https://generalassembly.zoom.us/rec/share/xwPGT11Q3ihM0amTMdRdSXx4NPucgyKiFtT2M0933XL-eELZmlfB7E7emCfXkDZb.HbKGQx7eb5-ZdqVH) | [Recording](https://generalassembly.zoom.us/rec/share/-bszdY0vZLiol8RIuKBdc8O0kVX1xAMUhw2nnoth35s1j542JJxYcbQQOEpHLDI5.QI29DW0EWwv-TdR3) | [Recording](https://generalassembly.zoom.us/rec/share/W4h4G6F6Vu5cQouv3lo3On2pNdksi4o7JLiYtu0JaBXTB0_fRGnAHAfDBKycjxeN.-09CgaTyMTOcKGyR) | [Recording]() |
-  | Passcode: `iXrk1?#J` | Passcode: `XzL7ssX.` | Passcode: `N0*YXZ9#` | Passcode: `uiD!v$.9` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/ctMdVZQq5Nl2NGqCyg2Vv1W5QlprBsGbkh64CuVC3anY2spSo0F1wtzG369IF6Vc.HiFjDZfwhh-SSwvR) | [Recording](https://generalassembly.zoom.us/rec/share/xwPGT11Q3ihM0amTMdRdSXx4NPucgyKiFtT2M0933XL-eELZmlfB7E7emCfXkDZb.HbKGQx7eb5-ZdqVH) | [Recording](https://generalassembly.zoom.us/rec/share/-bszdY0vZLiol8RIuKBdc8O0kVX1xAMUhw2nnoth35s1j542JJxYcbQQOEpHLDI5.QI29DW0EWwv-TdR3) | [Recording](https://generalassembly.zoom.us/rec/share/W4h4G6F6Vu5cQouv3lo3On2pNdksi4o7JLiYtu0JaBXTB0_fRGnAHAfDBKycjxeN.-09CgaTyMTOcKGyR) | [Recording](https://generalassembly.zoom.us/rec/share/CVahPcjYHR5K7A5Du1aEO0UwLZa7heOLIZmPVy_QfIC0dHy2iDHWb3TiugjXp3jG.Aokrzl57vnzKvoFY) |
+  | Passcode: `iXrk1?#J` | Passcode: `XzL7ssX.` | Passcode: `N0*YXZ9#` | Passcode: `uiD!v$.9` | Passcode: `M?Z8q2*w` |
 
   </p></details></li>
   
@@ -169,7 +169,7 @@ ___
   <li><details><summary><strong>Week 4</strong></summary><p>
   
    <p>
-  Week 4 description...
+  In Week 4, we learned all about <b>React</b> and what an amazing language it can be for developers.  We learned the concepts of <b>components</b>, <b>props</b>, and about <b>React Hooks</b> and <b>functional components</b>.  We learned hooks like <b>useState</b>, <b>useEffect</b>, and <b>useReducer</b> and where to best put them to use in our apps.  We learned about the idea of <b>conditional rendering</b> and how we can use our user's input to influence our output.  We were also introduced to <b>React Router</b> and got to see how it gives us powerful new tools to build our React Apps.
   </p>
   
   <ul type="none">
@@ -178,12 +178,12 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
+  | [Intro to React](https://github.com/SEI-R-7-26/u2_lesson_react_intro) | [Component Heirarchy Diagrams](https://github.com/SEI-R-7-26/u2_lesson_component_heirarchy) | [Intro to useEffect](https://github.com/SEI-R-7-26/u3_lesson_useEffect) | [React w/ APIs](https://github.com/SEI-R-7-26/u2_lesson_react_APIs) | [Conditional Rendering](https://github.com/SEI-R-7-26/u2_lesson_react_conditional_rendering) | 
+  | [React Components Lab](https://github.com/SEI-R-7-26/u2_lesson_react_components) | [Mapping Components](https://github.com/SEI-R-7-26/u2_lesson_react_mapping_components) | [useEffect Stoplight Lab](https://github.com/SEI-R-7-26/u3_lab_useEffect_stoplight) | [Kanye useEffect Lab](https://github.com/SEI-R-7-26/u2_lab_kanye_useEffect) | [Conditional Rendering Lab](https://github.com/SEI-R-7-26/u2_lab_conditional_rendering) | 
+  | [React Props](https://github.com/SEI-R-7-26/u2_lesson_react_props) | [Mapping Components Lab](https://github.com/SEI-R-7-26/u2_lab_mapping_components) | [React Calculator Homework](https://github.com/SEI-R-7-26/u2_hw_react_hooks_calculator) | [Intro to useReducer](https://github.com/SEI-R-7-26/u2_lesson_useReducer) | [React Router](https://github.com/SEI-R-7-26/u2_lesson_react_router) | 
+  | [LOTR Lab](https://github.com/SEI-R-7-26/u2_lab_react_LOTR) | [Intro to State & Hooks](https://github.com/SEI-R-7-26/u2_lesson_intro_to_state) |  | [CSS Manipulator Homework](https://github.com/SEI-R-7-26/u2_lab_CSS_manipulator) | [React Router Lab](https://github.com/SEI-R-7-26/u2_lab_react_router) | 
+  | [React Quiz Homework](https://github.com/SEI-R-7-26/u2_quiz_react) | [Hooks ATM Lab](https://github.com/SEI-R-7-26/u3_lab_hooks_ATM) |  |  | [RAWG Router Homework](https://github.com/SEI-R-7-26/u2_hw_RAWG_router) | 
+  |  | [Movie Mapping Homework](https://github.com/SEI-R-7-26/u2_hw_mapping_components) |  |  |  | 
   
   </p></details></li>
 
