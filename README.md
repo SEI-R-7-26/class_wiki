@@ -205,7 +205,7 @@ ___
   <li><details><summary><strong>Week 5</strong></summary><p>
   
   <p>
-  Week 5 description...
+    In Week 5, we introduced back-end and got to practice using <b>Express</b> and <b>Express Middleware</b>.  We also learned how to implement <b>controllers</b>.  We then introduced <b>MongoDB</b> and <b>mongoose</b> as a way to store our app's data.  At the end of the week, we learned some group <b>git</b> best-practices and got to build our first full stack app together in groups!
   </p>
   
   <ul type="none">
@@ -214,12 +214,11 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
+  | [Intro to Express](https://github.com/SEI-R-7-26/u2_lesson_express_intro) | [ERDs](https://github.com/SEI-R-7-26/u2_lesson_erd) | [Group Git](https://github.com/SEI-R-7-26/u2_lesson_group_git) | [Full Stackathon](https://github.com/SEI-R-7-26/u2_full_stackathon) | [Full Stackathon](https://github.com/SEI-R-7-26/u2_full_stackathon) | 
+  | [Express Routes](https://github.com/SEI-R-7-26/u2_lesson_express_routing) | [MongoDB](https://github.com/SEI-R-7-26/u2_lesson_mongodb) | [Mongoose Associations](https://github.com/SEI-R-7-26/u2_lesson_mongoose_associations) | []() | [Project 2 Prompt](https://github.com/SEI-R-7-26/u2_project_prompt) | 
+  | [Intro to Middleware](https://github.com/SEI-R-7-26/u2_lesson_express_middleware) | [MongoDB Sneakers Lab](https://github.com/SEI-R-7-26/u2_lab_mongodb_sneakers) | [Full Stackathon](https://github.com/SEI-R-7-26/u2_full_stackathon) | []() | []() | 
+  | [Express Controllers](https://github.com/SEI-R-7-26/u2_lesson_express_controllers) | [Mongoose Data Modeling](https://github.com/SEI-R-7-26/u2_lesson_mongoose_data_model) | []() | []() | []() | 
+  | [Express Fruits Homework](https://github.com/SEI-R-7-26/u2_hw_express_fruits) | [Mongoose / Express Lab](https://github.com/SEI-R-7-26/u2_lab_mongoose_express) | [Mongoose Plants Homework](https://github.com/SEI-R-7-26/u2_hw_mongoose_plants) | []() | []() |
   
   </p></details></li>
 
