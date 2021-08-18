@@ -215,10 +215,11 @@ ___
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
   | [Intro to Express](https://github.com/SEI-R-7-26/u2_lesson_express_intro) | [ERDs](https://github.com/SEI-R-7-26/u2_lesson_erd) | [Group Git](https://github.com/SEI-R-7-26/u2_lesson_group_git) | [Full Stackathon](https://github.com/SEI-R-7-26/u2_full_stackathon) | [Full Stackathon](https://github.com/SEI-R-7-26/u2_full_stackathon) | 
-  | [Express Routes](https://github.com/SEI-R-7-26/u2_lesson_express_routing) | [MongoDB](https://github.com/SEI-R-7-26/u2_lesson_mongodb) | [Mongoose Associations](https://github.com/SEI-R-7-26/u2_lesson_mongoose_associations) | []() | [Project 2 Prompt](https://github.com/SEI-R-7-26/u2_project_prompt) | 
-  | [Intro to Middleware](https://github.com/SEI-R-7-26/u2_lesson_express_middleware) | [MongoDB Sneakers Lab](https://github.com/SEI-R-7-26/u2_lab_mongodb_sneakers) | [Full Stackathon](https://github.com/SEI-R-7-26/u2_full_stackathon) | []() | []() | 
-  | [Express Controllers](https://github.com/SEI-R-7-26/u2_lesson_express_controllers) | [Mongoose Data Modeling](https://github.com/SEI-R-7-26/u2_lesson_mongoose_data_model) | []() | []() | []() | 
-  | [Express Fruits Homework](https://github.com/SEI-R-7-26/u2_hw_express_fruits) | [Mongoose / Express Lab](https://github.com/SEI-R-7-26/u2_lab_mongoose_express) | [Mongoose Plants Homework](https://github.com/SEI-R-7-26/u2_hw_mongoose_plants) | []() | []() |
+  | [Express Routes](https://github.com/SEI-R-7-26/u2_lesson_express_routing) | [MongoDB](https://github.com/SEI-R-7-26/u2_lesson_mongodb) | [Mongoose Associations](https://github.com/SEI-R-7-26/u2_lesson_mongoose_associations) |  | [Project 2 Prompt](https://github.com/SEI-R-7-26/u2_project_prompt) | 
+  | [Intro to Middleware](https://github.com/SEI-R-7-26/u2_lesson_express_middleware) | [MongoDB Sneakers Lab](https://github.com/SEI-R-7-26/u2_lab_mongodb_sneakers) | [Full Stackathon](https://github.com/SEI-R-7-26/u2_full_stackathon) |  |  | 
+  | [Express Controllers](https://github.com/SEI-R-7-26/u2_lesson_express_controllers) | [Mongoose Data Modeling](https://github.com/SEI-R-7-26/u2_lesson_mongoose_data_model) |  |  |  | 
+  | [Express Fruits Homework](https://github.com/SEI-R-7-26/u2_hw_express_fruits) | [Mongoose / Express Lab](https://github.com/SEI-R-7-26/u2_lab_mongoose_express) |  |  |  |
+  |  | [Mongoose Plants Homework](https://github.com/SEI-R-7-26/u2_hw_mongoose_plants) |  |  |  | 
   
   </p></details></li>
 
