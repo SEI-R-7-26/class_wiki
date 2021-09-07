@@ -228,8 +228,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/aVw3SneuW6HFDmp07MkY9bTBCjviKBvHxy4I0Udi5krd7p9gjZRPmSnq9NtcvQzq.o4Axkr6StI3m5ow7) | [Recording](https://generalassembly.zoom.us/rec/share/lz58Qsl4l6YV1xqX1fV2C9RKVUYLAn8otCJjaMSlULwx8GOvkyTKHPPEJpTMkm_k.FgaFM72LtBAx99dX) | [Recording]() | [Recording]() | [Recording]() |
-  | Passcode: `v7cw!K&4` | Passcode: `=xf7ffNE` | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/aVw3SneuW6HFDmp07MkY9bTBCjviKBvHxy4I0Udi5krd7p9gjZRPmSnq9NtcvQzq.o4Axkr6StI3m5ow7) | [Recording](https://generalassembly.zoom.us/rec/share/lz58Qsl4l6YV1xqX1fV2C9RKVUYLAn8otCJjaMSlULwx8GOvkyTKHPPEJpTMkm_k.FgaFM72LtBAx99dX) | No Recording | No Recording | No Recording |
+  | Passcode: `v7cw!K&4` | Passcode: `=xf7ffNE` |  |  |  |
 
   </p></details></li>
   
