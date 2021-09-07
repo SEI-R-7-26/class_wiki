@@ -247,7 +247,7 @@ ___
   <li><details><summary><strong>Week 7</strong></summary><p>
   
   <p>
-  Week 7 description...
+  In Week 7, we were introduced to <b>React Redux</b> as a new way to manage our state in React! We learned about <b>Reducers</b>, <b>Actions</b>, and <b>Types</b>. We also learned how to map our state and actions to props. We also learned how to use a middleware called <b>thunk</b> in conjunction with Redux. We were introduced to <b>SQL databases</b> and started to learn SQL commands to interact with our database.  We also learned about the concept of <b>SQL Joins</b>.
   </p>
   
   <ul type="none">
@@ -256,12 +256,11 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
+  | Labor Day | [Intro to Redux](https://github.com/SEI-R-7-26/u4_lesson_react_redux_intro) | [Redux Middleware](https://github.com/SEI-R-7-26/u4_lesson_redux_middleware) | [Intro to SQL](https://github.com/SEI-R-7-26/u3_lesson_SQL_Intro) | [Kahn Academy](https://www.khanacademy.org/computing/computer-programming/sql) |
+  |  | [Redux Reducers](https://github.com/SEI-R-7-26/u4_lesson_redux_reducers) | [Redux Movies Lab](https://github.com/SEI-R-7-26/u4_lab_redux_movies) | [SQL Practice Lab](https://github.com/SEI-R-7-26/u3_lab_SQL_Practice) | [SQL Codewars Homework](https://github.com/SEI-R-7-26/u3_hw_sql_codewars) |
+  |  | [Redux Actions & Types](https://github.com/SEI-R-7-26/u4_lesson_redux_actions_types) |  | [SQL Joins](https://github.com/SEI-R-7-26/u3_lesson_SQL_Joins) |  |
+  |  | [Redux Mapping State & Actions to Props](https://github.com/SEI-R-7-26/u4_lesson_mapping_state_props) |  | [SQL Joins Lab](https://github.com/SEI-R-7-26/u3_lab_SQL_Joins_Practice) |  |
+  |  | [Redux Quiz Homework](https://github.com/SEI-R-7-26/u4_hw_redux_quiz) |  | [Carmen Sandiego Homework](https://github.com/SEI-R-7-26/u3_hw_carmen_sandiego) |  |
   
   </p></details></li>
 
