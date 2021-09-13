@@ -282,7 +282,7 @@ ___
   <li><details><summary><strong>Week 8</strong></summary><p>
   
   <p>
-  Week 8 description...
+  In Week 8, we learned all about <b>Sequelize</b> and how it can interpret for our SQL database and our backend Node servers.  We learned how to make <b>queries</b>, <b>migrations</b>, and <b>associations</b>.  We also learned all about how to integrate <b>user authentication</b> in our apps.
   </p>
   
   <ul type="none">
@@ -291,12 +291,11 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
+  | [Database Design](https://github.com/SEI-R-7-26/u3_lesson_database_design) | [Sequelize Migrations](https://github.com/SEI-R-7-26/u3_lesson_sequelize_migrations) | [Express Sequelize Lab](https://github.com/SEI-R-7-26/u3_lesson_express_sequelize) | [JWT Auth](https://github.com/SEI-R-7-26/u3_lesson_JWT_auth) | [Project 3 Prompt](https://github.com/SEI-R-4-26/u3_project_prompt) | 
+  | [Intro to Sequelize](https://github.com/SEI-R-7-26/u3_lesson_sequelize_intro) | [Sequelize Migrations Lab](https://github.com/SEI-R-7-26/u3_lab_sequelize_migrations_exercise) | [Sequelize API from Scratch](https://github.com/SEI-R-7-26/u3_lab_sequelize_API_from_scratch) | [Sequelize Auth](https://github.com/SEI-R-7-26/u3_lesson_sequelize_auth) |  | 
+  | [Sequelize Queries](https://github.com/SEI-R-7-26/u3_lesson_sequelize_queries) | [Sequelize Associations](https://github.com/SEI-R-7-26/u3_lesson_sequelize_associations) | [Auth Study](https://github.com/SEI-R-7-26/u3_hw_jwt_auth_study) | [React Auth Lab](https://github.com/SEI-R-7-26/u3_lab_react_auth) |  | 
+  | [Sequelize Querying Lab](https://github.com/SEI-R-7-26/u3_lab_sequelize_querying) | [Sequelize Associations Lab](https://github.com/SEI-R-7-26/u3_lab_sequelize_associations_exercise) |  | [Sequelize Complex Associations Homework](https://github.com/SEI-R-7-26/u3_lesson_sequelize_complex_associations) |  | 
+  | [Sequelize Practice Homework](https://github.com/SEI-R-7-26/u3_hw_sequelize_practice) | [Associations & Migrations Homework](https://github.com/SEI-R-7-26/u3_hw_sequelize_associations_and_migrations) |  |  |  |
   
   </p></details></li>
 
