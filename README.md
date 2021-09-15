@@ -39,7 +39,7 @@ Below, you will find Class Policies and Requirements as laid out in Orientation 
 <li><details><summary><strong>Deliverable Submission Requirements</strong></summary><p>
   
 <ul>
-  <li>Deliverables must be submitted following the <a href="https://github.com/SEI-R-4-26/template_pull_request">PR Guidelines</a>.</li>
+  <li>Deliverables must be submitted following the <a href="https://github.com/SEI-R-7-26/template_pull_request">PR Guidelines</a>.</li>
   <li>Students must meet deliverable requirements for the submission to be marked as "Complete".</li>
   <li>Deliverables are <i>always</i> due the following class day at the beginning of class, unless otherwise stated.</li>
   <li>There is a grace period for re-submission or late submission.  All re-submits/late submits are due the <b>Monday following the week of assignment</b>.
@@ -291,7 +291,7 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Database Design](https://github.com/SEI-R-7-26/u3_lesson_database_design) | [Sequelize Migrations](https://github.com/SEI-R-7-26/u3_lesson_sequelize_migrations) | [Express Sequelize Lab](https://github.com/SEI-R-7-26/u3_lesson_express_sequelize) | [JWT Auth](https://github.com/SEI-R-7-26/u3_lesson_JWT_auth) | [Project 3 Prompt](https://github.com/SEI-R-4-26/u3_project_prompt) | 
+  | [Database Design](https://github.com/SEI-R-7-26/u3_lesson_database_design) | [Sequelize Migrations](https://github.com/SEI-R-7-26/u3_lesson_sequelize_migrations) | [Express Sequelize Lab](https://github.com/SEI-R-7-26/u3_lesson_express_sequelize) | [JWT Auth](https://github.com/SEI-R-7-26/u3_lesson_JWT_auth) | [Project 3 Prompt](https://github.com/SEI-R-7-26/u3_project_prompt) | 
   | [Intro to Sequelize](https://github.com/SEI-R-7-26/u3_lesson_sequelize_intro) | [Sequelize Migrations Lab](https://github.com/SEI-R-7-26/u3_lab_sequelize_migrations_exercise) | [Sequelize API from Scratch](https://github.com/SEI-R-7-26/u3_lab_sequelize_API_from_scratch) | [Sequelize Auth](https://github.com/SEI-R-7-26/u3_lesson_sequelize_auth) |  | 
   | [Sequelize Queries](https://github.com/SEI-R-7-26/u3_lesson_sequelize_queries) | [Sequelize Associations](https://github.com/SEI-R-7-26/u3_lesson_sequelize_associations) | [Auth Study Homework](https://github.com/SEI-R-7-26/u3_hw_jwt_auth_study) | [React Auth Lab](https://github.com/SEI-R-7-26/u3_lab_react_auth) |  | 
   | [Sequelize Querying Lab](https://github.com/SEI-R-7-26/u3_lab_sequelize_querying) | [Sequelize Associations Lab](https://github.com/SEI-R-7-26/u3_lab_sequelize_associations_exercise) |  | [Sequelize Complex Associations Homework](https://github.com/SEI-R-7-26/u3_lesson_sequelize_complex_associations) |  | 
