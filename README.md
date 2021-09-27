@@ -323,7 +323,7 @@ ___
   <li><details><summary><strong>Week 10</strong></summary><p>
   
   <p>
-  In Week 10, we learned a new framework called <b>Vue</b> and how it it set up differently than React and other libraries we've used. Later in the week, we were introduced to <b>Python</b> and learned about <b>functions</b>, <b>control flow</b>, <b>loops</b>, and <b>dictionaries</b>.
+  In Week 10, we learned a new framework called <b>Vue.js</b> and how it is set up differently than React and other libraries we've used. We learned how to use <b>State Methods</b>, <b>Directives</b>, <b>Events</b>, and <b>Emitters</b> in Vue. We also learned how to use <b>Vue with APIs</b>, and how to use <b>Vue Router</b> to direct our page. Later in the week, we were introduced to <b>Python</b> and learned about <b>functions</b>, <b>control flow</b>, <b>loops</b>, and <b>dictionaries</b>.
   </p>
   
   <ul type="none">
