@@ -368,11 +368,11 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Python Virtual Environments](https://github.com/SEI-R-7-26/u4_lesson_python_virtual_environments) | []() | []() | []() | []() | 
-  | [Python Tuples](https://github.com/SEI-R-7-26/u4_lesson_python_tuples) | []() | []() | []() | []() | 
-  | [Tuple Exercise Lab](https://github.com/SEI-R-7-26/u4_lab_python_tuple_exercise) | []() | []() | []() | []() | 
-  | [Python OOP](https://github.com/SEI-R-7-26/u4_lesson_python_oop) |  |  |  |  | 
-  | [Flask Intro](https://github.com/SEI-R-7-26/u4_lesson_python_flask_intro) |  |  |  |  | 
+  | [Python Virtual Environments](https://github.com/SEI-R-7-26/u4_lesson_python_virtual_environments) | [Simple Flask API Lab](https://github.com/SEI-R-7-26/u4_lab_simple_flask_API) | [Flask Quiz](https://github.com/SEI-R-7-26/u4_lab_flask_quiz) | [Flask Auth](https://github.com/SEI-R-7-26/u4_lesson_flask_auth) | [Continue Flaskathon](https://github.com/SEI-R-7-26/u4_flaskathon) | 
+  | [Python Tuples](https://github.com/SEI-R-7-26/u4_lesson_python_tuples) | [Flask Resources](https://github.com/SEI-R-7-26/u4_lesson_flask_resources) | [Flask API Lab/Homework](https://github.com/SEI-R-7-26/u4_lab_flask_API) | [Flaskathon](https://github.com/SEI-R-7-26/u4_flaskathon) | [Project 4 Prompt](https://github.com/SEI-R-7-26/u4_project_prompt) | 
+  | [Tuple Exercise Lab](https://github.com/SEI-R-7-26/u4_lab_python_tuple_exercise) | [Flask Resources Lab](https://github.com/SEI-R-7-26/u4_lab_flask_resources_lab) |  |  |  | 
+  | [Python OOP](https://github.com/SEI-R-7-26/u4_lesson_python_oop) | [Flask SQLAlchemy](https://github.com/SEI-R-7-26/u4_lesson_flask_sqlalchemy) |  |  |  | 
+  | [Flask Intro](https://github.com/SEI-R-7-26/u4_lesson_python_flask_intro) | [Flask Associations](https://github.com/SEI-R-7-26/u4_lab_flask_associations) |  |  |  | 
   | [CSV Parser Lab](https://github.com/SEI-R-7-26/u4_hw_python_csv_parser) |  |  |  |  | 
   | [Python Smash Bros. Homework](https://github.com/SEI-R-7-26/u4_hw_python_smash_bros) |  |  |  |  |
   
