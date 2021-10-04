@@ -346,8 +346,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/61VTYDMN6N0aSmpUMgegiM9RY_LUixSZe3uhwwBvHb95phR58_CuaZIVpzIYrZk.M5djgmRoxkc69T1f) | [Recording](https://generalassembly.zoom.us/rec/share/2MFI-wAUj-TZp_phdXfGAr2p-js_SqVG6eUUsaon2hSr15d-3kHJz5Y9u_tOJlQV.B6WSURzdLN3NasMC) | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/u2ZIgWwFExJBvrPOJLJUW3qoTf9n5kf3xAxN3Q2-kht26jWSeJ6mWtZHZdtwSUnp.Fj9I4D5TZ8osQnuW) | [Recording]() |
-  | Passcode: `*3@?80ZB` | Passcode: `D8#tK?+a` |  | Passcode: `9tup?1Pu` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/61VTYDMN6N0aSmpUMgegiM9RY_LUixSZe3uhwwBvHb95phR58_CuaZIVpzIYrZk.M5djgmRoxkc69T1f) | [Recording](https://generalassembly.zoom.us/rec/share/2MFI-wAUj-TZp_phdXfGAr2p-js_SqVG6eUUsaon2hSr15d-3kHJz5Y9u_tOJlQV.B6WSURzdLN3NasMC) | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/u2ZIgWwFExJBvrPOJLJUW3qoTf9n5kf3xAxN3Q2-kht26jWSeJ6mWtZHZdtwSUnp.Fj9I4D5TZ8osQnuW) | [Recording](https://generalassembly.zoom.us/rec/share/z05ksA-au3nb34Ngh5Ht7bK31WXUEsA95lC6rIX9U62N2K3WaHaKucxJaikt0Mem.MGz3mEzE_nD3sbRh) |
+  | Passcode: `*3@?80ZB` | Passcode: `D8#tK?+a` |  | Passcode: `9tup?1Pu` | Passcode: `dA0YkE6&` |
 
   </p></details></li>
   
@@ -359,7 +359,7 @@ ___
   <li><details><summary><strong>Week 11</strong></summary><p>
   
   <p>
-  Week 11 description...
+  In Week 11, we continued with Python by learning about <b>Virtual Environments</b>, <b>tuples</b>, and <b>OOP in Python</b>.  We then got a quick intro to <b>Flask</b> and setting up <b>Flask Resources</b>, how to use <b>Flask SQL Alchemy</b>, and how to set up <b>Auth in Flask</b>. At the end of the week, we got to participate in a <b>Flaskathon</b>!
   </p>
   
   <ul type="none">
@@ -368,12 +368,13 @@ ___
   
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
-  |  |  |  |  |  | 
+  | [Python Virtual Environments](https://github.com/SEI-R-7-26/u4_lesson_python_virtual_environments) | []() | []() | []() | []() | 
+  | [Python Tuples](https://github.com/SEI-R-7-26/u4_lesson_python_tuples) | []() | []() | []() | []() | 
+  | [Tuple Exercise Lab](https://github.com/SEI-R-7-26/u4_lab_python_tuple_exercise) | []() | []() | []() | []() | 
+  | [Python OOP](https://github.com/SEI-R-7-26/u4_lesson_python_oop) |  |  |  |  | 
+  | [Flask Intro](https://github.com/SEI-R-7-26/u4_lesson_python_flask_intro) |  |  |  |  | 
+  | [CSV Parser Lab](https://github.com/SEI-R-7-26/u4_hw_python_csv_parser) |  |  |  |  | 
+  | [Python Smash Bros. Homework](https://github.com/SEI-R-7-26/u4_hw_python_smash_bros) |  |  |  |  |
   
   </p></details></li>
 
