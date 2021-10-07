@@ -383,8 +383,8 @@ ___
 
   | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/-fi1o0TgrQz6qSIYcC5LImrZLiIgVXIxp9qqkaUKPyP9GBbCiwkb9mBhVBLmbjbu.MCpzq7zMOOZE-AoI) | [Recording](https://generalassembly.zoom.us/rec/share/wyunq3yTTz51libgb4Zd0-yAJDwfRD8mQUL_vFl-U41f9zDYy7DkYWdQ9J9AtaGo.NwKsBYEmy3bHgXPo) | No Recording | [Recording]() | [Recording]() |
-  | Passcode: `CKQ6+X6t` | Passcode: `Dd3jZ&W+` |  | Passcode: ` ` | Passcode: ` ` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/-fi1o0TgrQz6qSIYcC5LImrZLiIgVXIxp9qqkaUKPyP9GBbCiwkb9mBhVBLmbjbu.MCpzq7zMOOZE-AoI) | [Recording](https://generalassembly.zoom.us/rec/share/wyunq3yTTz51libgb4Zd0-yAJDwfRD8mQUL_vFl-U41f9zDYy7DkYWdQ9J9AtaGo.NwKsBYEmy3bHgXPo) | No Recording | No Recording | No Recording |
+  | Passcode: `CKQ6+X6t` | Passcode: `Dd3jZ&W+` |  |  |  |
 
   </p></details></li>
   
